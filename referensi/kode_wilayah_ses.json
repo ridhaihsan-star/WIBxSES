@@ -1,0 +1,3907 @@
+{
+ "sumber": "Table Wilayah SES Group.xlsx",
+ "provinsi": [
+  {
+   "kode": "01",
+   "nama": "DKI JAKARTA",
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "KEPULAUAN SERIBU",
+     "tampil": "Kabupaten Kepulauan Seribu",
+     "wib_kode": "01"
+    },
+    {
+     "kode": "02",
+     "jenis": "KOTA",
+     "nama": "JAKARTA BARAT",
+     "tampil": "Kota Jakarta Barat",
+     "wib_kode": "02"
+    },
+    {
+     "kode": "03",
+     "jenis": "KOTA",
+     "nama": "JAKARTA PUSAT",
+     "tampil": "Kota Jakarta Pusat",
+     "wib_kode": "03"
+    },
+    {
+     "kode": "04",
+     "jenis": "KOTA",
+     "nama": "JAKARTA SELATAN",
+     "tampil": "Kota Jakarta Selatan",
+     "wib_kode": "04"
+    },
+    {
+     "kode": "05",
+     "jenis": "KOTA",
+     "nama": "JAKARTA TIMUR",
+     "tampil": "Kota Jakarta Timur",
+     "wib_kode": "05"
+    },
+    {
+     "kode": "06",
+     "jenis": "KOTA",
+     "nama": "JAKARTA UTARA",
+     "tampil": "Kota Jakarta Utara",
+     "wib_kode": "06"
+    }
+   ],
+   "wib_kode": "16",
+   "tampil": "DKI Jakarta"
+  },
+  {
+   "kode": "02",
+   "nama": "SUMATERA UTARA",
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "ASAHAN",
+     "tampil": "Kabupaten Asahan",
+     "wib_kode": "01"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "BATUBARA",
+     "tampil": "Kabupaten Batubara",
+     "wib_kode": "02"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "DAIRI",
+     "tampil": "Kabupaten Dairi",
+     "wib_kode": "03"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "DELI SERDANG",
+     "tampil": "Kabupaten Deli Serdang",
+     "wib_kode": "04"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "HUMBANG HASUNDUTAN",
+     "tampil": "Kabupaten Humbang Hasundutan",
+     "wib_kode": "05"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "KARO",
+     "tampil": "Kabupaten Karo",
+     "wib_kode": "06"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "LABUHAN BATU",
+     "tampil": "Kabupaten Labuhan Batu",
+     "wib_kode": "07"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "LABUHAN BATU SELATAN",
+     "tampil": "Kabupaten Labuhan Batu Selatan",
+     "wib_kode": "08"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "LABUHAN BATU UTARA",
+     "tampil": "Kabupaten Labuhan Batu Utara",
+     "wib_kode": "09"
+    },
+    {
+     "kode": "10",
+     "jenis": "KABUPATEN",
+     "nama": "LANGKAT",
+     "tampil": "Kabupaten Langkat",
+     "wib_kode": "10"
+    },
+    {
+     "kode": "11",
+     "jenis": "KABUPATEN",
+     "nama": "MANDAILING NATAL",
+     "tampil": "Kabupaten Mandailing Natal",
+     "wib_kode": "11"
+    },
+    {
+     "kode": "12",
+     "jenis": "KABUPATEN",
+     "nama": "NIAS",
+     "tampil": "Kabupaten Nias",
+     "wib_kode": "12"
+    },
+    {
+     "kode": "13",
+     "jenis": "KABUPATEN",
+     "nama": "NIAS BARAT",
+     "tampil": "Kabupaten Nias Barat",
+     "wib_kode": "13"
+    },
+    {
+     "kode": "14",
+     "jenis": "KABUPATEN",
+     "nama": "NIAS SELATAN",
+     "tampil": "Kabupaten Nias Selatan",
+     "wib_kode": "14"
+    },
+    {
+     "kode": "15",
+     "jenis": "KABUPATEN",
+     "nama": "NIAS UTARA",
+     "tampil": "Kabupaten Nias Utara",
+     "wib_kode": "15"
+    },
+    {
+     "kode": "16",
+     "jenis": "KABUPATEN",
+     "nama": "PADANG LAWAS",
+     "tampil": "Kabupaten Padang Lawas",
+     "wib_kode": "16"
+    },
+    {
+     "kode": "17",
+     "jenis": "KABUPATEN",
+     "nama": "PADANG LAWAS UTARA",
+     "tampil": "Kabupaten Padang Lawas Utara",
+     "wib_kode": "17"
+    },
+    {
+     "kode": "18",
+     "jenis": "KABUPATEN",
+     "nama": "PAKPAK BHARAT",
+     "tampil": "Kabupaten Pakpak Bharat",
+     "wib_kode": "18"
+    },
+    {
+     "kode": "19",
+     "jenis": "KABUPATEN",
+     "nama": "SAMOSIR",
+     "tampil": "Kabupaten Samosir",
+     "wib_kode": "19"
+    },
+    {
+     "kode": "20",
+     "jenis": "KABUPATEN",
+     "nama": "SERDANG BEDAGAI",
+     "tampil": "Kabupaten Serdang Bedagai",
+     "wib_kode": "20"
+    },
+    {
+     "kode": "21",
+     "jenis": "KABUPATEN",
+     "nama": "SIMALUNGUN",
+     "tampil": "Kabupaten Simalungun",
+     "wib_kode": "21"
+    },
+    {
+     "kode": "22",
+     "jenis": "KABUPATEN",
+     "nama": "TAPANULI SELATAN",
+     "tampil": "Kabupaten Tapanuli Selatan",
+     "wib_kode": "22"
+    },
+    {
+     "kode": "23",
+     "jenis": "KABUPATEN",
+     "nama": "TAPANULI TENGAH",
+     "tampil": "Kabupaten Tapanuli Tengah",
+     "wib_kode": "23"
+    },
+    {
+     "kode": "24",
+     "jenis": "KABUPATEN",
+     "nama": "TAPANULI UTARA",
+     "tampil": "Kabupaten Tapanuli Utara",
+     "wib_kode": "24"
+    },
+    {
+     "kode": "25",
+     "jenis": "KABUPATEN",
+     "nama": "TOBA",
+     "tampil": "Kabupaten Toba",
+     "wib_kode": "25"
+    },
+    {
+     "kode": "26",
+     "jenis": "KOTA",
+     "nama": "BINJAI",
+     "tampil": "Kota Binjai",
+     "wib_kode": "26"
+    },
+    {
+     "kode": "27",
+     "jenis": "KOTA",
+     "nama": "GUNUNG SITOLI",
+     "tampil": "Kota Gunung Sitoli",
+     "wib_kode": "27"
+    },
+    {
+     "kode": "28",
+     "jenis": "KOTA",
+     "nama": "MEDAN",
+     "tampil": "Kota Medan",
+     "wib_kode": "28"
+    },
+    {
+     "kode": "29",
+     "jenis": "KOTA",
+     "nama": "PADANGSIDIMPUAN",
+     "tampil": "Kota Padangsidimpuan",
+     "wib_kode": "29"
+    },
+    {
+     "kode": "30",
+     "jenis": "KOTA",
+     "nama": "PEMATANG SIANTAR",
+     "tampil": "Kota Pematang Siantar",
+     "wib_kode": "30"
+    },
+    {
+     "kode": "31",
+     "jenis": "KOTA",
+     "nama": "SIBOLGA",
+     "tampil": "Kota Sibolga",
+     "wib_kode": "31"
+    },
+    {
+     "kode": "32",
+     "jenis": "KOTA",
+     "nama": "TANJUNG BALAI",
+     "tampil": "Kota Tanjung Balai",
+     "wib_kode": "32"
+    },
+    {
+     "kode": "33",
+     "jenis": "KOTA",
+     "nama": "TEBING TINGGI",
+     "tampil": "Kota Tebing Tinggi",
+     "wib_kode": "33"
+    }
+   ],
+   "wib_kode": "02",
+   "tampil": "Sumatra Utara"
+  },
+  {
+   "kode": "03",
+   "nama": "BANTEN",
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "LEBAK",
+     "tampil": "Kabupaten Lebak",
+     "wib_kode": "01"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "PANDEGLAN",
+     "tampil": "Kabupaten Pandeglan",
+     "wib_kode": "02"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "SERANG",
+     "tampil": "Kabupaten Serang",
+     "wib_kode": "03"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "TANGGERANG",
+     "tampil": "Kabupaten Tanggerang",
+     "wib_kode": "04"
+    },
+    {
+     "kode": "05",
+     "jenis": "KOTA",
+     "nama": "CILEGON",
+     "tampil": "Kota Cilegon",
+     "wib_kode": "05"
+    },
+    {
+     "kode": "06",
+     "jenis": "KOTA",
+     "nama": "SERANG",
+     "tampil": "Kota Serang",
+     "wib_kode": "06"
+    },
+    {
+     "kode": "07",
+     "jenis": "KOTA",
+     "nama": "TANGERANG",
+     "tampil": "Kota Tangerang",
+     "wib_kode": "07"
+    },
+    {
+     "kode": "08",
+     "jenis": "KOTA",
+     "nama": "TANGERANG SELATAN",
+     "tampil": "Kota Tangerang Selatan",
+     "wib_kode": "08"
+    }
+   ],
+   "wib_kode": "17",
+   "tampil": "Banten"
+  },
+  {
+   "kode": "04",
+   "nama": "SUMATERA BARAT",
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "AGAM",
+     "tampil": "Kabupaten Agam",
+     "wib_kode": "01"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "DHAMASRAYA",
+     "tampil": "Kabupaten Dhamasraya",
+     "wib_kode": "02"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "KEPULAUAN MENTAWAI",
+     "tampil": "Kabupaten Kepulauan Mentawai",
+     "wib_kode": "03"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "LIMA PULAU KOTA",
+     "tampil": "Kabupaten Lima Pulau Kota",
+     "wib_kode": "04"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "PADANG PARIAMAN",
+     "tampil": "Kabupaten Padang Pariaman",
+     "wib_kode": "05"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "PASAMAN",
+     "tampil": "Kabupaten Pasaman",
+     "wib_kode": "06"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "PASAMAN BARAT",
+     "tampil": "Kabupaten Pasaman Barat",
+     "wib_kode": "07"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "PESISIR SELATAN",
+     "tampil": "Kabupaten Pesisir Selatan",
+     "wib_kode": "08"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "SIJUNJUNG",
+     "tampil": "Kabupaten Sijunjung",
+     "wib_kode": "09"
+    },
+    {
+     "kode": "10",
+     "jenis": "KABUPATEN",
+     "nama": "SOLOK",
+     "tampil": "Kabupaten Solok",
+     "wib_kode": "10"
+    },
+    {
+     "kode": "11",
+     "jenis": "KABUPATEN",
+     "nama": "SOLOK SELATAN",
+     "tampil": "Kabupaten Solok Selatan",
+     "wib_kode": "11"
+    },
+    {
+     "kode": "12",
+     "jenis": "KABUPATEN",
+     "nama": "TANAH DATAR",
+     "tampil": "Kabupaten Tanah Datar",
+     "wib_kode": "12"
+    },
+    {
+     "kode": "13",
+     "jenis": "KOTA",
+     "nama": "BUKIT TINGGI",
+     "tampil": "Kota Bukit Tinggi",
+     "wib_kode": "13"
+    },
+    {
+     "kode": "14",
+     "jenis": "KOTA",
+     "nama": "PADANG",
+     "tampil": "Kota Padang",
+     "wib_kode": "14"
+    },
+    {
+     "kode": "15",
+     "jenis": "KOTA",
+     "nama": "PADANG PANJANG",
+     "tampil": "Kota Padang Panjang",
+     "wib_kode": "15"
+    },
+    {
+     "kode": "16",
+     "jenis": "KOTA",
+     "nama": "PARIAMAN",
+     "tampil": "Kota Pariaman",
+     "wib_kode": "16"
+    },
+    {
+     "kode": "17",
+     "jenis": "KOTA",
+     "nama": "PAYAKUMBUH",
+     "tampil": "Kota Payakumbuh",
+     "wib_kode": "17"
+    },
+    {
+     "kode": "18",
+     "jenis": "KOTA",
+     "nama": "SAWAH LUNTO",
+     "tampil": "Kota Sawah Lunto",
+     "wib_kode": "18"
+    },
+    {
+     "kode": "19",
+     "jenis": "KOTA",
+     "nama": "SOLOK",
+     "tampil": "Kota Solok",
+     "wib_kode": "19"
+    }
+   ],
+   "wib_kode": "04",
+   "tampil": "Sumatra Barat"
+  },
+  {
+   "kode": "05",
+   "nama": "JAWA BARAT",
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BANDUNG",
+     "tampil": "Kabupaten Bandung",
+     "wib_kode": "01"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "BANDUNG BARAT",
+     "tampil": "Kabupaten Bandung Barat",
+     "wib_kode": "02"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "BEKASI",
+     "tampil": "Kabupaten Bekasi",
+     "wib_kode": "03"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "BOGOR",
+     "tampil": "Kabupaten Bogor",
+     "wib_kode": "04"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "CIAMIS",
+     "tampil": "Kabupaten Ciamis",
+     "wib_kode": "05"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "CIANJUR",
+     "tampil": "Kabupaten Cianjur",
+     "wib_kode": "06"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "CIREBON",
+     "tampil": "Kabupaten Cirebon",
+     "wib_kode": "07"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "GARUT",
+     "tampil": "Kabupaten Garut",
+     "wib_kode": "08"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "INDRAMAYU",
+     "tampil": "Kabupaten Indramayu",
+     "wib_kode": "09"
+    },
+    {
+     "kode": "10",
+     "jenis": "KABUPATEN",
+     "nama": "KARAWANG",
+     "tampil": "Kabupaten Karawang",
+     "wib_kode": "10"
+    },
+    {
+     "kode": "11",
+     "jenis": "KABUPATEN",
+     "nama": "KUNINGAN",
+     "tampil": "Kabupaten Kuningan",
+     "wib_kode": "11"
+    },
+    {
+     "kode": "12",
+     "jenis": "KABUPATEN",
+     "nama": "MAJALENGKA",
+     "tampil": "Kabupaten Majalengka",
+     "wib_kode": "12"
+    },
+    {
+     "kode": "13",
+     "jenis": "KABUPATEN",
+     "nama": "PANGANDARAN",
+     "tampil": "Kabupaten Pangandaran",
+     "wib_kode": "13"
+    },
+    {
+     "kode": "14",
+     "jenis": "KABUPATEN",
+     "nama": "PURWAKARTA",
+     "tampil": "Kabupaten Purwakarta",
+     "wib_kode": "14"
+    },
+    {
+     "kode": "15",
+     "jenis": "KABUPATEN",
+     "nama": "SUBANG",
+     "tampil": "Kabupaten Subang",
+     "wib_kode": "15"
+    },
+    {
+     "kode": "16",
+     "jenis": "KABUPATEN",
+     "nama": "SUKABUMI",
+     "tampil": "Kabupaten Sukabumi",
+     "wib_kode": "16"
+    },
+    {
+     "kode": "17",
+     "jenis": "KABUPATEN",
+     "nama": "SUMEDANG",
+     "tampil": "Kabupaten Sumedang",
+     "wib_kode": "17"
+    },
+    {
+     "kode": "18",
+     "jenis": "KABUPATEN",
+     "nama": "TASIKMALAYA",
+     "tampil": "Kabupaten Tasikmalaya",
+     "wib_kode": "18"
+    },
+    {
+     "kode": "19",
+     "jenis": "KOTA",
+     "nama": "BANDUNG",
+     "tampil": "Kota Bandung",
+     "wib_kode": "19"
+    },
+    {
+     "kode": "20",
+     "jenis": "KOTA",
+     "nama": "BANJAR",
+     "tampil": "Kota Banjar",
+     "wib_kode": "20"
+    },
+    {
+     "kode": "21",
+     "jenis": "KOTA",
+     "nama": "BEKASI",
+     "tampil": "Kota Bekasi",
+     "wib_kode": "21"
+    },
+    {
+     "kode": "22",
+     "jenis": "KOTA",
+     "nama": "BOGOR",
+     "tampil": "Kota Bogor",
+     "wib_kode": "22"
+    },
+    {
+     "kode": "23",
+     "jenis": "KOTA",
+     "nama": "CIMAHI",
+     "tampil": "Kota Cimahi",
+     "wib_kode": "23"
+    },
+    {
+     "kode": "24",
+     "jenis": "KOTA",
+     "nama": "CIREBON",
+     "tampil": "Kota Cirebon",
+     "wib_kode": "24"
+    },
+    {
+     "kode": "25",
+     "jenis": "KOTA",
+     "nama": "DEPOK",
+     "tampil": "Kota Depok",
+     "wib_kode": "25"
+    },
+    {
+     "kode": "26",
+     "jenis": "KOTA",
+     "nama": "SUKABUMI",
+     "tampil": "Kota Sukabumi",
+     "wib_kode": "26"
+    },
+    {
+     "kode": "27",
+     "jenis": "KOTA",
+     "nama": "TASIKMALAYA",
+     "tampil": "Kota Tasikmalaya",
+     "wib_kode": "27"
+    }
+   ],
+   "wib_kode": "18",
+   "tampil": "Jawa Barat"
+  },
+  {
+   "kode": "06",
+   "nama": "RIAU",
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BENGKALIS",
+     "tampil": "Kabupaten Bengkalis",
+     "wib_kode": "01"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "INDRAGIRI HILIR",
+     "tampil": "Kabupaten Indragiri Hilir",
+     "wib_kode": "02"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "INDRAGIRI HULU",
+     "tampil": "Kabupaten Indragiri Hulu",
+     "wib_kode": "03"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "KAMPAR",
+     "tampil": "Kabupaten Kampar",
+     "wib_kode": "04"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "KEPULAUAN MERANTI",
+     "tampil": "Kabupaten Kepulauan Meranti",
+     "wib_kode": "05"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "KUANTAN SINGINGI",
+     "tampil": "Kabupaten Kuantan Singingi",
+     "wib_kode": "06"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "PELALAWAN",
+     "tampil": "Kabupaten Pelalawan",
+     "wib_kode": "07"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "ROKAN HILIR",
+     "tampil": "Kabupaten Rokan Hilir",
+     "wib_kode": "08"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "ROKAN HULU",
+     "tampil": "Kabupaten Rokan Hulu",
+     "wib_kode": "09"
+    },
+    {
+     "kode": "10",
+     "jenis": "KABUPATEN",
+     "nama": "SIAK",
+     "tampil": "Kabupaten Siak",
+     "wib_kode": "10"
+    },
+    {
+     "kode": "11",
+     "jenis": "KOTA",
+     "nama": "DUMAI",
+     "tampil": "Kota Dumai",
+     "wib_kode": "11"
+    },
+    {
+     "kode": "12",
+     "jenis": "KOTA",
+     "nama": "PEKANBARU",
+     "tampil": "Kota Pekanbaru",
+     "wib_kode": "12"
+    }
+   ],
+   "wib_kode": "06",
+   "tampil": "Riau"
+  },
+  {
+   "kode": "07",
+   "nama": "KEPULAUAN RIAU",
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BINTAN",
+     "tampil": "Kabupaten Bintan",
+     "wib_kode": "01"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "KARIMUN",
+     "tampil": "Kabupaten Karimun",
+     "wib_kode": "02"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "KEPULAUAN ANAMBAS",
+     "tampil": "Kabupaten Kepulauan Anambas",
+     "wib_kode": "03"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "LINGGA",
+     "tampil": "Kabupaten Lingga",
+     "wib_kode": "04"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "NATUNA",
+     "tampil": "Kabupaten Natuna",
+     "wib_kode": "05"
+    },
+    {
+     "kode": "06",
+     "jenis": "KOTA",
+     "nama": "BATAM",
+     "tampil": "Kota Batam",
+     "wib_kode": "06"
+    },
+    {
+     "kode": "07",
+     "jenis": "KOTA",
+     "nama": "TANJUNG PINANG",
+     "tampil": "Kota Tanjung Pinang",
+     "wib_kode": "07"
+    }
+   ],
+   "wib_kode": "07",
+   "tampil": "Kepulauan Riau"
+  },
+  {
+   "kode": "08",
+   "nama": "JAMBI",
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BATANGHARI",
+     "tampil": "Kabupaten Batanghari",
+     "wib_kode": "01"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "BUNGO",
+     "tampil": "Kabupaten Bungo",
+     "wib_kode": "02"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "KERINCI",
+     "tampil": "Kabupaten Kerinci",
+     "wib_kode": "03"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "MERANGIN",
+     "tampil": "Kabupaten Merangin",
+     "wib_kode": "04"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "MUORO JAMBI",
+     "tampil": "Kabupaten Muoro Jambi",
+     "wib_kode": "05"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "SAROLANGUN",
+     "tampil": "Kabupaten Sarolangun",
+     "wib_kode": "06"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "TANJUNG JABUNG BARAT",
+     "tampil": "Kabupaten Tanjung Jabung Barat",
+     "wib_kode": "07"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "TANJUNG JABUNG TIMUR",
+     "tampil": "Kabupaten Tanjung Jabung Timur",
+     "wib_kode": "08"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "TEBO",
+     "tampil": "Kabupaten Tebo",
+     "wib_kode": "09"
+    },
+    {
+     "kode": "10",
+     "jenis": "KOTA",
+     "nama": "JAMBI",
+     "tampil": "Kota Jambi",
+     "wib_kode": "10"
+    },
+    {
+     "kode": "11",
+     "jenis": "KOTA",
+     "nama": "SUNGAI PENUH",
+     "tampil": "Kota Sungai Penuh",
+     "wib_kode": "11"
+    }
+   ],
+   "wib_kode": "08",
+   "tampil": "Jambi"
+  },
+  {
+   "kode": "09",
+   "nama": "LAMPUNG",
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "LAMPUNG BARAT",
+     "tampil": "Kabupaten Lampung Barat",
+     "wib_kode": "01"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "LAMPUNG SELATAN",
+     "tampil": "Kabupaten Lampung Selatan",
+     "wib_kode": "02"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "LAMPUNG TENGAH",
+     "tampil": "Kabupaten Lampung Tengah",
+     "wib_kode": "03"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "LAMPUNG TIMUR",
+     "tampil": "Kabupaten Lampung Timur",
+     "wib_kode": "04"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "LAMPUNG UTARA",
+     "tampil": "Kabupaten Lampung Utara",
+     "wib_kode": "05"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "MESUJI",
+     "tampil": "Kabupaten Mesuji",
+     "wib_kode": "06"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "PESAWARAN",
+     "tampil": "Kabupaten Pesawaran",
+     "wib_kode": "07"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "PESISIR BARAT",
+     "tampil": "Kabupaten Pesisir Barat",
+     "wib_kode": "08"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "PRINGSEWU",
+     "tampil": "Kabupaten Pringsewu",
+     "wib_kode": "09"
+    },
+    {
+     "kode": "10",
+     "jenis": "KABUPATEN",
+     "nama": "TANGGAMUS",
+     "tampil": "Kabupaten Tanggamus",
+     "wib_kode": "10"
+    },
+    {
+     "kode": "11",
+     "jenis": "KABUPATEN",
+     "nama": "TULANG BAWANG",
+     "tampil": "Kabupaten Tulang Bawang",
+     "wib_kode": "11"
+    },
+    {
+     "kode": "12",
+     "jenis": "KABUPATEN",
+     "nama": "TULANG BAWANG BARAT",
+     "tampil": "Kabupaten Tulang Bawang Barat",
+     "wib_kode": "12"
+    },
+    {
+     "kode": "13",
+     "jenis": "KABUPATEN",
+     "nama": "WAY KANAN",
+     "tampil": "Kabupaten Way Kanan",
+     "wib_kode": "13"
+    },
+    {
+     "kode": "14",
+     "jenis": "KOTA",
+     "nama": "BANDAR LAMPUNG",
+     "tampil": "Kota Bandar Lampung",
+     "wib_kode": "14"
+    },
+    {
+     "kode": "15",
+     "jenis": "KOTA",
+     "nama": "METRO",
+     "tampil": "Kota Metro",
+     "wib_kode": "15"
+    }
+   ],
+   "wib_kode": "09",
+   "tampil": "Lampung"
+  },
+  {
+   "kode": "10",
+   "nama": "NUSA TENGGARA BARAT",
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "LOMBOK BARAT",
+     "tampil": "Kabupaten Lombok Barat",
+     "wib_kode": "01"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "LOMBOK TENGAH",
+     "tampil": "Kabupaten Lombok Tengah",
+     "wib_kode": "02"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "LOMBOK TIMUR",
+     "tampil": "Kabupaten Lombok Timur",
+     "wib_kode": "03"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "SUMBAWA",
+     "tampil": "Kabupaten Sumbawa",
+     "wib_kode": "04"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "DOMPU",
+     "tampil": "Kabupaten Dompu",
+     "wib_kode": "05"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "BIMA",
+     "tampil": "Kabupaten Bima",
+     "wib_kode": "06"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "SUMBAWA BARAT",
+     "tampil": "Kabupaten Sumbawa Barat",
+     "wib_kode": "07"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "LOMBOK UTARA",
+     "tampil": "Kabupaten Lombok Utara",
+     "wib_kode": "08"
+    },
+    {
+     "kode": "09",
+     "jenis": "KOTA",
+     "nama": "MATARAM",
+     "tampil": "Kota Mataram",
+     "wib_kode": "09"
+    },
+    {
+     "kode": "10",
+     "jenis": "KOTA",
+     "nama": "BIMA",
+     "tampil": "Kota Bima",
+     "wib_kode": "10"
+    }
+   ],
+   "wib_kode": "23",
+   "tampil": "Nusa Tenggara Barat"
+  },
+  {
+   "kode": "11",
+   "nama": "KALIMANTAN TIMUR",
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BERAU",
+     "tampil": "Kabupaten Berau",
+     "wib_kode": "01"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "KUTAI BARAT",
+     "tampil": "Kabupaten Kutai Barat",
+     "wib_kode": "02"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "KUTAI KARTANEGARA",
+     "tampil": "Kabupaten Kutai Kartanegara",
+     "wib_kode": "03"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "KUTAI TIMUR",
+     "tampil": "Kabupaten Kutai Timur",
+     "wib_kode": "04"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "MAHAKAN ULU",
+     "tampil": "Kabupaten Mahakan Ulu",
+     "wib_kode": "05"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "PASER",
+     "tampil": "Kabupaten Paser",
+     "wib_kode": "06"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "PENAJAM PASER UTARA",
+     "tampil": "Kabupaten Penajam Paser Utara",
+     "wib_kode": "07"
+    },
+    {
+     "kode": "08",
+     "jenis": "KOTA",
+     "nama": "BALIKPAPAN",
+     "tampil": "Kota Balikpapan",
+     "wib_kode": "08"
+    },
+    {
+     "kode": "09",
+     "jenis": "KOTA",
+     "nama": "BONTANG",
+     "tampil": "Kota Bontang",
+     "wib_kode": "09"
+    },
+    {
+     "kode": "10",
+     "jenis": "KOTA",
+     "nama": "SAMARINDA",
+     "tampil": "Kota Samarinda",
+     "wib_kode": "10"
+    }
+   ],
+   "wib_kode": "11",
+   "tampil": "Kalimantan Timur"
+  },
+  {
+   "kode": "12",
+   "nama": "KALIMANTAN BARAT",
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BENGKAYANG",
+     "tampil": "Kabupaten Bengkayang",
+     "wib_kode": "01"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "KAPUAS HULU",
+     "tampil": "Kabupaten Kapuas Hulu",
+     "wib_kode": "02"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "KAYONG UTARA",
+     "tampil": "Kabupaten Kayong Utara",
+     "wib_kode": "03"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "KETAPANG",
+     "tampil": "Kabupaten Ketapang",
+     "wib_kode": "04"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "KUBU RAYA",
+     "tampil": "Kabupaten Kubu Raya",
+     "wib_kode": "05"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "LANDAK",
+     "tampil": "Kabupaten Landak",
+     "wib_kode": "06"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "MELAWI",
+     "tampil": "Kabupaten MelawI",
+     "wib_kode": "07"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "MEMPAWAH",
+     "tampil": "Kabupaten Mempawah",
+     "wib_kode": "08"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "SAMBAS",
+     "tampil": "Kabupaten Sambas",
+     "wib_kode": "09"
+    },
+    {
+     "kode": "10",
+     "jenis": "KABUPATEN",
+     "nama": "SANGGAU",
+     "tampil": "Kabupaten Sanggau",
+     "wib_kode": "10"
+    },
+    {
+     "kode": "11",
+     "jenis": "KABUPATEN",
+     "nama": "SEKADAU",
+     "tampil": "Kabupaten Sekadau",
+     "wib_kode": "11"
+    },
+    {
+     "kode": "12",
+     "jenis": "KABUPATEN",
+     "nama": "SINTANG",
+     "tampil": "Kabupaten Sintang",
+     "wib_kode": "12"
+    },
+    {
+     "kode": "13",
+     "jenis": "KOTA",
+     "nama": "PONTIANAK",
+     "tampil": "Kota Pontianak",
+     "wib_kode": "13"
+    },
+    {
+     "kode": "14",
+     "jenis": "KOTA",
+     "nama": "SINGKAWANG",
+     "tampil": "Kota Singkawang",
+     "wib_kode": "14"
+    }
+   ],
+   "wib_kode": "12",
+   "tampil": "Kalimantan Barat"
+  },
+  {
+   "kode": "13",
+   "nama": "KALIMANTAN TENGAH",
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BARITO SELATAN",
+     "tampil": "Kabupaten Barito Selatan",
+     "wib_kode": "01"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "BARITO TIMUR",
+     "tampil": "Kabupaten Barito Timur",
+     "wib_kode": "02"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "BARITO UTARA",
+     "tampil": "Kabupaten Barito Utara",
+     "wib_kode": "03"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "GUNUNG MAS",
+     "tampil": "Kabupaten Gunung Mas",
+     "wib_kode": "04"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "KAPUAS",
+     "tampil": "Kabupaten Kapuas",
+     "wib_kode": "05"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "KATINGAN",
+     "tampil": "Kabupaten Katingan",
+     "wib_kode": "06"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "KOTAWARINGIN BARAT",
+     "tampil": "Kabupaten Kotawaringin Barat",
+     "wib_kode": "07"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "KOTAWARINGIN TIMUR",
+     "tampil": "Kabupaten Kotawaringin Timur",
+     "wib_kode": "08"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "LAMANDAU",
+     "tampil": "Kabupaten Lamandau",
+     "wib_kode": "09"
+    },
+    {
+     "kode": "10",
+     "jenis": "KABUPATEN",
+     "nama": "MURUNG RAYA",
+     "tampil": "Kabupaten Murung Raya",
+     "wib_kode": "10"
+    },
+    {
+     "kode": "11",
+     "jenis": "KABUPATEN",
+     "nama": "PULAU PISAU",
+     "tampil": "Kabupaten Pulau Pisau",
+     "wib_kode": "11"
+    },
+    {
+     "kode": "12",
+     "jenis": "KABUPATEN",
+     "nama": "SERUYAN",
+     "tampil": "Kabupaten Seruyan",
+     "wib_kode": "12"
+    },
+    {
+     "kode": "13",
+     "jenis": "KABUPATEN",
+     "nama": "SUKAMARA",
+     "tampil": "Kabupaten Sukamara",
+     "wib_kode": "13"
+    },
+    {
+     "kode": "14",
+     "jenis": "KOTA",
+     "nama": "PALANGKARAYA",
+     "tampil": "Kota Palangkaraya",
+     "wib_kode": "14"
+    }
+   ],
+   "wib_kode": "13",
+   "tampil": "Kalimantan Tengah"
+  },
+  {
+   "kode": "14",
+   "nama": "KALIMANTAN SELATAN",
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BALANGAN",
+     "tampil": "Kabupaten Balangan",
+     "wib_kode": "01"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "BANJAR",
+     "tampil": "Kabupaten Banjar",
+     "wib_kode": "02"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "BARITO KUALA",
+     "tampil": "Kabupaten Barito Kuala",
+     "wib_kode": "03"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "HULU SUNGAI SELATAN",
+     "tampil": "Kabupaten Hulu Sungai Selatan",
+     "wib_kode": "04"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "HULU SUNGAI TENGAH",
+     "tampil": "Kabupaten Hulu Sungai Tengah",
+     "wib_kode": "05"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "HULU SUNGAI UTARA",
+     "tampil": "Kabupaten Hulu Sungai Utara",
+     "wib_kode": "06"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "KOTABARU",
+     "tampil": "Kabupaten Kotabaru",
+     "wib_kode": "07"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "TABALONG",
+     "tampil": "Kabupaten Tabalong",
+     "wib_kode": "08"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "TANAH BUMBU",
+     "tampil": "Kabupaten Tanah Bumbu",
+     "wib_kode": "09"
+    },
+    {
+     "kode": "10",
+     "jenis": "KABUPATEN",
+     "nama": "TANAH LAUT",
+     "tampil": "Kabupaten Tanah Laut",
+     "wib_kode": "10"
+    },
+    {
+     "kode": "11",
+     "jenis": "KABUPATEN",
+     "nama": "TAPIN",
+     "tampil": "Kabupaten Tapin",
+     "wib_kode": "11"
+    },
+    {
+     "kode": "12",
+     "jenis": "KOTA",
+     "nama": "BANJARBARU",
+     "tampil": "Kota Banjarbaru",
+     "wib_kode": "12"
+    },
+    {
+     "kode": "13",
+     "jenis": "KOTA",
+     "nama": "BANJARMASIN",
+     "tampil": "Kota Banjarmasin",
+     "wib_kode": "13"
+    }
+   ],
+   "wib_kode": "14",
+   "tampil": "Kalimantan Selatan"
+  },
+  {
+   "kode": "15",
+   "nama": "KALIMANTAN UTARA",
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BULUNGAN",
+     "tampil": "Kabupaten Bulungan",
+     "wib_kode": "01"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "MALINAU",
+     "tampil": "Kabupaten Malinau",
+     "wib_kode": "02"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "NUNUKAN",
+     "tampil": "Kabupaten Nunukan",
+     "wib_kode": "03"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "TANA TIDUNG",
+     "tampil": "Kabupaten Tana Tidung",
+     "wib_kode": "04"
+    },
+    {
+     "kode": "05",
+     "jenis": "KOTA",
+     "nama": "TARAKAN",
+     "tampil": "Kota Tarakan",
+     "wib_kode": "05"
+    }
+   ],
+   "wib_kode": "15",
+   "tampil": "Kalimantan Utara"
+  },
+  {
+   "kode": "16",
+   "nama": "ACEH",
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "ACEH BARAT",
+     "tampil": "Kabupaten Aceh Barat",
+     "wib_kode": "01"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "ACEH BARAT DAYA",
+     "tampil": "Kabupaten Aceh Barat Daya",
+     "wib_kode": "02"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "ACEH BESAR",
+     "tampil": "Kabupaten Aceh Besar",
+     "wib_kode": "03"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "ACEH JAYA",
+     "tampil": "Kabupaten Aceh Jaya",
+     "wib_kode": "04"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "ACEH SELATAN",
+     "tampil": "Kabupaten Aceh Selatan",
+     "wib_kode": "05"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "ACEH SINGKIL",
+     "tampil": "Kabupaten Aceh Singkil",
+     "wib_kode": "06"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "ACEH TAMIANG",
+     "tampil": "Kabupaten Aceh Tamiang",
+     "wib_kode": "07"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "ACEH TENGAH",
+     "tampil": "Kabupaten Aceh Tengah",
+     "wib_kode": "08"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "ACEH TENGGARA",
+     "tampil": "Kabupaten Aceh Tenggara",
+     "wib_kode": "09"
+    },
+    {
+     "kode": "10",
+     "jenis": "KABUPATEN",
+     "nama": "ACEH TIMUR",
+     "tampil": "Kabupaten Aceh Timur",
+     "wib_kode": "10"
+    },
+    {
+     "kode": "11",
+     "jenis": "KABUPATEN",
+     "nama": "ACEH UTARA",
+     "tampil": "Kabupaten Aceh Utara",
+     "wib_kode": "11"
+    },
+    {
+     "kode": "12",
+     "jenis": "KABUPATEN",
+     "nama": "BENER MERIAH",
+     "tampil": "Kabupaten Bener Meriah",
+     "wib_kode": "12"
+    },
+    {
+     "kode": "13",
+     "jenis": "KABUPATEN",
+     "nama": "BIREUEN",
+     "tampil": "Kabupaten Bireuen",
+     "wib_kode": "13"
+    },
+    {
+     "kode": "14",
+     "jenis": "KABUPATEN",
+     "nama": "GAYO LUES",
+     "tampil": "Kabupaten Gayo Lues",
+     "wib_kode": "14"
+    },
+    {
+     "kode": "15",
+     "jenis": "KABUPATEN",
+     "nama": "NAGAN RAYA",
+     "tampil": "Kabupaten Nagan Raya",
+     "wib_kode": "15"
+    },
+    {
+     "kode": "16",
+     "jenis": "KABUPATEN",
+     "nama": "PIDIE",
+     "tampil": "Kabupaten Pidie",
+     "wib_kode": "16"
+    },
+    {
+     "kode": "17",
+     "jenis": "KABUPATEN",
+     "nama": "PIDIE JAYA",
+     "tampil": "Kabupaten Pidie Jaya",
+     "wib_kode": "17"
+    },
+    {
+     "kode": "18",
+     "jenis": "KABUPATEN",
+     "nama": "SIMEULUE",
+     "tampil": "Kabupaten Simeulue",
+     "wib_kode": "18"
+    },
+    {
+     "kode": "19",
+     "jenis": "KOTA",
+     "nama": "BANDA ACEH",
+     "tampil": "Kota Banda Aceh",
+     "wib_kode": "19"
+    },
+    {
+     "kode": "20",
+     "jenis": "KOTA",
+     "nama": "LANGSA",
+     "tampil": "Kota Langsa",
+     "wib_kode": "20"
+    },
+    {
+     "kode": "21",
+     "jenis": "KOTA",
+     "nama": "LHOKSEUMAWE",
+     "tampil": "Kota Lhokseumawe",
+     "wib_kode": "21"
+    },
+    {
+     "kode": "22",
+     "jenis": "KOTA",
+     "nama": "SABANG",
+     "tampil": "Kota Sabang",
+     "wib_kode": "22"
+    },
+    {
+     "kode": "23",
+     "jenis": "KOTA",
+     "nama": "SUBULUSSALAM",
+     "tampil": "Kota Subulussalam",
+     "wib_kode": "23"
+    }
+   ],
+   "wib_kode": "01",
+   "tampil": "Aceh"
+  },
+  {
+   "kode": "17",
+   "nama": "SUMATERA SELATAN",
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BAYUASIN",
+     "tampil": "Kabupaten Bayuasin",
+     "wib_kode": "01"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "EMPAT LAWANG",
+     "tampil": "Kabupaten Empat Lawang",
+     "wib_kode": "02"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "LAHAT",
+     "tampil": "Kabupaten Lahat",
+     "wib_kode": "03"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "MUARA ENIM",
+     "tampil": "Kabupaten Muara Enim",
+     "wib_kode": "04"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "MUSI BANYUASIN",
+     "tampil": "Kabupaten Musi Banyuasin",
+     "wib_kode": "05"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "MUSI RAWAS",
+     "tampil": "Kabupaten Musi Rawas",
+     "wib_kode": "06"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "MUSI RAWAS UTARA",
+     "tampil": "Kabupaten Musi Rawas Utara",
+     "wib_kode": "07"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "OGAN ILIR",
+     "tampil": "Kabupaten Ogan Ilir",
+     "wib_kode": "08"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "OGAN KOMERING ILIR",
+     "tampil": "Kabupaten Ogan Komering Ilir",
+     "wib_kode": "09"
+    },
+    {
+     "kode": "10",
+     "jenis": "KABUPATEN",
+     "nama": "OGAN KOMERING ULU",
+     "tampil": "Kabupaten Ogan Komering Ulu",
+     "wib_kode": "10"
+    },
+    {
+     "kode": "11",
+     "jenis": "KABUPATEN",
+     "nama": "OGAN KOMERING ULU SELATAN",
+     "tampil": "Kabupaten Ogan Komering Ulu Selatan",
+     "wib_kode": "11"
+    },
+    {
+     "kode": "12",
+     "jenis": "KABUPATEN",
+     "nama": "OGAN KOMERING ULU TIMUR",
+     "tampil": "Kabupaten Ogan Komering Ulu Timur",
+     "wib_kode": "12"
+    },
+    {
+     "kode": "13",
+     "jenis": "KABUPATEN",
+     "nama": "PENUKAL ABAB LEMANG ILIR",
+     "tampil": "Kabupaten Penukal Abab Lemang ILir",
+     "wib_kode": "13"
+    },
+    {
+     "kode": "14",
+     "jenis": "KOTA",
+     "nama": "LUBUK LINGGAU",
+     "tampil": "Kota Lubuk Linggau",
+     "wib_kode": "14"
+    },
+    {
+     "kode": "15",
+     "jenis": "KOTA",
+     "nama": "PAGAR ALAM",
+     "tampil": "Kota Pagar Alam",
+     "wib_kode": "15"
+    },
+    {
+     "kode": "16",
+     "jenis": "KOTA",
+     "nama": "PALEMBANG",
+     "tampil": "Kota Palembang",
+     "wib_kode": "16"
+    },
+    {
+     "kode": "17",
+     "jenis": "KOTA",
+     "nama": "PRABUMULIH",
+     "tampil": "Kota Prabumulih",
+     "wib_kode": "17"
+    }
+   ],
+   "wib_kode": "03",
+   "tampil": "Sumatra Selatan"
+  },
+  {
+   "kode": "18",
+   "nama": "BENGKULU",
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BENGKULU SELATAN",
+     "tampil": "Kabupaten Bengkulu Selatan",
+     "wib_kode": "01"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "BENGKULU TENGAH",
+     "tampil": "Kabupaten Bengkulu Tengah",
+     "wib_kode": "02"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "BENGKULU UTARA",
+     "tampil": "Kabupaten Bengkulu Utara",
+     "wib_kode": "03"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "KAUR",
+     "tampil": "Kabupaten Kaur",
+     "wib_kode": "04"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "KEPAHIANG",
+     "tampil": "Kabupaten Kepahiang",
+     "wib_kode": "05"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "LEBONG",
+     "tampil": "Kabupaten Lebong",
+     "wib_kode": "06"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "MUKOMUKO",
+     "tampil": "Kabupaten Mukomuko",
+     "wib_kode": "07"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "REJANG LEBONG",
+     "tampil": "Kabupaten Rejang Lebong",
+     "wib_kode": "08"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "SELUMA",
+     "tampil": "Kabupaten Seluma",
+     "wib_kode": "09"
+    },
+    {
+     "kode": "10",
+     "jenis": "KOTA",
+     "nama": "BENGKULU",
+     "tampil": "Kota Bengkulu",
+     "wib_kode": "10"
+    }
+   ],
+   "wib_kode": "05",
+   "tampil": "Bengkulu"
+  },
+  {
+   "kode": "19",
+   "nama": "JAWA TENGAH",
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "CILACAP",
+     "tampil": "Kabupaten Cilacap",
+     "wib_kode": "01"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "BANYUMAS",
+     "tampil": "Kabupaten Banyumas",
+     "wib_kode": "02"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "PURBALINGGA",
+     "tampil": "Kabupaten Purbalingga",
+     "wib_kode": "03"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "BANJARNEGARA",
+     "tampil": "Kabupaten Banjarnegara",
+     "wib_kode": "04"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "KEBUMEN",
+     "tampil": "Kabupaten Kebumen",
+     "wib_kode": "05"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "PURWOREJO",
+     "tampil": "Kabupaten Purworejo",
+     "wib_kode": "06"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "WONOSOBO",
+     "tampil": "Kabupaten Wonosobo",
+     "wib_kode": "07"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "MAGELANG",
+     "tampil": "Kabupaten Magelang",
+     "wib_kode": "08"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "BOYOLALI",
+     "tampil": "Kabupaten Boyolali",
+     "wib_kode": "09"
+    },
+    {
+     "kode": "10",
+     "jenis": "KABUPATEN",
+     "nama": "KLATEN",
+     "tampil": "Kabupaten Klaten",
+     "wib_kode": "10"
+    },
+    {
+     "kode": "11",
+     "jenis": "KABUPATEN",
+     "nama": "SUKOHARJO",
+     "tampil": "Kabupaten Sukoharjo",
+     "wib_kode": "11"
+    },
+    {
+     "kode": "12",
+     "jenis": "KABUPATEN",
+     "nama": "WONOGIRI",
+     "tampil": "Kabupaten Wonogiri",
+     "wib_kode": "12"
+    },
+    {
+     "kode": "13",
+     "jenis": "KABUPATEN",
+     "nama": "KARANGANYAR",
+     "tampil": "Kabupaten Karanganyar",
+     "wib_kode": "13"
+    },
+    {
+     "kode": "14",
+     "jenis": "KABUPATEN",
+     "nama": "SRAGEN",
+     "tampil": "Kabupaten Sragen",
+     "wib_kode": "14"
+    },
+    {
+     "kode": "15",
+     "jenis": "KABUPATEN",
+     "nama": "GROBOKAN",
+     "tampil": "Kabupaten Grobokan",
+     "wib_kode": "15"
+    },
+    {
+     "kode": "16",
+     "jenis": "KABUPATEN",
+     "nama": "BLORA",
+     "tampil": "Kabupaten Blora",
+     "wib_kode": "16"
+    },
+    {
+     "kode": "17",
+     "jenis": "KABUPATEN",
+     "nama": "REMBANG",
+     "tampil": "Kabupaten Rembang",
+     "wib_kode": "17"
+    },
+    {
+     "kode": "18",
+     "jenis": "KABUPATEN",
+     "nama": "PATI",
+     "tampil": "Kabupaten Pati",
+     "wib_kode": "18"
+    },
+    {
+     "kode": "19",
+     "jenis": "KABUPATEN",
+     "nama": "KUDUS",
+     "tampil": "Kabupaten Kudus",
+     "wib_kode": "19"
+    },
+    {
+     "kode": "20",
+     "jenis": "KABUPATEN",
+     "nama": "JEPARA",
+     "tampil": "Kabupaten Jepara",
+     "wib_kode": "20"
+    },
+    {
+     "kode": "21",
+     "jenis": "KABUPATEN",
+     "nama": "DEMAK",
+     "tampil": "Kabupaten Demak",
+     "wib_kode": "21"
+    },
+    {
+     "kode": "22",
+     "jenis": "KABUPATEN",
+     "nama": "SEMARANG",
+     "tampil": "Kabupaten Semarang",
+     "wib_kode": "22"
+    },
+    {
+     "kode": "23",
+     "jenis": "KABUPATEN",
+     "nama": "TAMANGGUNG",
+     "tampil": "Kabupaten Tamanggung",
+     "wib_kode": "23"
+    },
+    {
+     "kode": "24",
+     "jenis": "KABUPATEN",
+     "nama": "KENDAL",
+     "tampil": "Kabupaten Kendal",
+     "wib_kode": "24"
+    },
+    {
+     "kode": "25",
+     "jenis": "KABUPATEN",
+     "nama": "BATANG",
+     "tampil": "Kabupaten Batang",
+     "wib_kode": "25"
+    },
+    {
+     "kode": "26",
+     "jenis": "KABUPATEN",
+     "nama": "PEKALONGAN",
+     "tampil": "Kabupaten Pekalongan",
+     "wib_kode": "26"
+    },
+    {
+     "kode": "27",
+     "jenis": "KABUPATEN",
+     "nama": "PEMALANG",
+     "tampil": "Kabupaten Pemalang",
+     "wib_kode": "27"
+    },
+    {
+     "kode": "28",
+     "jenis": "KABUPATEN",
+     "nama": "TEGAL",
+     "tampil": "Kabupaten Tegal",
+     "wib_kode": "28"
+    },
+    {
+     "kode": "29",
+     "jenis": "KABUPATEN",
+     "nama": "BREBES",
+     "tampil": "Kabupaten Brebes",
+     "wib_kode": "29"
+    },
+    {
+     "kode": "30",
+     "jenis": "KOTA",
+     "nama": "MAGELANG",
+     "tampil": "Kota Magelang",
+     "wib_kode": "30"
+    },
+    {
+     "kode": "31",
+     "jenis": "KOTA",
+     "nama": "SURAKARTA",
+     "tampil": "Kota Surakarta",
+     "wib_kode": "31"
+    },
+    {
+     "kode": "32",
+     "jenis": "KOTA",
+     "nama": "SALATIGA",
+     "tampil": "Kota Salatiga",
+     "wib_kode": "32"
+    },
+    {
+     "kode": "33",
+     "jenis": "KOTA",
+     "nama": "SEMARANG",
+     "tampil": "Kota Semarang",
+     "wib_kode": "33"
+    },
+    {
+     "kode": "34",
+     "jenis": "KOTA",
+     "nama": "PEKALONGAN",
+     "tampil": "Kota Pekalongan",
+     "wib_kode": "34"
+    },
+    {
+     "kode": "35",
+     "jenis": "KOTA",
+     "nama": "TEGAL",
+     "tampil": "Kota Tegal",
+     "wib_kode": "35"
+    }
+   ],
+   "wib_kode": "19",
+   "tampil": "Jawa Tengah"
+  },
+  {
+   "kode": "20",
+   "nama": "DI YOGYAKARTA",
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "KULON PROGO",
+     "tampil": "Kabupaten Kulon Progo",
+     "wib_kode": "01"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "BANTUL",
+     "tampil": "Kabupaten Bantul",
+     "wib_kode": "02"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "GUNUNG KIDUL",
+     "tampil": "Kabupaten Gunung Kidul",
+     "wib_kode": "03"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "SLEMAN",
+     "tampil": "Kabupaten Sleman",
+     "wib_kode": "04"
+    },
+    {
+     "kode": "05",
+     "jenis": "KOTA",
+     "nama": "YOGYAKARTA",
+     "tampil": "Kota Yogyakarta",
+     "wib_kode": "05"
+    }
+   ],
+   "wib_kode": "20",
+   "tampil": "DI Yogyakarta"
+  },
+  {
+   "kode": "21",
+   "nama": "JAWA TIMUR",
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BANGKALAN",
+     "tampil": "Kabupaten Bangkalan",
+     "wib_kode": "01"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "BANYUWANGI",
+     "tampil": "Kabupaten Banyuwangi",
+     "wib_kode": "02"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "BLITAR",
+     "tampil": "Kabupaten Blitar",
+     "wib_kode": "03"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "BOJONEGORO",
+     "tampil": "Kabupaten Bojonegoro",
+     "wib_kode": "04"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "BONDOWOSO",
+     "tampil": "Kabupaten Bondowoso",
+     "wib_kode": "05"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "GRESIK",
+     "tampil": "Kabupaten Gresik",
+     "wib_kode": "06"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "JEMBER",
+     "tampil": "Kabupaten Jember",
+     "wib_kode": "07"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "JOMBANG",
+     "tampil": "Kabupaten Jombang",
+     "wib_kode": "08"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "KEDIRI",
+     "tampil": "Kabupaten Kediri",
+     "wib_kode": "09"
+    },
+    {
+     "kode": "10",
+     "jenis": "KABUPATEN",
+     "nama": "LAMONGAN",
+     "tampil": "Kabupaten Lamongan",
+     "wib_kode": "10"
+    },
+    {
+     "kode": "11",
+     "jenis": "KABUPATEN",
+     "nama": "LUMAJANG",
+     "tampil": "Kabupaten Lumajang",
+     "wib_kode": "11"
+    },
+    {
+     "kode": "12",
+     "jenis": "KABUPATEN",
+     "nama": "MADIUN",
+     "tampil": "Kabupaten Madiun",
+     "wib_kode": "12"
+    },
+    {
+     "kode": "13",
+     "jenis": "KABUPATEN",
+     "nama": "MAGETAN",
+     "tampil": "Kabupaten Magetan",
+     "wib_kode": "13"
+    },
+    {
+     "kode": "14",
+     "jenis": "KABUPATEN",
+     "nama": "MALANG",
+     "tampil": "Kabupaten Malang",
+     "wib_kode": "14"
+    },
+    {
+     "kode": "15",
+     "jenis": "KABUPATEN",
+     "nama": "MOJOKERTO",
+     "tampil": "Kabupaten Mojokerto",
+     "wib_kode": "15"
+    },
+    {
+     "kode": "16",
+     "jenis": "KABUPATEN",
+     "nama": "NGANJUK",
+     "tampil": "Kabupaten Nganjuk",
+     "wib_kode": "16"
+    },
+    {
+     "kode": "17",
+     "jenis": "KABUPATEN",
+     "nama": "NGAWI",
+     "tampil": "Kabupaten Ngawi",
+     "wib_kode": "17"
+    },
+    {
+     "kode": "18",
+     "jenis": "KABUPATEN",
+     "nama": "PACITAN",
+     "tampil": "Kabupaten Pacitan",
+     "wib_kode": "18"
+    },
+    {
+     "kode": "19",
+     "jenis": "KABUPATEN",
+     "nama": "PAMEKASAN",
+     "tampil": "Kabupaten Pamekasan",
+     "wib_kode": "19"
+    },
+    {
+     "kode": "20",
+     "jenis": "KABUPATEN",
+     "nama": "PASURUAN",
+     "tampil": "Kabupaten Pasuruan",
+     "wib_kode": "20"
+    },
+    {
+     "kode": "21",
+     "jenis": "KABUPATEN",
+     "nama": "PONOROGO",
+     "tampil": "Kabupaten Ponorogo",
+     "wib_kode": "21"
+    },
+    {
+     "kode": "22",
+     "jenis": "KABUPATEN",
+     "nama": "PROBOLINGGO",
+     "tampil": "Kabupaten Probolinggo",
+     "wib_kode": "22"
+    },
+    {
+     "kode": "23",
+     "jenis": "KABUPATEN",
+     "nama": "SAMPANG",
+     "tampil": "Kabupaten Sampang",
+     "wib_kode": "23"
+    },
+    {
+     "kode": "24",
+     "jenis": "KABUPATEN",
+     "nama": "SIDOARJO",
+     "tampil": "Kabupaten Sidoarjo",
+     "wib_kode": "24"
+    },
+    {
+     "kode": "25",
+     "jenis": "KABUPATEN",
+     "nama": "SITUBONDO",
+     "tampil": "Kabupaten Situbondo",
+     "wib_kode": "25"
+    },
+    {
+     "kode": "26",
+     "jenis": "KABUPATEN",
+     "nama": "SUMENEP",
+     "tampil": "Kabupaten Sumenep",
+     "wib_kode": "26"
+    },
+    {
+     "kode": "27",
+     "jenis": "KABUPATEN",
+     "nama": "TRENGGALEK",
+     "tampil": "Kabupaten Trenggalek",
+     "wib_kode": "27"
+    },
+    {
+     "kode": "28",
+     "jenis": "KABUPATEN",
+     "nama": "TUBAN",
+     "tampil": "Kabupaten Tuban",
+     "wib_kode": "28"
+    },
+    {
+     "kode": "29",
+     "jenis": "KABUPATEN",
+     "nama": "TULUNGAGUNG",
+     "tampil": "Kabupaten Tulungagung",
+     "wib_kode": "29"
+    },
+    {
+     "kode": "30",
+     "jenis": "KOTA",
+     "nama": "BATU",
+     "tampil": "Kota Batu",
+     "wib_kode": "30"
+    },
+    {
+     "kode": "31",
+     "jenis": "KOTA",
+     "nama": "BLITAR",
+     "tampil": "Kota Blitar",
+     "wib_kode": "31"
+    },
+    {
+     "kode": "32",
+     "jenis": "KOTA",
+     "nama": "KEDIRI",
+     "tampil": "Kota Kediri",
+     "wib_kode": "32"
+    },
+    {
+     "kode": "33",
+     "jenis": "KOTA",
+     "nama": "MADIUN",
+     "tampil": "Kota Madiun",
+     "wib_kode": "33"
+    },
+    {
+     "kode": "34",
+     "jenis": "KOTA",
+     "nama": "MALANG",
+     "tampil": "Kota Malang",
+     "wib_kode": "34"
+    },
+    {
+     "kode": "35",
+     "jenis": "KOTA",
+     "nama": "MOJOKERTO",
+     "tampil": "Kota Mojokerto",
+     "wib_kode": "35"
+    },
+    {
+     "kode": "36",
+     "jenis": "KOTA",
+     "nama": "PASURUAN",
+     "tampil": "Kota Pasuruan",
+     "wib_kode": "36"
+    },
+    {
+     "kode": "37",
+     "jenis": "KOTA",
+     "nama": "PROBOLINGGO",
+     "tampil": "Kota Probolinggo",
+     "wib_kode": "37"
+    },
+    {
+     "kode": "38",
+     "jenis": "KOTA",
+     "nama": "SURABAYA",
+     "tampil": "Kota Surabaya",
+     "wib_kode": "38"
+    }
+   ],
+   "wib_kode": "21",
+   "tampil": "Jawa Timur"
+  },
+  {
+   "kode": "22",
+   "nama": "BALI",
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BADUNG",
+     "tampil": "Kabupaten Badung",
+     "wib_kode": "01"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "BANGLI",
+     "tampil": "Kabupaten Bangli",
+     "wib_kode": "02"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "BULELENG",
+     "tampil": "Kabupaten Buleleng",
+     "wib_kode": "03"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "GIANYAR",
+     "tampil": "Kabupaten Gianyar",
+     "wib_kode": "04"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "JEMBRANA",
+     "tampil": "Kabupaten Jembrana",
+     "wib_kode": "05"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "KARANGASEM",
+     "tampil": "Kabupaten Karangasem",
+     "wib_kode": "06"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "KLUNGKUNG",
+     "tampil": "Kabupaten Klungkung",
+     "wib_kode": "07"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "TABANAN",
+     "tampil": "Kabupaten Tabanan",
+     "wib_kode": "08"
+    },
+    {
+     "kode": "09",
+     "jenis": "KOTA",
+     "nama": "DENPASAR",
+     "tampil": "Kota Denpasar",
+     "wib_kode": "09"
+    }
+   ],
+   "wib_kode": "22",
+   "tampil": "Bali"
+  },
+  {
+   "kode": "23",
+   "nama": "BANGKA BELITUNG",
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BANGKA",
+     "tampil": "Kabupaten Bangka",
+     "wib_kode": "01"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "BANGKA BARAT",
+     "tampil": "Kabupaten Bangka Barat",
+     "wib_kode": "02"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "BANGKA SELATAN",
+     "tampil": "Kabupaten Bangka Selatan",
+     "wib_kode": "03"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "BANGKA TENGAH",
+     "tampil": "Kabupaten Bangka Tengah",
+     "wib_kode": "04"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "BELITUNG",
+     "tampil": "Kabupaten Belitung",
+     "wib_kode": "05"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "BELITUNG TIMUR",
+     "tampil": "Kabupaten Belitung Timur",
+     "wib_kode": "06"
+    },
+    {
+     "kode": "07",
+     "jenis": "KOTA",
+     "nama": "PANGKALPINANG",
+     "tampil": "Kota Pangkalpinang",
+     "wib_kode": "07"
+    }
+   ],
+   "wib_kode": "10",
+   "tampil": "Bangka Belitung"
+  },
+  {
+   "kode": "24",
+   "nama": "NUSA TENGGARA TIMUR",
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "ALOR",
+     "tampil": "Kabupaten Alor",
+     "wib_kode": "07"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "BELU",
+     "tampil": "Kabupaten Belu",
+     "wib_kode": "06"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "ENDE",
+     "tampil": "Kabupaten Ende",
+     "wib_kode": "11"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "FLORES TIMUR",
+     "tampil": "Kabupaten Flores Timur",
+     "wib_kode": "09"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "KUPANG",
+     "tampil": "Kabupaten Kupang",
+     "wib_kode": "03"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "LEMBATA",
+     "tampil": "Kabupaten Lembata",
+     "wib_kode": "08"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "MALAKA",
+     "tampil": "Kabupaten Malaka",
+     "wib_kode": "19"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "MANGGARAI",
+     "tampil": "Kabupaten Manggarai",
+     "wib_kode": "13"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "MANGGARAI BARAT",
+     "tampil": "Kabupaten Manggarai Barat",
+     "wib_kode": "15"
+    },
+    {
+     "kode": "10",
+     "jenis": "KABUPATEN",
+     "nama": "MANGGARAI TIMUR",
+     "tampil": "Kabupaten Manggarai Timur",
+     "wib_kode": null
+    },
+    {
+     "kode": "11",
+     "jenis": "KABUPATEN",
+     "nama": "NAGEKEO",
+     "tampil": "Kabupaten Nagekeo",
+     "wib_kode": null
+    },
+    {
+     "kode": "12",
+     "jenis": "KABUPATEN",
+     "nama": "NGADA",
+     "tampil": "Kabupaten Ngada",
+     "wib_kode": "12"
+    },
+    {
+     "kode": "13",
+     "jenis": "KABUPATEN",
+     "nama": "ROTE NDAO",
+     "tampil": "Kabupaten Rote Ndao",
+     "wib_kode": "14"
+    },
+    {
+     "kode": "14",
+     "jenis": "KABUPATEN",
+     "nama": "SABU RAIJUA",
+     "tampil": "Kabupaten Sabu Raijua",
+     "wib_kode": "18"
+    },
+    {
+     "kode": "15",
+     "jenis": "KABUPATEN",
+     "nama": "SIKKA",
+     "tampil": "Kabupaten Sikka",
+     "wib_kode": "10"
+    },
+    {
+     "kode": "16",
+     "jenis": "KABUPATEN",
+     "nama": "SUMBA BARAT",
+     "tampil": "Kabupaten Sumba Barat",
+     "wib_kode": "01"
+    },
+    {
+     "kode": "17",
+     "jenis": "KABUPATEN",
+     "nama": "SUMBA BARAT DAYA",
+     "tampil": "Kabupaten Sumba Barat Daya",
+     "wib_kode": "17"
+    },
+    {
+     "kode": "18",
+     "jenis": "KABUPATEN",
+     "nama": "SUMBA TENGAH",
+     "tampil": "Kabupaten Sumba Tengah",
+     "wib_kode": "16"
+    },
+    {
+     "kode": "19",
+     "jenis": "KABUPATEN",
+     "nama": "SUMBA TIMUR",
+     "tampil": "Kabupaten Sumba Timur",
+     "wib_kode": "02"
+    },
+    {
+     "kode": "20",
+     "jenis": "KABUPATEN",
+     "nama": "TIMOR TENGAH SELATAN",
+     "tampil": "Kabupaten Timor Tengah Selatan",
+     "wib_kode": "04"
+    },
+    {
+     "kode": "21",
+     "jenis": "KABUPATEN",
+     "nama": "TIMOR TENGAH UTARA",
+     "tampil": "Kabupaten Timor Tengah Utara",
+     "wib_kode": "05"
+    },
+    {
+     "kode": "22",
+     "jenis": "KOTA",
+     "nama": "KUPANG",
+     "tampil": "Kota Kupang",
+     "wib_kode": "20"
+    }
+   ],
+   "wib_kode": "24",
+   "tampil": "Nusa Tenggara Timur"
+  },
+  {
+   "kode": "25",
+   "nama": "SULAWESI UTARA",
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BOLAANG MONGONDOW",
+     "tampil": "Kabupaten Bolaang Mongondow",
+     "wib_kode": "01"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "BOLAANG MONGONDOW SELATAN",
+     "tampil": "Kabupaten Bolaang Mongondow Selatan",
+     "wib_kode": "02"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "BOLAANG MONGONDOW TIMUR",
+     "tampil": "Kabupaten Bolaang Mongondow Timur",
+     "wib_kode": "03"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "BOLAANG MONGONDOW UTARA",
+     "tampil": "Kabupaten Bolaang Mongondow Utara",
+     "wib_kode": "04"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "KEPULAUAN SANGIHE",
+     "tampil": "Kabupaten Kepulauan Sangihe",
+     "wib_kode": "05"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "KEPULAUAN SIAU TAGULANDANG BIARO",
+     "tampil": "Kabupaten Kepulauan Siau Tagulandang Biaro",
+     "wib_kode": "06"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "KEPULAUAN TALAUD",
+     "tampil": "Kabupaten Kepulauan Talaud",
+     "wib_kode": "07"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "MINAHASA",
+     "tampil": "Kabupaten Minahasa",
+     "wib_kode": "08"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "MINAHASA SELATAN",
+     "tampil": "Kabupaten Minahasa Selatan",
+     "wib_kode": "09"
+    },
+    {
+     "kode": "10",
+     "jenis": "KABUPATEN",
+     "nama": "MINAHASA TENGGARA",
+     "tampil": "Kabupaten Minahasa Tenggara",
+     "wib_kode": "10"
+    },
+    {
+     "kode": "11",
+     "jenis": "KABUPATEN",
+     "nama": "MINAHASA UTARA",
+     "tampil": "Kabupaten Minahasa Utara",
+     "wib_kode": "11"
+    },
+    {
+     "kode": "12",
+     "jenis": "KOTA",
+     "nama": "BITUNG",
+     "tampil": "Kota Bitung",
+     "wib_kode": "12"
+    },
+    {
+     "kode": "13",
+     "jenis": "KOTA",
+     "nama": "KOTAMOBAGU",
+     "tampil": "Kota Kotamobagu",
+     "wib_kode": "13"
+    },
+    {
+     "kode": "14",
+     "jenis": "KOTA",
+     "nama": "MANADO",
+     "tampil": "Kota Manado",
+     "wib_kode": "14"
+    },
+    {
+     "kode": "15",
+     "jenis": "KOTA",
+     "nama": "TOMOHON",
+     "tampil": "Kota Tomohon",
+     "wib_kode": "15"
+    }
+   ],
+   "wib_kode": "25",
+   "tampil": "Sulawesi Utara"
+  },
+  {
+   "kode": "26",
+   "nama": "SULAWESI BARAT",
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "MAJENE",
+     "tampil": "Kabupaten Majene",
+     "wib_kode": "01"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "MAMASA",
+     "tampil": "Kabupaten Mamasa",
+     "wib_kode": "02"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "MAMUJU",
+     "tampil": "Kabupaten Mamuju",
+     "wib_kode": "03"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "MAMUJU TENGAH",
+     "tampil": "Kabupaten Mamuju Tengah",
+     "wib_kode": "04"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "PASANGKAYU",
+     "tampil": "Kabupaten Pasangkayu",
+     "wib_kode": "05"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "POLEWALI MANDAR",
+     "tampil": "Kabupaten Polewali Mandar",
+     "wib_kode": "06"
+    }
+   ],
+   "wib_kode": "26",
+   "tampil": "Sulawesi Barat"
+  },
+  {
+   "kode": "27",
+   "nama": "SULAWESI TENGAH",
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BANGGAI",
+     "tampil": "Kabupaten Banggai",
+     "wib_kode": "01"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "BANGGAI KEPULAUAN",
+     "tampil": "Kabupaten Banggai Kepulauan",
+     "wib_kode": "02"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "BANGGAI LAUT",
+     "tampil": "Kabupaten Banggai Laut",
+     "wib_kode": "03"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "BUOL",
+     "tampil": "Kabupaten Buol",
+     "wib_kode": "04"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "DONGGALA",
+     "tampil": "Kabupaten Donggala",
+     "wib_kode": "05"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "MOROWALI",
+     "tampil": "Kabupaten Morowali",
+     "wib_kode": "06"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "MOROWALI UTARA",
+     "tampil": "Kabupaten Morowali Utara",
+     "wib_kode": "07"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "PARIGI MOUTONG",
+     "tampil": "Kabupaten Parigi Moutong",
+     "wib_kode": "08"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "POSO",
+     "tampil": "Kabupaten Poso",
+     "wib_kode": "09"
+    },
+    {
+     "kode": "10",
+     "jenis": "KABUPATEN",
+     "nama": "SIGI",
+     "tampil": "Kabupaten Sigi",
+     "wib_kode": "10"
+    },
+    {
+     "kode": "11",
+     "jenis": "KABUPATEN",
+     "nama": "TOJO UNA-UNA",
+     "tampil": "Kabupaten Tojo Una-Una",
+     "wib_kode": "11"
+    },
+    {
+     "kode": "12",
+     "jenis": "KABUPATEN",
+     "nama": "TOLITOLI",
+     "tampil": "Kabupaten Tolitoli",
+     "wib_kode": "12"
+    },
+    {
+     "kode": "13",
+     "jenis": "KOTA",
+     "nama": "PALU",
+     "tampil": "Kota Palu",
+     "wib_kode": "13"
+    }
+   ],
+   "wib_kode": "27",
+   "tampil": "Sulawesi Tengah"
+  },
+  {
+   "kode": "28",
+   "nama": "GORONTALO",
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BOALEMO",
+     "tampil": "Kabupaten Boalemo",
+     "wib_kode": "01"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "BONE BOLANGO",
+     "tampil": "Kabupaten Bone Bolango",
+     "wib_kode": "02"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "GORONTALO",
+     "tampil": "Kabupaten Gorontalo",
+     "wib_kode": "03"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "GORONTALO UTARA",
+     "tampil": "Kabupaten Gorontalo Utara",
+     "wib_kode": "04"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "POHUWATO",
+     "tampil": "Kabupaten Pohuwato",
+     "wib_kode": "05"
+    },
+    {
+     "kode": "06",
+     "jenis": "KOTA",
+     "nama": "GORONTALO",
+     "tampil": "Kota Gorontalo",
+     "wib_kode": "06"
+    }
+   ],
+   "wib_kode": "28",
+   "tampil": "Gorontalo"
+  },
+  {
+   "kode": "29",
+   "nama": "SULAWESI TENGGARA",
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BOMBANA",
+     "tampil": "Kabupaten Bombana",
+     "wib_kode": "01"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "BUTON",
+     "tampil": "Kabupaten Buton",
+     "wib_kode": "02"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "BUTON SELATAN",
+     "tampil": "Kabupaten Buton Selatan",
+     "wib_kode": "03"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "BUTON TENGAH",
+     "tampil": "Kabupaten Buton Tengah",
+     "wib_kode": "04"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "BUTON UTARA",
+     "tampil": "Kabupaten Buton Utara",
+     "wib_kode": "05"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "KOLAKA",
+     "tampil": "Kabupaten Kolaka",
+     "wib_kode": "06"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "KOLAKA TIMUR",
+     "tampil": "Kabupaten Kolaka Timur",
+     "wib_kode": "07"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "KOLAKA UTARA",
+     "tampil": "Kabupaten Kolaka Utara",
+     "wib_kode": "08"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "KONAWE",
+     "tampil": "Kabupaten Konawe",
+     "wib_kode": "09"
+    },
+    {
+     "kode": "10",
+     "jenis": "KABUPATEN",
+     "nama": "KONAWE KEPULAUAN",
+     "tampil": "Kabupaten Konawe Kepulauan",
+     "wib_kode": "10"
+    },
+    {
+     "kode": "11",
+     "jenis": "KABUPATEN",
+     "nama": "KONAWE SELATAN",
+     "tampil": "Kabupaten Konawe Selatan",
+     "wib_kode": "11"
+    },
+    {
+     "kode": "12",
+     "jenis": "KABUPATEN",
+     "nama": "KONAWE UTARA",
+     "tampil": "Kabupaten Konawe Utara",
+     "wib_kode": "12"
+    },
+    {
+     "kode": "13",
+     "jenis": "KABUPATEN",
+     "nama": "MUNA",
+     "tampil": "Kabupaten Muna",
+     "wib_kode": "13"
+    },
+    {
+     "kode": "14",
+     "jenis": "KABUPATEN",
+     "nama": "MUNA BARAT",
+     "tampil": "Kabupaten Muna Barat",
+     "wib_kode": "14"
+    },
+    {
+     "kode": "15",
+     "jenis": "KABUPATEN",
+     "nama": "WAKATOBI",
+     "tampil": "Kabupaten Wakatobi",
+     "wib_kode": "15"
+    },
+    {
+     "kode": "16",
+     "jenis": "KOTA",
+     "nama": "BAUBAU",
+     "tampil": "Kota Baubau",
+     "wib_kode": "16"
+    },
+    {
+     "kode": "17",
+     "jenis": "KOTA",
+     "nama": "KENDARI",
+     "tampil": "Kota Kendari",
+     "wib_kode": "17"
+    }
+   ],
+   "wib_kode": "29",
+   "tampil": "Sulawesi Tenggara"
+  },
+  {
+   "kode": "30",
+   "nama": "SULAWESI SELATAN",
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BANTAENG",
+     "tampil": "Kabupaten Bantaeng",
+     "wib_kode": "01"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "BARRU",
+     "tampil": "Kabupaten Barru",
+     "wib_kode": "02"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "BONE",
+     "tampil": "Kabupaten Bone",
+     "wib_kode": "03"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "BULUKUMBA",
+     "tampil": "Kabupaten Bulukumba",
+     "wib_kode": "04"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "ENREKANG",
+     "tampil": "Kabupaten Enrekang",
+     "wib_kode": "05"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "GOWA",
+     "tampil": "Kabupaten Gowa",
+     "wib_kode": "06"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "JENEPONTO",
+     "tampil": "Kabupaten Jeneponto",
+     "wib_kode": "07"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "KEPULAUAN SELAYAR",
+     "tampil": "Kabupaten Kepulauan Selayar",
+     "wib_kode": "08"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "LUWU",
+     "tampil": "Kabupaten Luwu",
+     "wib_kode": "09"
+    },
+    {
+     "kode": "10",
+     "jenis": "KABUPATEN",
+     "nama": "LUWU TIMUR",
+     "tampil": "Kabupaten Luwu Timur",
+     "wib_kode": "10"
+    },
+    {
+     "kode": "11",
+     "jenis": "KABUPATEN",
+     "nama": "LUWU UTARA",
+     "tampil": "Kabupaten Luwu Utara",
+     "wib_kode": "11"
+    },
+    {
+     "kode": "12",
+     "jenis": "KABUPATEN",
+     "nama": "MAROS",
+     "tampil": "Kabupaten Maros",
+     "wib_kode": "12"
+    },
+    {
+     "kode": "13",
+     "jenis": "KABUPATEN",
+     "nama": "PANGKAJENE DAN KEPULAUAN",
+     "tampil": "Kabupaten Pangkajene dan Kepulauan",
+     "wib_kode": "13"
+    },
+    {
+     "kode": "14",
+     "jenis": "KABUPATEN",
+     "nama": "PINRANG",
+     "tampil": "Kabupaten Pinrang",
+     "wib_kode": "14"
+    },
+    {
+     "kode": "15",
+     "jenis": "KABUPATEN",
+     "nama": "SIDENRENG RAPPANG",
+     "tampil": "Kabupaten Sidenreng Rappang",
+     "wib_kode": "15"
+    },
+    {
+     "kode": "16",
+     "jenis": "KABUPATEN",
+     "nama": "SINJAI",
+     "tampil": "Kabupaten Sinjai",
+     "wib_kode": "16"
+    },
+    {
+     "kode": "17",
+     "jenis": "KABUPATEN",
+     "nama": "SOPPENG",
+     "tampil": "Kabupaten Soppeng",
+     "wib_kode": "17"
+    },
+    {
+     "kode": "18",
+     "jenis": "KABUPATEN",
+     "nama": "TAKALAR",
+     "tampil": "Kabupaten Takalar",
+     "wib_kode": "18"
+    },
+    {
+     "kode": "19",
+     "jenis": "KABUPATEN",
+     "nama": "TANA TORAJA",
+     "tampil": "Kabupaten Tana Toraja",
+     "wib_kode": "19"
+    },
+    {
+     "kode": "20",
+     "jenis": "KABUPATEN",
+     "nama": "TORAJA UTARA",
+     "tampil": "Kabupaten Toraja Utara",
+     "wib_kode": "20"
+    },
+    {
+     "kode": "21",
+     "jenis": "KABUPATEN",
+     "nama": "WAJO",
+     "tampil": "Kabupaten Wajo",
+     "wib_kode": "21"
+    },
+    {
+     "kode": "21",
+     "jenis": "KOTA",
+     "nama": "MAKASSAR",
+     "tampil": "Kota Makassar",
+     "wib_kode": "22"
+    },
+    {
+     "kode": "21",
+     "jenis": "KOTA",
+     "nama": "PALOPO",
+     "tampil": "Kota Palopo",
+     "wib_kode": "23"
+    },
+    {
+     "kode": "21",
+     "jenis": "KOTA",
+     "nama": "PAREPARE",
+     "tampil": "Kota Parepare",
+     "wib_kode": "24"
+    }
+   ],
+   "wib_kode": "30",
+   "tampil": "Sulawesi Selatan"
+  },
+  {
+   "kode": "31",
+   "nama": "MALUKU UTARA",
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "HALMAHERA BARAT",
+     "tampil": "Kabupaten Halmahera Barat",
+     "wib_kode": "01"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "HALMAHERA SELATAN",
+     "tampil": "Kabupaten Halmahera Selatan",
+     "wib_kode": "02"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "HALMAHERA TENGAH",
+     "tampil": "Kabupaten Halmahera Tengah",
+     "wib_kode": "03"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "HALMAHERA TIMUR",
+     "tampil": "Kabupaten Halmahera Timur",
+     "wib_kode": "04"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "HALMAHERA UTARA",
+     "tampil": "Kabupaten Halmahera Utara",
+     "wib_kode": "05"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "KEPULAUAN SULA",
+     "tampil": "Kabupaten Kepulauan Sula",
+     "wib_kode": "06"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "PULAU MOROTAI",
+     "tampil": "Kabupaten Pulau Morotai",
+     "wib_kode": "07"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "PULAU TALIABU",
+     "tampil": "Kabupaten Pulau Taliabu",
+     "wib_kode": "08"
+    },
+    {
+     "kode": "09",
+     "jenis": "KOTA",
+     "nama": "TERNATE",
+     "tampil": "Kota Ternate",
+     "wib_kode": "09"
+    },
+    {
+     "kode": "10",
+     "jenis": "KOTA",
+     "nama": "TIDORE KEPULAUAN",
+     "tampil": "Kota Tidore Kepulauan",
+     "wib_kode": "10"
+    }
+   ],
+   "wib_kode": "31",
+   "tampil": "Maluku Utara"
+  },
+  {
+   "kode": "32",
+   "nama": "MALUKU",
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BURU",
+     "tampil": "Kabupaten Buru",
+     "wib_kode": "01"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "BURU SELATAN",
+     "tampil": "Kabupaten Buru Selatan",
+     "wib_kode": "02"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "KEPULAUAN ARU",
+     "tampil": "Kabupaten Kepulauan Aru",
+     "wib_kode": "03"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "KEPULAUAN TANIMBAR",
+     "tampil": "Kabupaten Kepulauan Tanimbar",
+     "wib_kode": "04"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "MALUKU BARAT DAYA",
+     "tampil": "Kabupaten Maluku Barat Daya",
+     "wib_kode": "05"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "MALUKU TENGAH",
+     "tampil": "Kabupaten Maluku Tengah",
+     "wib_kode": "06"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "MALUKU TENGGARA",
+     "tampil": "Kabupaten Maluku Tenggara",
+     "wib_kode": "07"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "SERAM BAGIAN BARAT",
+     "tampil": "Kabupaten Seram Bagian Barat",
+     "wib_kode": "08"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "SERAM BAGIAN TIMUR",
+     "tampil": "Kabupaten Seram Bagian Timur",
+     "wib_kode": "09"
+    },
+    {
+     "kode": "10",
+     "jenis": "KOTA",
+     "nama": "AMBON",
+     "tampil": "Kota Ambon",
+     "wib_kode": "10"
+    },
+    {
+     "kode": "11",
+     "jenis": "KOTA",
+     "nama": "TUAL",
+     "tampil": "Kota Tual",
+     "wib_kode": "11"
+    }
+   ],
+   "wib_kode": "32",
+   "tampil": "Maluku"
+  },
+  {
+   "kode": "33",
+   "nama": "PAPUA BARAT",
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "FAKFAK",
+     "tampil": "Kabupaten Fakfak",
+     "wib_kode": "01"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "KAIMANA",
+     "tampil": "Kabupaten Kaimana",
+     "wib_kode": "02"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "MANOKWARI",
+     "tampil": "Kabupaten Manokwari",
+     "wib_kode": "03"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "MANOKWARI SELATAN",
+     "tampil": "Kabupaten Manokwari Selatan",
+     "wib_kode": "04"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "PEGUNUNGAN ARFAK",
+     "tampil": "Kabupaten Pegunungan Arfak",
+     "wib_kode": "05"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "TELUK BINTUNI",
+     "tampil": "Kabupaten Teluk Bintuni",
+     "wib_kode": "06"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "TELUK WONDAMA",
+     "tampil": "Kabupaten Teluk Wondama",
+     "wib_kode": "07"
+    }
+   ],
+   "wib_kode": "33",
+   "tampil": "Papua Barat"
+  },
+  {
+   "kode": "34",
+   "nama": "PAPUA",
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BIAK NUMFOR",
+     "tampil": "Kabupaten Biak Numfor",
+     "wib_kode": "01"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "JAYAPURA",
+     "tampil": "Kabupaten Jayapura",
+     "wib_kode": "02"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "KEEROM",
+     "tampil": "Kabupaten Keerom",
+     "wib_kode": "03"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "KEPULAUAN YAPEN",
+     "tampil": "Kabupaten Kepulauan Yapen",
+     "wib_kode": "04"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "MAMBERAMO RAYA",
+     "tampil": "Kabupaten Mamberamo Raya",
+     "wib_kode": "05"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "SARMI",
+     "tampil": "Kabupaten Sarmi",
+     "wib_kode": "06"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "SUPIORI",
+     "tampil": "Kabupaten Supiori",
+     "wib_kode": "07"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "WAROPEN",
+     "tampil": "Kabupaten Waropen",
+     "wib_kode": "08"
+    },
+    {
+     "kode": "09",
+     "jenis": "KOTA",
+     "nama": "JAYAPURA",
+     "tampil": "Kota Jayapura",
+     "wib_kode": "09"
+    }
+   ],
+   "wib_kode": "34",
+   "tampil": "Papua"
+  },
+  {
+   "kode": "35",
+   "nama": "PAPUA SELATAN",
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "ASMAT",
+     "tampil": "Kabupaten Asmat",
+     "wib_kode": "01"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "BOVEN DIGOEL",
+     "tampil": "Kabupaten Boven Digoel",
+     "wib_kode": "02"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "MAPPI",
+     "tampil": "Kabupaten Mappi",
+     "wib_kode": "03"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "MERAUKE",
+     "tampil": "Kabupaten Merauke",
+     "wib_kode": "04"
+    }
+   ],
+   "wib_kode": "35",
+   "tampil": "Papua Selatan"
+  },
+  {
+   "kode": "36",
+   "nama": "PAPUA TENGAH",
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "DEIYAI",
+     "tampil": "Kabupaten Deiyai",
+     "wib_kode": "01"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "DOGIYAI",
+     "tampil": "Kabupaten Dogiyai",
+     "wib_kode": "02"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "INTAN JAYA",
+     "tampil": "Kabupaten Intan Jaya",
+     "wib_kode": "03"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "MIMIKA",
+     "tampil": "Kabupaten Mimika",
+     "wib_kode": "04"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "NABIRE",
+     "tampil": "Kabupaten Nabire",
+     "wib_kode": "05"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "PANIAI",
+     "tampil": "Kabupaten Paniai",
+     "wib_kode": "06"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "PUNCAK",
+     "tampil": "Kabupaten Puncak",
+     "wib_kode": "07"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "PUNCAK JAYA",
+     "tampil": "Kabupaten Puncak Jaya",
+     "wib_kode": "08"
+    }
+   ],
+   "wib_kode": "36",
+   "tampil": "Papua Tengah"
+  },
+  {
+   "kode": "37",
+   "nama": "PAPUA PEGUNUNGAN",
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "JAYAWIJAYA",
+     "tampil": "Kabupaten Jayawijaya",
+     "wib_kode": "01"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "LANNY JAYA",
+     "tampil": "Kabupaten Lanny Jaya",
+     "wib_kode": "02"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "MAMBERAMO TENGAH",
+     "tampil": "Kabupaten Mamberamo Tengah",
+     "wib_kode": "03"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "NDUGA",
+     "tampil": "Kabupaten Nduga",
+     "wib_kode": "04"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "PEGUNUNGAN BINTANG",
+     "tampil": "Kabupaten Pegunungan Bintang",
+     "wib_kode": "05"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "TOLIKARA",
+     "tampil": "Kabupaten Tolikara",
+     "wib_kode": "06"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "YAHUKIMO",
+     "tampil": "Kabupaten Yahukimo",
+     "wib_kode": "08"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "YALIMO",
+     "tampil": "Kabupaten Yalimo",
+     "wib_kode": "07"
+    }
+   ],
+   "wib_kode": "37",
+   "tampil": "Papua Pegunungan"
+  },
+  {
+   "kode": "38",
+   "nama": "PAPUA BARAT DAYA",
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "MAYBRAT",
+     "tampil": "Kabupaten Maybrat",
+     "wib_kode": "01"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "RAJA AMPAT",
+     "tampil": "Kabupaten Raja Ampat",
+     "wib_kode": "02"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "SORONG",
+     "tampil": "Kabupaten Sorong",
+     "wib_kode": "03"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "SORONG SELATAN",
+     "tampil": "Kabupaten Sorong Selatan",
+     "wib_kode": "04"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "TAMBRAUW",
+     "tampil": "Kabupaten Tambrauw",
+     "wib_kode": "05"
+    },
+    {
+     "kode": "06",
+     "jenis": "KOTA",
+     "nama": "SORONG",
+     "tampil": "Kota Sorong",
+     "wib_kode": "06"
+    }
+   ],
+   "wib_kode": "38",
+   "tampil": "Papua Barat Daya"
+  }
+ ]
+}

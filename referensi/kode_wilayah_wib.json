@@ -1,0 +1,3013 @@
+{
+ "sumber": "Table PDF Wilayah (NN DPW <PROVINSI>.pdf). Kode = nomor urut di file; jangan mengubah urutan.",
+ "provinsi": [
+  {
+   "kode": "01",
+   "nama": "ACEH",
+   "alias": [
+    "NANGGROE ACEH DARUSSALAM",
+    "NAD"
+   ],
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "ACEH BARAT"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "ACEH BARAT DAYA"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "ACEH BESAR"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "ACEH JAYA"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "ACEH SELATAN"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "ACEH SINGKIL"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "ACEH TAMIANG"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "ACEH TENGAH"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "ACEH TENGGARA"
+    },
+    {
+     "kode": "10",
+     "jenis": "KABUPATEN",
+     "nama": "ACEH TIMUR"
+    },
+    {
+     "kode": "11",
+     "jenis": "KABUPATEN",
+     "nama": "ACEH UTARA"
+    },
+    {
+     "kode": "12",
+     "jenis": "KABUPATEN",
+     "nama": "BENER MERIAH"
+    },
+    {
+     "kode": "13",
+     "jenis": "KABUPATEN",
+     "nama": "BIREUEN"
+    },
+    {
+     "kode": "14",
+     "jenis": "KABUPATEN",
+     "nama": "GAYO LUES"
+    },
+    {
+     "kode": "15",
+     "jenis": "KABUPATEN",
+     "nama": "NAGAN RAYA"
+    },
+    {
+     "kode": "16",
+     "jenis": "KABUPATEN",
+     "nama": "PIDIE"
+    },
+    {
+     "kode": "17",
+     "jenis": "KABUPATEN",
+     "nama": "PIDIE JAYA"
+    },
+    {
+     "kode": "18",
+     "jenis": "KABUPATEN",
+     "nama": "SIMEULUE"
+    },
+    {
+     "kode": "19",
+     "jenis": "KOTA",
+     "nama": "BANDA ACEH"
+    },
+    {
+     "kode": "20",
+     "jenis": "KOTA",
+     "nama": "LANGSA"
+    },
+    {
+     "kode": "21",
+     "jenis": "KOTA",
+     "nama": "LHOKSEUMAWE"
+    },
+    {
+     "kode": "22",
+     "jenis": "KOTA",
+     "nama": "SABANG"
+    },
+    {
+     "kode": "23",
+     "jenis": "KOTA",
+     "nama": "SUBULUSSALAM"
+    }
+   ]
+  },
+  {
+   "kode": "02",
+   "nama": "SUMATERA UTARA",
+   "alias": [
+    "SUMATRA UTARA",
+    "SUMUT"
+   ],
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "ASAHAN"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "BATU BARA"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "DAIRI"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "DELI SERDANG"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "HUMBANG HASUNDUTAN",
+     "alias": [
+      "HUBANG HASANUDDIN"
+     ]
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "KARO"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "LABUHANBATU",
+     "alias": [
+      "LABUHAN BATU"
+     ]
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "LABUHANBATU SELATAN",
+     "alias": [
+      "LABUHAN BATU SELATAN"
+     ]
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "LABUHANBATU UTARA",
+     "alias": [
+      "LABUHAN BATU UTARA"
+     ]
+    },
+    {
+     "kode": "10",
+     "jenis": "KABUPATEN",
+     "nama": "LANGKAT"
+    },
+    {
+     "kode": "11",
+     "jenis": "KABUPATEN",
+     "nama": "MANDAILING NATAL"
+    },
+    {
+     "kode": "12",
+     "jenis": "KABUPATEN",
+     "nama": "NIAS"
+    },
+    {
+     "kode": "13",
+     "jenis": "KABUPATEN",
+     "nama": "NIAS BARAT"
+    },
+    {
+     "kode": "14",
+     "jenis": "KABUPATEN",
+     "nama": "NIAS SELATAN"
+    },
+    {
+     "kode": "15",
+     "jenis": "KABUPATEN",
+     "nama": "NIAS UTARA"
+    },
+    {
+     "kode": "16",
+     "jenis": "KABUPATEN",
+     "nama": "PADANG LAWAS"
+    },
+    {
+     "kode": "17",
+     "jenis": "KABUPATEN",
+     "nama": "PADANG LAWAS UTARA"
+    },
+    {
+     "kode": "18",
+     "jenis": "KABUPATEN",
+     "nama": "PAKPAK BHARAT"
+    },
+    {
+     "kode": "19",
+     "jenis": "KABUPATEN",
+     "nama": "SAMOSIR"
+    },
+    {
+     "kode": "20",
+     "jenis": "KABUPATEN",
+     "nama": "SERDANG BEDAGAI"
+    },
+    {
+     "kode": "21",
+     "jenis": "KABUPATEN",
+     "nama": "SIMALUNGUN"
+    },
+    {
+     "kode": "22",
+     "jenis": "KABUPATEN",
+     "nama": "TAPANULI SELATAN"
+    },
+    {
+     "kode": "23",
+     "jenis": "KABUPATEN",
+     "nama": "TAPANULI TENGAH"
+    },
+    {
+     "kode": "24",
+     "jenis": "KABUPATEN",
+     "nama": "TAPANULI UTARA"
+    },
+    {
+     "kode": "25",
+     "jenis": "KABUPATEN",
+     "nama": "TOBA",
+     "alias": [
+      "TOBA SAMOSIR"
+     ]
+    },
+    {
+     "kode": "26",
+     "jenis": "KOTA",
+     "nama": "BINJAI"
+    },
+    {
+     "kode": "27",
+     "jenis": "KOTA",
+     "nama": "GUNUNGSITOLI"
+    },
+    {
+     "kode": "28",
+     "jenis": "KOTA",
+     "nama": "MEDAN"
+    },
+    {
+     "kode": "29",
+     "jenis": "KOTA",
+     "nama": "PADANGSIDIMPUAN",
+     "alias": [
+      "PADANG SIDIPUAN"
+     ]
+    },
+    {
+     "kode": "30",
+     "jenis": "KOTA",
+     "nama": "PEMATANGSIANTAR",
+     "alias": [
+      "PEMANTANGSIAR"
+     ]
+    },
+    {
+     "kode": "31",
+     "jenis": "KOTA",
+     "nama": "SIBOLGA"
+    },
+    {
+     "kode": "32",
+     "jenis": "KOTA",
+     "nama": "TANJUNGBALAI"
+    },
+    {
+     "kode": "33",
+     "jenis": "KOTA",
+     "nama": "TEBING TINGGI"
+    }
+   ]
+  },
+  {
+   "kode": "03",
+   "nama": "SUMATERA SELATAN",
+   "alias": [
+    "SUMATRA SELATAN",
+    "SUMSEL"
+   ],
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BANYUASIN",
+     "alias": [
+      "BAYUASIN"
+     ]
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "EMPAT LAWANG"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "LAHAT"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "MUARA ENIM"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "MUSI BANYUASIN"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "MUSI RAWAS"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "MUSI RAWAS UTARA"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "OGAN ILIR"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "OGAN KOMERING ILIR"
+    },
+    {
+     "kode": "10",
+     "jenis": "KABUPATEN",
+     "nama": "OGAN KOMERING ULU"
+    },
+    {
+     "kode": "11",
+     "jenis": "KABUPATEN",
+     "nama": "OGAN KOMERING ULU SELATAN"
+    },
+    {
+     "kode": "12",
+     "jenis": "KABUPATEN",
+     "nama": "OGAN KOMERING ULU TIMUR",
+     "alias": [
+      "OGAN KOMERING ULU TIM"
+     ]
+    },
+    {
+     "kode": "13",
+     "jenis": "KABUPATEN",
+     "nama": "PENUKAL ABAB LEMATANG ILIR",
+     "alias": [
+      "PENUKAL ABAB LEMANG ILIR",
+      "PENUKAL ABAB LEMATANGNG ILIR"
+     ]
+    },
+    {
+     "kode": "14",
+     "jenis": "KOTA",
+     "nama": "LUBUKLINGGAU"
+    },
+    {
+     "kode": "15",
+     "jenis": "KOTA",
+     "nama": "PAGAR ALAM"
+    },
+    {
+     "kode": "16",
+     "jenis": "KOTA",
+     "nama": "PALEMBANG"
+    },
+    {
+     "kode": "17",
+     "jenis": "KOTA",
+     "nama": "PRABUMULIH"
+    }
+   ]
+  },
+  {
+   "kode": "04",
+   "nama": "SUMATERA BARAT",
+   "alias": [
+    "SUMATRA BARAT",
+    "SUMBAR"
+   ],
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "AGAM"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "DHARMASRAYA",
+     "alias": [
+      "DHAMASRAYA"
+     ]
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "KEPULAUAN MENTAWAI"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "LIMA PULUH KOTA",
+     "alias": [
+      "LIMA PULAU KOTA"
+     ]
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "PADANG PARIAMAN"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "PASAMAN"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "PASAMAN BARAT"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "PESISIR SELATAN"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "SIJUNJUNG"
+    },
+    {
+     "kode": "10",
+     "jenis": "KABUPATEN",
+     "nama": "SOLOK"
+    },
+    {
+     "kode": "11",
+     "jenis": "KABUPATEN",
+     "nama": "SOLOK SELATAN"
+    },
+    {
+     "kode": "12",
+     "jenis": "KABUPATEN",
+     "nama": "TANAH DATAR"
+    },
+    {
+     "kode": "13",
+     "jenis": "KOTA",
+     "nama": "BUKITTINGGI"
+    },
+    {
+     "kode": "14",
+     "jenis": "KOTA",
+     "nama": "PADANG"
+    },
+    {
+     "kode": "15",
+     "jenis": "KOTA",
+     "nama": "PADANG PANJANG"
+    },
+    {
+     "kode": "16",
+     "jenis": "KOTA",
+     "nama": "PARIAMAN"
+    },
+    {
+     "kode": "17",
+     "jenis": "KOTA",
+     "nama": "PAYAKUMBUH"
+    },
+    {
+     "kode": "18",
+     "jenis": "KOTA",
+     "nama": "SAWAHLUNTO"
+    },
+    {
+     "kode": "19",
+     "jenis": "KOTA",
+     "nama": "SOLOK"
+    }
+   ]
+  },
+  {
+   "kode": "05",
+   "nama": "BENGKULU",
+   "alias": [],
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BENGKULU SELATAN"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "BENGKULU TENGAH"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "BENGKULU UTARA"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "KAUR"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "KEPAHIANG"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "LEBONG"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "MUKOMUKO"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "REJANG LEBONG"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "SELUMA"
+    },
+    {
+     "kode": "10",
+     "jenis": "KOTA",
+     "nama": "BENGKULU"
+    }
+   ]
+  },
+  {
+   "kode": "06",
+   "nama": "RIAU",
+   "alias": [],
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BENGKALIS"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "INDRAGIRI HILIR"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "INDRAGIRI HULU"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "KAMPAR"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "KEPULAUAN MERANTI"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "KUANTAN SINGINGI"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "PELALAWAN"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "ROKAN HILIR"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "ROKAN HULU"
+    },
+    {
+     "kode": "10",
+     "jenis": "KABUPATEN",
+     "nama": "SIAK"
+    },
+    {
+     "kode": "11",
+     "jenis": "KOTA",
+     "nama": "DUMAI"
+    },
+    {
+     "kode": "12",
+     "jenis": "KOTA",
+     "nama": "PEKANBARU"
+    }
+   ]
+  },
+  {
+   "kode": "07",
+   "nama": "KEPULAUAN RIAU",
+   "alias": [],
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BINTAN"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "KARIMUN"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "KEPULAUAN ANAMBAS"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "LINGGA"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "NATUNA"
+    },
+    {
+     "kode": "06",
+     "jenis": "KOTA",
+     "nama": "BATAM"
+    },
+    {
+     "kode": "07",
+     "jenis": "KOTA",
+     "nama": "TANJUNGPINANG"
+    }
+   ]
+  },
+  {
+   "kode": "08",
+   "nama": "JAMBI",
+   "alias": [],
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BATANGHARI"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "BUNGO"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "KERINCI"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "MERANGIN",
+     "alias": [
+      "MERANGIN BANGKO"
+     ]
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "MUARO JAMBI",
+     "alias": [
+      "MUORO JAMBI"
+     ]
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "SAROLANGUN"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "TANJUNG JABUNG BARAT"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "TANJUNG JABUNG TIMUR"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "TEBO"
+    },
+    {
+     "kode": "10",
+     "jenis": "KOTA",
+     "nama": "JAMBI"
+    },
+    {
+     "kode": "11",
+     "jenis": "KOTA",
+     "nama": "SUNGAI PENUH",
+     "alias": [
+      "SUNGI PENUH"
+     ]
+    }
+   ]
+  },
+  {
+   "kode": "09",
+   "nama": "LAMPUNG",
+   "alias": [],
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "LAMPUNG BARAT"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "LAMPUNG SELATAN"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "LAMPUNG TENGAH"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "LAMPUNG TIMUR"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "LAMPUNG UTARA"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "MESUJI"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "PESAWARAN"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "PESISIR BARAT"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "PRINGSEWU"
+    },
+    {
+     "kode": "10",
+     "jenis": "KABUPATEN",
+     "nama": "TANGGAMUS"
+    },
+    {
+     "kode": "11",
+     "jenis": "KABUPATEN",
+     "nama": "TULANG BAWANG"
+    },
+    {
+     "kode": "12",
+     "jenis": "KABUPATEN",
+     "nama": "TULANG BAWANG BARAT"
+    },
+    {
+     "kode": "13",
+     "jenis": "KABUPATEN",
+     "nama": "WAY KANAN"
+    },
+    {
+     "kode": "14",
+     "jenis": "KOTA",
+     "nama": "BANDAR LAMPUNG"
+    },
+    {
+     "kode": "15",
+     "jenis": "KOTA",
+     "nama": "METRO"
+    }
+   ]
+  },
+  {
+   "kode": "10",
+   "nama": "KEPULAUAN BANGKA BELITUNG",
+   "alias": [
+    "BANGKA BELITUNG",
+    "BABEL"
+   ],
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BANGKA"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "BANGKA BARAT"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "BANGKA SELATAN"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "BANGKA TENGAH"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "BELITUNG"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "BELITUNG TIMUR"
+    },
+    {
+     "kode": "07",
+     "jenis": "KOTA",
+     "nama": "PANGKALPINANG"
+    }
+   ]
+  },
+  {
+   "kode": "11",
+   "nama": "KALIMANTAN TIMUR",
+   "alias": [],
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BERAU"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "KUTAI BARAT"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "KUTAI KARTANEGARA"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "KUTAI TIMUR"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "MAHAKAM ULU",
+     "alias": [
+      "MAHAKAN ULU"
+     ]
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "PASER"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "PENAJAM PASER UTARA"
+    },
+    {
+     "kode": "08",
+     "jenis": "KOTA",
+     "nama": "BALIKPAPAN"
+    },
+    {
+     "kode": "09",
+     "jenis": "KOTA",
+     "nama": "BONTANG"
+    },
+    {
+     "kode": "10",
+     "jenis": "KOTA",
+     "nama": "SAMARINDA",
+     "catatan": "PDF sumber menulis SAMARINDA tanpa awalan KOTA."
+    }
+   ]
+  },
+  {
+   "kode": "12",
+   "nama": "KALIMANTAN BARAT",
+   "alias": [],
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BENGKAYANG"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "KAPUAS HULU"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "KAYONG UTARA"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "KETAPANG"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "KUBU RAYA"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "LANDAK"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "MELAWI",
+     "alias": [
+      "MELAWAI"
+     ]
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "MEMPAWAH"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "SAMBAS"
+    },
+    {
+     "kode": "10",
+     "jenis": "KABUPATEN",
+     "nama": "SANGGAU"
+    },
+    {
+     "kode": "11",
+     "jenis": "KABUPATEN",
+     "nama": "SEKADAU"
+    },
+    {
+     "kode": "12",
+     "jenis": "KABUPATEN",
+     "nama": "SINTANG"
+    },
+    {
+     "kode": "13",
+     "jenis": "KOTA",
+     "nama": "PONTIANAK"
+    },
+    {
+     "kode": "14",
+     "jenis": "KOTA",
+     "nama": "SINGKAWANG"
+    }
+   ]
+  },
+  {
+   "kode": "13",
+   "nama": "KALIMANTAN TENGAH",
+   "alias": [],
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BARITO SELATAN"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "BARITO TIMUR"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "BARITO UTARA"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "GUNUNG MAS"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "KAPUAS"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "KATINGAN"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "KOTAWARINGIN BARAT"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "KOTAWARINGIN TIMUR"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "LAMANDAU"
+    },
+    {
+     "kode": "10",
+     "jenis": "KABUPATEN",
+     "nama": "MURUNG RAYA"
+    },
+    {
+     "kode": "11",
+     "jenis": "KABUPATEN",
+     "nama": "PULANG PISAU",
+     "alias": [
+      "PULAU PISAU"
+     ]
+    },
+    {
+     "kode": "12",
+     "jenis": "KABUPATEN",
+     "nama": "SERUYAN"
+    },
+    {
+     "kode": "13",
+     "jenis": "KABUPATEN",
+     "nama": "SUKAMARA"
+    },
+    {
+     "kode": "14",
+     "jenis": "KOTA",
+     "nama": "PALANGKA RAYA"
+    }
+   ]
+  },
+  {
+   "kode": "14",
+   "nama": "KALIMANTAN SELATAN",
+   "alias": [],
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BALANGAN"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "BANJAR"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "BARITO KUALA"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "HULU SUNGAI SELATAN"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "HULU SUNGAI TENGAH"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "HULU SUNGAI UTARA"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "KOTABARU"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "TABALONG"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "TANAH BUMBU"
+    },
+    {
+     "kode": "10",
+     "jenis": "KABUPATEN",
+     "nama": "TANAH LAUT"
+    },
+    {
+     "kode": "11",
+     "jenis": "KABUPATEN",
+     "nama": "TAPIN"
+    },
+    {
+     "kode": "12",
+     "jenis": "KOTA",
+     "nama": "BANJARBARU"
+    },
+    {
+     "kode": "13",
+     "jenis": "KOTA",
+     "nama": "BANJARMASIN"
+    }
+   ]
+  },
+  {
+   "kode": "15",
+   "nama": "KALIMANTAN UTARA",
+   "alias": [],
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BULUNGAN"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "MALINAU"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "NUNUKAN"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "TANA TIDUNG",
+     "alias": [
+      "TANAH TIDUNG"
+     ]
+    },
+    {
+     "kode": "05",
+     "jenis": "KOTA",
+     "nama": "TARAKAN"
+    }
+   ]
+  },
+  {
+   "kode": "16",
+   "nama": "DKI JAKARTA",
+   "alias": [
+    "JAKARTA",
+    "DAERAH KHUSUS IBUKOTA JAKARTA",
+    "DAERAH KHUSUS JAKARTA"
+   ],
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "KEPULAUAN SERIBU",
+     "alias": [
+      "KEPULAUN SERIBU"
+     ]
+    },
+    {
+     "kode": "02",
+     "jenis": "KOTA",
+     "nama": "JAKARTA BARAT"
+    },
+    {
+     "kode": "03",
+     "jenis": "KOTA",
+     "nama": "JAKARTA PUSAT"
+    },
+    {
+     "kode": "04",
+     "jenis": "KOTA",
+     "nama": "JAKARTA SELATAN"
+    },
+    {
+     "kode": "05",
+     "jenis": "KOTA",
+     "nama": "JAKARTA TIMUR"
+    },
+    {
+     "kode": "06",
+     "jenis": "KOTA",
+     "nama": "JAKARTA UTARA"
+    }
+   ]
+  },
+  {
+   "kode": "17",
+   "nama": "BANTEN",
+   "alias": [],
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "LEBAK"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "PANDEGLANG",
+     "alias": [
+      "PANDEGLAN"
+     ]
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "SERANG"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "TANGERANG",
+     "alias": [
+      "TANGGERANG"
+     ]
+    },
+    {
+     "kode": "05",
+     "jenis": "KOTA",
+     "nama": "CILEGON"
+    },
+    {
+     "kode": "06",
+     "jenis": "KOTA",
+     "nama": "SERANG"
+    },
+    {
+     "kode": "07",
+     "jenis": "KOTA",
+     "nama": "TANGERANG",
+     "alias": [
+      "TANGGERANG"
+     ]
+    },
+    {
+     "kode": "08",
+     "jenis": "KOTA",
+     "nama": "TANGERANG SELATAN",
+     "alias": [
+      "TANGGERANG SELATAN"
+     ]
+    }
+   ]
+  },
+  {
+   "kode": "18",
+   "nama": "JAWA BARAT",
+   "alias": [],
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BANDUNG"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "BANDUNG BARAT"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "BEKASI"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "BOGOR"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "CIAMIS"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "CIANJUR"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "CIREBON"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "GARUT"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "INDRAMAYU"
+    },
+    {
+     "kode": "10",
+     "jenis": "KABUPATEN",
+     "nama": "KARAWANG"
+    },
+    {
+     "kode": "11",
+     "jenis": "KABUPATEN",
+     "nama": "KUNINGAN"
+    },
+    {
+     "kode": "12",
+     "jenis": "KABUPATEN",
+     "nama": "MAJALENGKA"
+    },
+    {
+     "kode": "13",
+     "jenis": "KABUPATEN",
+     "nama": "PANGANDARAN"
+    },
+    {
+     "kode": "14",
+     "jenis": "KABUPATEN",
+     "nama": "PURWAKARTA"
+    },
+    {
+     "kode": "15",
+     "jenis": "KABUPATEN",
+     "nama": "SUBANG"
+    },
+    {
+     "kode": "16",
+     "jenis": "KABUPATEN",
+     "nama": "SUKABUMI"
+    },
+    {
+     "kode": "17",
+     "jenis": "KABUPATEN",
+     "nama": "SUMEDANG"
+    },
+    {
+     "kode": "18",
+     "jenis": "KABUPATEN",
+     "nama": "TASIKMALAYA"
+    },
+    {
+     "kode": "19",
+     "jenis": "KOTA",
+     "nama": "BANDUNG"
+    },
+    {
+     "kode": "20",
+     "jenis": "KOTA",
+     "nama": "BANJAR"
+    },
+    {
+     "kode": "21",
+     "jenis": "KOTA",
+     "nama": "BEKASI"
+    },
+    {
+     "kode": "22",
+     "jenis": "KOTA",
+     "nama": "BOGOR"
+    },
+    {
+     "kode": "23",
+     "jenis": "KOTA",
+     "nama": "CIMAHI"
+    },
+    {
+     "kode": "24",
+     "jenis": "KOTA",
+     "nama": "CIREBON"
+    },
+    {
+     "kode": "25",
+     "jenis": "KOTA",
+     "nama": "DEPOK"
+    },
+    {
+     "kode": "26",
+     "jenis": "KOTA",
+     "nama": "SUKABUMI"
+    },
+    {
+     "kode": "27",
+     "jenis": "KOTA",
+     "nama": "TASIKMALAYA"
+    }
+   ]
+  },
+  {
+   "kode": "19",
+   "nama": "JAWA TENGAH",
+   "alias": [],
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "CILACAP"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "BANYUMAS"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "PURBALINGGA"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "BANJARNEGARA"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "KEBUMEN"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "PURWOREJO"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "WONOSOBO"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "MAGELANG"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "BOYOLALI"
+    },
+    {
+     "kode": "10",
+     "jenis": "KABUPATEN",
+     "nama": "KLATEN"
+    },
+    {
+     "kode": "11",
+     "jenis": "KABUPATEN",
+     "nama": "SUKOHARJO"
+    },
+    {
+     "kode": "12",
+     "jenis": "KABUPATEN",
+     "nama": "WONOGIRI"
+    },
+    {
+     "kode": "13",
+     "jenis": "KABUPATEN",
+     "nama": "KARANGANYAR"
+    },
+    {
+     "kode": "14",
+     "jenis": "KABUPATEN",
+     "nama": "SRAGEN"
+    },
+    {
+     "kode": "15",
+     "jenis": "KABUPATEN",
+     "nama": "GROBOGAN",
+     "alias": [
+      "GROBOKAN"
+     ]
+    },
+    {
+     "kode": "16",
+     "jenis": "KABUPATEN",
+     "nama": "BLORA"
+    },
+    {
+     "kode": "17",
+     "jenis": "KABUPATEN",
+     "nama": "REMBANG"
+    },
+    {
+     "kode": "18",
+     "jenis": "KABUPATEN",
+     "nama": "PATI"
+    },
+    {
+     "kode": "19",
+     "jenis": "KABUPATEN",
+     "nama": "KUDUS"
+    },
+    {
+     "kode": "20",
+     "jenis": "KABUPATEN",
+     "nama": "JEPARA"
+    },
+    {
+     "kode": "21",
+     "jenis": "KABUPATEN",
+     "nama": "DEMAK"
+    },
+    {
+     "kode": "22",
+     "jenis": "KABUPATEN",
+     "nama": "SEMARANG"
+    },
+    {
+     "kode": "23",
+     "jenis": "KABUPATEN",
+     "nama": "TEMANGGUNG",
+     "alias": [
+      "TAMANGGUNG"
+     ]
+    },
+    {
+     "kode": "24",
+     "jenis": "KABUPATEN",
+     "nama": "KENDAL"
+    },
+    {
+     "kode": "25",
+     "jenis": "KABUPATEN",
+     "nama": "BATANG"
+    },
+    {
+     "kode": "26",
+     "jenis": "KABUPATEN",
+     "nama": "PEKALONGAN"
+    },
+    {
+     "kode": "27",
+     "jenis": "KABUPATEN",
+     "nama": "PEMALANG"
+    },
+    {
+     "kode": "28",
+     "jenis": "KABUPATEN",
+     "nama": "TEGAL"
+    },
+    {
+     "kode": "29",
+     "jenis": "KABUPATEN",
+     "nama": "BREBES"
+    },
+    {
+     "kode": "30",
+     "jenis": "KOTA",
+     "nama": "MAGELANG"
+    },
+    {
+     "kode": "31",
+     "jenis": "KOTA",
+     "nama": "SURAKARTA",
+     "alias": [
+      "SOLO"
+     ]
+    },
+    {
+     "kode": "32",
+     "jenis": "KOTA",
+     "nama": "SALATIGA"
+    },
+    {
+     "kode": "33",
+     "jenis": "KOTA",
+     "nama": "SEMARANG"
+    },
+    {
+     "kode": "34",
+     "jenis": "KOTA",
+     "nama": "PEKALONGAN"
+    },
+    {
+     "kode": "35",
+     "jenis": "KOTA",
+     "nama": "TEGAL"
+    }
+   ]
+  },
+  {
+   "kode": "20",
+   "nama": "DI YOGYAKARTA",
+   "alias": [
+    "DI JOGYAKARTA",
+    "DAERAH ISTIMEWA YOGYAKARTA",
+    "YOGYAKARTA",
+    "JOGJAKARTA",
+    "JOGYAKARTA",
+    "DIY"
+   ],
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "KULON PROGO",
+     "alias": [
+      "KULON PROGA"
+     ]
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "BANTUL"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "GUNUNGKIDUL",
+     "alias": [
+      "GUNUNG KIDUL"
+     ]
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "SLEMAN"
+    },
+    {
+     "kode": "05",
+     "jenis": "KOTA",
+     "nama": "YOGYAKARTA",
+     "alias": [
+      "JOGYAKARTA",
+      "JOGJAKARTA"
+     ]
+    }
+   ]
+  },
+  {
+   "kode": "21",
+   "nama": "JAWA TIMUR",
+   "alias": [],
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BANGKALAN"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "BANYUWANGI"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "BLITAR"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "BOJONEGORO"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "BONDOWOSO"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "GRESIK"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "JEMBER"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "JOMBANG"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "KEDIRI"
+    },
+    {
+     "kode": "10",
+     "jenis": "KABUPATEN",
+     "nama": "LAMONGAN"
+    },
+    {
+     "kode": "11",
+     "jenis": "KABUPATEN",
+     "nama": "LUMAJANG"
+    },
+    {
+     "kode": "12",
+     "jenis": "KABUPATEN",
+     "nama": "MADIUN"
+    },
+    {
+     "kode": "13",
+     "jenis": "KABUPATEN",
+     "nama": "MAGETAN"
+    },
+    {
+     "kode": "14",
+     "jenis": "KABUPATEN",
+     "nama": "MALANG"
+    },
+    {
+     "kode": "15",
+     "jenis": "KABUPATEN",
+     "nama": "MOJOKERTO"
+    },
+    {
+     "kode": "16",
+     "jenis": "KABUPATEN",
+     "nama": "NGANJUK"
+    },
+    {
+     "kode": "17",
+     "jenis": "KABUPATEN",
+     "nama": "NGAWI"
+    },
+    {
+     "kode": "18",
+     "jenis": "KABUPATEN",
+     "nama": "PACITAN"
+    },
+    {
+     "kode": "19",
+     "jenis": "KABUPATEN",
+     "nama": "PAMEKASAN"
+    },
+    {
+     "kode": "20",
+     "jenis": "KABUPATEN",
+     "nama": "PASURUAN"
+    },
+    {
+     "kode": "21",
+     "jenis": "KABUPATEN",
+     "nama": "PONOROGO"
+    },
+    {
+     "kode": "22",
+     "jenis": "KABUPATEN",
+     "nama": "PROBOLINGGO"
+    },
+    {
+     "kode": "23",
+     "jenis": "KABUPATEN",
+     "nama": "SAMPANG"
+    },
+    {
+     "kode": "24",
+     "jenis": "KABUPATEN",
+     "nama": "SIDOARJO"
+    },
+    {
+     "kode": "25",
+     "jenis": "KABUPATEN",
+     "nama": "SITUBONDO"
+    },
+    {
+     "kode": "26",
+     "jenis": "KABUPATEN",
+     "nama": "SUMENEP"
+    },
+    {
+     "kode": "27",
+     "jenis": "KABUPATEN",
+     "nama": "TRENGGALEK"
+    },
+    {
+     "kode": "28",
+     "jenis": "KABUPATEN",
+     "nama": "TUBAN"
+    },
+    {
+     "kode": "29",
+     "jenis": "KABUPATEN",
+     "nama": "TULUNGAGUNG"
+    },
+    {
+     "kode": "30",
+     "jenis": "KOTA",
+     "nama": "BATU"
+    },
+    {
+     "kode": "31",
+     "jenis": "KOTA",
+     "nama": "BLITAR"
+    },
+    {
+     "kode": "32",
+     "jenis": "KOTA",
+     "nama": "KEDIRI"
+    },
+    {
+     "kode": "33",
+     "jenis": "KOTA",
+     "nama": "MADIUN"
+    },
+    {
+     "kode": "34",
+     "jenis": "KOTA",
+     "nama": "MALANG"
+    },
+    {
+     "kode": "35",
+     "jenis": "KOTA",
+     "nama": "MOJOKERTO"
+    },
+    {
+     "kode": "36",
+     "jenis": "KOTA",
+     "nama": "PASURUAN"
+    },
+    {
+     "kode": "37",
+     "jenis": "KOTA",
+     "nama": "PROBOLINGGO",
+     "catatan": "PDF sumber menulis KOTA MOJOKERTO (dobel dengan nomor 35); dianggap KOTA PROBOLINGGO."
+    },
+    {
+     "kode": "38",
+     "jenis": "KOTA",
+     "nama": "SURABAYA"
+    }
+   ]
+  },
+  {
+   "kode": "22",
+   "nama": "BALI",
+   "alias": [],
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BADUNG",
+     "alias": [
+      "BANDUNG"
+     ]
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "BANGLI",
+     "alias": [
+      "BANGIL"
+     ]
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "BULELENG"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "GIANYAR"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "JEMBRANA",
+     "alias": [
+      "JEMRANA"
+     ]
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "KARANGASEM"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "KLUNGKUNG"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "TABANAN"
+    },
+    {
+     "kode": "09",
+     "jenis": "KOTA",
+     "nama": "DENPASAR"
+    }
+   ]
+  },
+  {
+   "kode": "23",
+   "nama": "NUSA TENGGARA BARAT",
+   "alias": [
+    "NTB"
+   ],
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "LOMBOK BARAT",
+     "alias": [
+      "LOMBOKM BARAT"
+     ]
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "LOMBOK TENGAH"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "LOMBOK TIMUR"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "SUMBAWA"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "DOMPU"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "BIMA"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "SUMBAWA BARAT"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "LOMBOK UTARA"
+    },
+    {
+     "kode": "09",
+     "jenis": "KOTA",
+     "nama": "MATARAM"
+    },
+    {
+     "kode": "10",
+     "jenis": "KOTA",
+     "nama": "BIMA"
+    }
+   ]
+  },
+  {
+   "kode": "24",
+   "nama": "NUSA TENGGARA TIMUR",
+   "alias": [
+    "NTT"
+   ],
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "SUMBA BARAT"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "SUMBA TIMUR"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "KUPANG"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "TIMOR TENGAH SELATAN"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "TIMOR TENGAH UTARA"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "BELU"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "ALOR"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "LEMBATA"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "FLORES TIMUR"
+    },
+    {
+     "kode": "10",
+     "jenis": "KABUPATEN",
+     "nama": "SIKKA"
+    },
+    {
+     "kode": "11",
+     "jenis": "KABUPATEN",
+     "nama": "ENDE"
+    },
+    {
+     "kode": "12",
+     "jenis": "KABUPATEN",
+     "nama": "NGADA",
+     "alias": [
+      "NGANDA"
+     ]
+    },
+    {
+     "kode": "13",
+     "jenis": "KABUPATEN",
+     "nama": "MANGGARAI"
+    },
+    {
+     "kode": "14",
+     "jenis": "KABUPATEN",
+     "nama": "ROTE NDAO"
+    },
+    {
+     "kode": "15",
+     "jenis": "KABUPATEN",
+     "nama": "MANGGARAI BARAT"
+    },
+    {
+     "kode": "16",
+     "jenis": "KABUPATEN",
+     "nama": "SUMBA TENGAH"
+    },
+    {
+     "kode": "17",
+     "jenis": "KABUPATEN",
+     "nama": "SUMBA BARAT DAYA"
+    },
+    {
+     "kode": "18",
+     "jenis": "KABUPATEN",
+     "nama": "SABU RAIJUA"
+    },
+    {
+     "kode": "19",
+     "jenis": "KABUPATEN",
+     "nama": "MALAKA"
+    },
+    {
+     "kode": "20",
+     "jenis": "KOTA",
+     "nama": "KUPANG"
+    }
+   ],
+   "catatan": "PDF sumber hanya memuat 20 kab/kota; Manggarai Timur dan Nagekeo belum ada."
+  },
+  {
+   "kode": "25",
+   "nama": "SULAWESI UTARA",
+   "alias": [],
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BOLAANG MONGONDOW"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "BOLAANG MONGONDOW SELATAN"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "BOLAANG MONGONDOW TIMUR"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "BOLAANG MONGONDOW UTARA"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "KEPULAUAN SANGIHE"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "KEPULAUAN SIAU TAGULANDANG BIARO"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "KEPULAUAN TALAUD",
+     "alias": [
+      "KEPULAUAN TALAUT"
+     ]
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "MINAHASA"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "MINAHASA SELATAN"
+    },
+    {
+     "kode": "10",
+     "jenis": "KABUPATEN",
+     "nama": "MINAHASA TENGGARA"
+    },
+    {
+     "kode": "11",
+     "jenis": "KABUPATEN",
+     "nama": "MINAHASA UTARA"
+    },
+    {
+     "kode": "12",
+     "jenis": "KOTA",
+     "nama": "BITUNG"
+    },
+    {
+     "kode": "13",
+     "jenis": "KOTA",
+     "nama": "KOTAMOBAGU"
+    },
+    {
+     "kode": "14",
+     "jenis": "KOTA",
+     "nama": "MANADO"
+    },
+    {
+     "kode": "15",
+     "jenis": "KOTA",
+     "nama": "TOMOHON"
+    },
+    {
+     "kode": "16",
+     "jenis": "KABUPATEN",
+     "nama": "PADANG LAWAS",
+     "catatan": "PDF sumber menulis PADANG LAWAS (kabupaten di Sumatera Utara); perlu dikonfirmasi DPP."
+    }
+   ]
+  },
+  {
+   "kode": "26",
+   "nama": "SULAWESI BARAT",
+   "alias": [],
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "MAJENE"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "MAMASA"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "MAMUJU"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "MAMUJU TENGAH"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "PASANGKAYU"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "POLEWALI MANDAR"
+    }
+   ]
+  },
+  {
+   "kode": "27",
+   "nama": "SULAWESI TENGAH",
+   "alias": [],
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BANGGAI"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "BANGGAI KEPULAUAN"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "BANGGAI LAUT"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "BUOL"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "DONGGALA"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "MOROWALI"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "MOROWALI UTARA"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "PARIGI MOUTONG"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "POSO"
+    },
+    {
+     "kode": "10",
+     "jenis": "KABUPATEN",
+     "nama": "SIGI"
+    },
+    {
+     "kode": "11",
+     "jenis": "KABUPATEN",
+     "nama": "TOJO UNA-UNA"
+    },
+    {
+     "kode": "12",
+     "jenis": "KABUPATEN",
+     "nama": "TOLITOLI",
+     "alias": [
+      "TOLI-TOLI"
+     ]
+    },
+    {
+     "kode": "13",
+     "jenis": "KOTA",
+     "nama": "PALU"
+    }
+   ]
+  },
+  {
+   "kode": "28",
+   "nama": "GORONTALO",
+   "alias": [],
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BOALEMO"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "BONE BOLANGO"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "GORONTALO"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "GORONTALO UTARA"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "POHUWATO",
+     "alias": [
+      "PAHUWATO"
+     ]
+    },
+    {
+     "kode": "06",
+     "jenis": "KOTA",
+     "nama": "GORONTALO"
+    }
+   ]
+  },
+  {
+   "kode": "29",
+   "nama": "SULAWESI TENGGARA",
+   "alias": [],
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BOMBANA"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "BUTON"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "BUTON SELATAN"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "BUTON TENGAH",
+     "alias": [
+      "BOTON TENGAH"
+     ]
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "BUTON UTARA"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "KOLAKA"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "KOLAKA TIMUR"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "KOLAKA UTARA"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "KONAWE"
+    },
+    {
+     "kode": "10",
+     "jenis": "KABUPATEN",
+     "nama": "KONAWE KEPULAUAN"
+    },
+    {
+     "kode": "11",
+     "jenis": "KABUPATEN",
+     "nama": "KONAWE SELATAN"
+    },
+    {
+     "kode": "12",
+     "jenis": "KABUPATEN",
+     "nama": "KONAWE UTARA"
+    },
+    {
+     "kode": "13",
+     "jenis": "KABUPATEN",
+     "nama": "MUNA"
+    },
+    {
+     "kode": "14",
+     "jenis": "KABUPATEN",
+     "nama": "MUNA BARAT"
+    },
+    {
+     "kode": "15",
+     "jenis": "KABUPATEN",
+     "nama": "WAKATOBI"
+    },
+    {
+     "kode": "16",
+     "jenis": "KOTA",
+     "nama": "BAUBAU"
+    },
+    {
+     "kode": "17",
+     "jenis": "KOTA",
+     "nama": "KENDARI"
+    }
+   ]
+  },
+  {
+   "kode": "30",
+   "nama": "SULAWESI SELATAN",
+   "alias": [],
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BANTAENG"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "BARRU"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "BONE"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "BULUKUMBA"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "ENREKANG"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "GOWA",
+     "alias": [
+      "GOA"
+     ]
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "JENEPONTO"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "KEPULAUAN SELAYAR"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "LUWU"
+    },
+    {
+     "kode": "10",
+     "jenis": "KABUPATEN",
+     "nama": "LUWU TIMUR"
+    },
+    {
+     "kode": "11",
+     "jenis": "KABUPATEN",
+     "nama": "LUWU UTARA"
+    },
+    {
+     "kode": "12",
+     "jenis": "KABUPATEN",
+     "nama": "MAROS"
+    },
+    {
+     "kode": "13",
+     "jenis": "KABUPATEN",
+     "nama": "PANGKAJENE DAN KEPULAUAN",
+     "alias": [
+      "PANGKEP"
+     ]
+    },
+    {
+     "kode": "14",
+     "jenis": "KABUPATEN",
+     "nama": "PINRANG"
+    },
+    {
+     "kode": "15",
+     "jenis": "KABUPATEN",
+     "nama": "SIDENRENG RAPPANG",
+     "alias": [
+      "SIDRAP"
+     ]
+    },
+    {
+     "kode": "16",
+     "jenis": "KABUPATEN",
+     "nama": "SINJAI"
+    },
+    {
+     "kode": "17",
+     "jenis": "KABUPATEN",
+     "nama": "SOPPENG"
+    },
+    {
+     "kode": "18",
+     "jenis": "KABUPATEN",
+     "nama": "TAKALAR"
+    },
+    {
+     "kode": "19",
+     "jenis": "KABUPATEN",
+     "nama": "TANA TORAJA"
+    },
+    {
+     "kode": "20",
+     "jenis": "KABUPATEN",
+     "nama": "TORAJA UTARA"
+    },
+    {
+     "kode": "21",
+     "jenis": "KABUPATEN",
+     "nama": "WAJO"
+    },
+    {
+     "kode": "22",
+     "jenis": "KOTA",
+     "nama": "MAKASSAR"
+    },
+    {
+     "kode": "23",
+     "jenis": "KOTA",
+     "nama": "PALOPO"
+    },
+    {
+     "kode": "24",
+     "jenis": "KOTA",
+     "nama": "PAREPARE"
+    }
+   ]
+  },
+  {
+   "kode": "31",
+   "nama": "MALUKU UTARA",
+   "alias": [],
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "HALMAHERA BARAT"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "HALMAHERA SELATAN"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "HALMAHERA TENGAH"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "HALMAHERA TIMUR"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "HALMAHERA UTARA"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "KEPULAUAN SULA",
+     "alias": [
+      "SULA"
+     ]
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "PULAU MOROTAI"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "PULAU TALIABU"
+    },
+    {
+     "kode": "09",
+     "jenis": "KOTA",
+     "nama": "TERNATE"
+    },
+    {
+     "kode": "10",
+     "jenis": "KOTA",
+     "nama": "TIDORE KEPULAUAN"
+    }
+   ]
+  },
+  {
+   "kode": "32",
+   "nama": "MALUKU",
+   "alias": [],
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BURU"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "BURU SELATAN"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "KEPULAUAN ARU"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "KEPULAUAN TANIMBAR",
+     "alias": [
+      "KEPULAUAN TANIBAR"
+     ]
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "MALUKU BARAT DAYA"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "MALUKU TENGAH"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "MALUKU TENGGARA"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "SERAM BAGIAN BARAT"
+    },
+    {
+     "kode": "09",
+     "jenis": "KABUPATEN",
+     "nama": "SERAM BAGIAN TIMUR"
+    },
+    {
+     "kode": "10",
+     "jenis": "KOTA",
+     "nama": "AMBON"
+    },
+    {
+     "kode": "11",
+     "jenis": "KOTA",
+     "nama": "TUAL"
+    }
+   ]
+  },
+  {
+   "kode": "33",
+   "nama": "PAPUA BARAT",
+   "alias": [],
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "FAKFAK"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "KAIMANA"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "MANOKWARI",
+     "alias": [
+      "MONOKWARI"
+     ]
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "MANOKWARI SELATAN",
+     "alias": [
+      "MONOKWARI SELATAN"
+     ]
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "PEGUNUNGAN ARFAK"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "TELUK BINTUNI"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "TELUK WONDAMA"
+    }
+   ]
+  },
+  {
+   "kode": "34",
+   "nama": "PAPUA",
+   "alias": [],
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "BIAK NUMFOR"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "JAYAPURA"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "KEEROM"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "KEPULAUAN YAPEN"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "MAMBERAMO RAYA"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "SARMI"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "SUPIORI"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "WAROPEN"
+    },
+    {
+     "kode": "09",
+     "jenis": "KOTA",
+     "nama": "JAYAPURA"
+    }
+   ]
+  },
+  {
+   "kode": "35",
+   "nama": "PAPUA SELATAN",
+   "alias": [],
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "ASMAT"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "BOVEN DIGOEL"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "MAPPI"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "MERAUKE"
+    }
+   ]
+  },
+  {
+   "kode": "36",
+   "nama": "PAPUA TENGAH",
+   "alias": [],
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "DEIYAI"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "DOGIYAI"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "INTAN JAYA"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "MIMIKA"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "NABIRE"
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "PANIAI"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "PUNCAK"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "PUNCAK JAYA"
+    }
+   ]
+  },
+  {
+   "kode": "37",
+   "nama": "PAPUA PEGUNUNGAN",
+   "alias": [],
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "JAYAWIJAYA"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "LANNY JAYA"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "MAMBERAMO TENGAH"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "NDUGA"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "PEGUNUNGAN BINTANG",
+     "alias": [
+      "PENGGUNUNGAN BINTANG"
+     ]
+    },
+    {
+     "kode": "06",
+     "jenis": "KABUPATEN",
+     "nama": "TOLIKARA"
+    },
+    {
+     "kode": "07",
+     "jenis": "KABUPATEN",
+     "nama": "YALIMO"
+    },
+    {
+     "kode": "08",
+     "jenis": "KABUPATEN",
+     "nama": "YAHUKIMO"
+    }
+   ]
+  },
+  {
+   "kode": "38",
+   "nama": "PAPUA BARAT DAYA",
+   "alias": [],
+   "wilayah": [
+    {
+     "kode": "01",
+     "jenis": "KABUPATEN",
+     "nama": "MAYBRAT"
+    },
+    {
+     "kode": "02",
+     "jenis": "KABUPATEN",
+     "nama": "RAJA AMPAT"
+    },
+    {
+     "kode": "03",
+     "jenis": "KABUPATEN",
+     "nama": "SORONG"
+    },
+    {
+     "kode": "04",
+     "jenis": "KABUPATEN",
+     "nama": "SORONG SELATAN"
+    },
+    {
+     "kode": "05",
+     "jenis": "KABUPATEN",
+     "nama": "TAMBRAUW"
+    },
+    {
+     "kode": "06",
+     "jenis": "KOTA",
+     "nama": "SORONG"
+    }
+   ]
+  }
+ ]
+}

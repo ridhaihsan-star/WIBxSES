@@ -1,0 +1,12 @@
+RAHASIA - SIMPAN SECARA AMAN. Ganti kata sandi dari menu Pengaturan setelah login.
+
+admin         | superadmin     | XL8kbgJjpvcVn-MQg20
+jovi          | admin_wib      | 1GGE1A1TyS1VgOuO97c
+febri         | admin_wib      | EoYixaCinIzqBS8N4TQ
+ihsan         | ses_admin      | rMu6IIzpPKX3idB-k48
+ketum         | ketum          | x-s6mDAqcdPweUsX_Go
+sekjen        | sekjen         | GckXiXe9UNIGK2zLfJw
+waketum       | waketum        | -g45JxiX0QQO-E43Jr0
+direksi       | ses_director   | viO3-4xdPun6NG-Dcd4
+dpw_demo      | dpw            | 5Ntogv6wcbxxIgTwWvc
+audit         | auditor        | BerUKGTeBksxGn7pGVc

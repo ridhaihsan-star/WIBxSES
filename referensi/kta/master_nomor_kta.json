@@ -1,0 +1,4955 @@
+{
+"sumber": "Master_Nomor_KTA_Internal.xlsx + tambahan_nomor_kta_*.txt",
+"wilayah": [
+{
+"kode": "01.000",
+"pp": "01",
+"provinsi": "Aceh",
+"tingkat": "DPW",
+"nama": "DPW Aceh",
+"kartu": "Aceh",
+"induk": "",
+"status": "Internal"
+},
+{
+"kode": "01.001",
+"pp": "01",
+"provinsi": "Aceh",
+"tingkat": "DPD",
+"nama": "Aceh Selatan",
+"kartu": "Kabupaten Aceh Selatan",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "01.002",
+"pp": "01",
+"provinsi": "Aceh",
+"tingkat": "DPD",
+"nama": "Aceh Tenggara",
+"kartu": "Kabupaten Aceh Tenggara",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "01.003",
+"pp": "01",
+"provinsi": "Aceh",
+"tingkat": "DPD",
+"nama": "Aceh Timur",
+"kartu": "Kabupaten Aceh Timur",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "01.004",
+"pp": "01",
+"provinsi": "Aceh",
+"tingkat": "DPD",
+"nama": "Aceh Tengah",
+"kartu": "Kabupaten Aceh Tengah",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "01.005",
+"pp": "01",
+"provinsi": "Aceh",
+"tingkat": "DPD",
+"nama": "Aceh Barat",
+"kartu": "Kabupaten Aceh Barat",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "01.006",
+"pp": "01",
+"provinsi": "Aceh",
+"tingkat": "DPD",
+"nama": "Aceh Besar",
+"kartu": "Kabupaten Aceh Besar",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "01.007",
+"pp": "01",
+"provinsi": "Aceh",
+"tingkat": "DPD",
+"nama": "Pidie",
+"kartu": "Kabupaten Pidie",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "01.008",
+"pp": "01",
+"provinsi": "Aceh",
+"tingkat": "DPD",
+"nama": "Aceh Utara",
+"kartu": "Kabupaten Aceh Utara",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "01.009",
+"pp": "01",
+"provinsi": "Aceh",
+"tingkat": "DPD",
+"nama": "Simeulue",
+"kartu": "Kabupaten Simeulue",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "01.010",
+"pp": "01",
+"provinsi": "Aceh",
+"tingkat": "DPD",
+"nama": "Aceh Singkil",
+"kartu": "Kabupaten Aceh Singkil",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "01.011",
+"pp": "01",
+"provinsi": "Aceh",
+"tingkat": "DPD",
+"nama": "Bireuen",
+"kartu": "Kabupaten Bireuen",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "01.012",
+"pp": "01",
+"provinsi": "Aceh",
+"tingkat": "DPD",
+"nama": "Aceh Barat Daya",
+"kartu": "Kabupaten Aceh Barat Daya",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "01.013",
+"pp": "01",
+"provinsi": "Aceh",
+"tingkat": "DPD",
+"nama": "Gayo Lues",
+"kartu": "Kabupaten Gayo Lues",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "01.014",
+"pp": "01",
+"provinsi": "Aceh",
+"tingkat": "DPD",
+"nama": "Aceh Jaya",
+"kartu": "Kabupaten Aceh Jaya",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "01.015",
+"pp": "01",
+"provinsi": "Aceh",
+"tingkat": "DPD",
+"nama": "Nagan Raya",
+"kartu": "Kabupaten Nagan Raya",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "01.016",
+"pp": "01",
+"provinsi": "Aceh",
+"tingkat": "DPD",
+"nama": "Aceh Tamiang",
+"kartu": "Kabupaten Aceh Tamiang",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "01.017",
+"pp": "01",
+"provinsi": "Aceh",
+"tingkat": "DPD",
+"nama": "Bener Meriah",
+"kartu": "Kabupaten Bener Meriah",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "01.018",
+"pp": "01",
+"provinsi": "Aceh",
+"tingkat": "DPD",
+"nama": "Pidie Jaya",
+"kartu": "Kabupaten Pidie Jaya",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "01.019",
+"pp": "01",
+"provinsi": "Aceh",
+"tingkat": "DPC",
+"nama": "Banda Aceh",
+"kartu": "Kota Banda Aceh",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "01.020",
+"pp": "01",
+"provinsi": "Aceh",
+"tingkat": "DPC",
+"nama": "Sabang",
+"kartu": "Kota Sabang",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "01.021",
+"pp": "01",
+"provinsi": "Aceh",
+"tingkat": "DPC",
+"nama": "Lhokseumawe",
+"kartu": "Kota Lhokseumawe",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "01.022",
+"pp": "01",
+"provinsi": "Aceh",
+"tingkat": "DPC",
+"nama": "Langsa",
+"kartu": "Kota Langsa",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "01.023",
+"pp": "01",
+"provinsi": "Aceh",
+"tingkat": "DPC",
+"nama": "Subulussalam",
+"kartu": "Kota Subulussalam",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "02.000",
+"pp": "02",
+"provinsi": "Sumatera Utara",
+"tingkat": "DPW",
+"nama": "DPW Sumatera Utara",
+"kartu": "Sumatera Utara",
+"induk": "",
+"status": "Internal"
+},
+{
+"kode": "02.001",
+"pp": "02",
+"provinsi": "Sumatera Utara",
+"tingkat": "DPD",
+"nama": "Asahan",
+"kartu": "Kabupaten Asahan",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "02.001.001",
+"pp": "02",
+"provinsi": "Sumatera Utara",
+"tingkat": "PAC",
+"nama": "Air Batu",
+"kartu": "Air Batu",
+"induk": "02.001",
+"status": "Internal/provisional"
+},
+{
+"kode": "02.001.002",
+"pp": "02",
+"provinsi": "Sumatera Utara",
+"tingkat": "PAC",
+"nama": "Kisaran Timur",
+"kartu": "Kisaran Timur",
+"induk": "02.001",
+"status": "Internal/provisional"
+},
+{
+"kode": "02.002",
+"pp": "02",
+"provinsi": "Sumatera Utara",
+"tingkat": "DPD",
+"nama": "Batu Bara",
+"kartu": "Kabupaten Batu Bara",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "02.003",
+"pp": "02",
+"provinsi": "Sumatera Utara",
+"tingkat": "DPD",
+"nama": "Dairi",
+"kartu": "Kabupaten Dairi",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "02.004",
+"pp": "02",
+"provinsi": "Sumatera Utara",
+"tingkat": "DPD",
+"nama": "Deli Serdang",
+"kartu": "Kabupaten Deli Serdang",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "02.005",
+"pp": "02",
+"provinsi": "Sumatera Utara",
+"tingkat": "DPD",
+"nama": "Humbang Hasundutan",
+"kartu": "Kabupaten Humbang Hasundutan",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "02.005.001",
+"pp": "02",
+"provinsi": "Sumatera Utara",
+"tingkat": "PAC",
+"nama": "Parlilitan",
+"kartu": "Parlilitan",
+"induk": "02.005",
+"status": "Internal/provisional"
+},
+{
+"kode": "02.006",
+"pp": "02",
+"provinsi": "Sumatera Utara",
+"tingkat": "DPD",
+"nama": "Karo",
+"kartu": "Kabupaten Karo",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "02.007",
+"pp": "02",
+"provinsi": "Sumatera Utara",
+"tingkat": "DPD",
+"nama": "Labuhanbatu",
+"kartu": "Kabupaten Labuhanbatu",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "02.008",
+"pp": "02",
+"provinsi": "Sumatera Utara",
+"tingkat": "DPD",
+"nama": "Labuhanbatu Selatan",
+"kartu": "Kabupaten Labuhanbatu Selatan",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "02.009",
+"pp": "02",
+"provinsi": "Sumatera Utara",
+"tingkat": "DPD",
+"nama": "Labuhanbatu Utara",
+"kartu": "Kabupaten Labuhanbatu Utara",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "02.010",
+"pp": "02",
+"provinsi": "Sumatera Utara",
+"tingkat": "DPD",
+"nama": "Langkat",
+"kartu": "Kabupaten Langkat",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "02.011",
+"pp": "02",
+"provinsi": "Sumatera Utara",
+"tingkat": "DPD",
+"nama": "Mandailing Natal",
+"kartu": "Kabupaten Mandailing Natal",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "02.012",
+"pp": "02",
+"provinsi": "Sumatera Utara",
+"tingkat": "DPD",
+"nama": "Nias",
+"kartu": "Kabupaten Nias",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "02.013",
+"pp": "02",
+"provinsi": "Sumatera Utara",
+"tingkat": "DPD",
+"nama": "Nias Barat",
+"kartu": "Kabupaten Nias Barat",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "02.014",
+"pp": "02",
+"provinsi": "Sumatera Utara",
+"tingkat": "DPD",
+"nama": "Nias Selatan",
+"kartu": "Kabupaten Nias Selatan",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "02.015",
+"pp": "02",
+"provinsi": "Sumatera Utara",
+"tingkat": "DPD",
+"nama": "Nias Utara",
+"kartu": "Kabupaten Nias Utara",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "02.016",
+"pp": "02",
+"provinsi": "Sumatera Utara",
+"tingkat": "DPD",
+"nama": "Padang Lawas",
+"kartu": "Kabupaten Padang Lawas",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "02.017",
+"pp": "02",
+"provinsi": "Sumatera Utara",
+"tingkat": "DPD",
+"nama": "Padang Lawas Utara",
+"kartu": "Kabupaten Padang Lawas Utara",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "02.018",
+"pp": "02",
+"provinsi": "Sumatera Utara",
+"tingkat": "DPD",
+"nama": "Pakpak Bharat",
+"kartu": "Kabupaten Pakpak Bharat",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "02.019",
+"pp": "02",
+"provinsi": "Sumatera Utara",
+"tingkat": "DPD",
+"nama": "Samosir",
+"kartu": "Kabupaten Samosir",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "02.020",
+"pp": "02",
+"provinsi": "Sumatera Utara",
+"tingkat": "DPD",
+"nama": "Serdang Bedagai",
+"kartu": "Kabupaten Serdang Bedagai",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "02.021",
+"pp": "02",
+"provinsi": "Sumatera Utara",
+"tingkat": "DPD",
+"nama": "Simalungun",
+"kartu": "Kabupaten Simalungun",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "02.022",
+"pp": "02",
+"provinsi": "Sumatera Utara",
+"tingkat": "DPD",
+"nama": "Tapanuli Selatan",
+"kartu": "Kabupaten Tapanuli Selatan",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "02.023",
+"pp": "02",
+"provinsi": "Sumatera Utara",
+"tingkat": "DPD",
+"nama": "Tapanuli Tengah",
+"kartu": "Kabupaten Tapanuli Tengah",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "02.024",
+"pp": "02",
+"provinsi": "Sumatera Utara",
+"tingkat": "DPD",
+"nama": "Tapanuli Utara",
+"kartu": "Kabupaten Tapanuli Utara",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "02.025",
+"pp": "02",
+"provinsi": "Sumatera Utara",
+"tingkat": "DPD",
+"nama": "Toba",
+"kartu": "Kabupaten Toba",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "02.026",
+"pp": "02",
+"provinsi": "Sumatera Utara",
+"tingkat": "DPC",
+"nama": "Binjai",
+"kartu": "Kota Binjai",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "02.027",
+"pp": "02",
+"provinsi": "Sumatera Utara",
+"tingkat": "DPC",
+"nama": "Gunungsitoli",
+"kartu": "Kota Gunungsitoli",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "02.028",
+"pp": "02",
+"provinsi": "Sumatera Utara",
+"tingkat": "DPC",
+"nama": "Medan",
+"kartu": "Kota Medan",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "02.029",
+"pp": "02",
+"provinsi": "Sumatera Utara",
+"tingkat": "DPC",
+"nama": "Padangsidimpuan",
+"kartu": "Kota Padangsidimpuan",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "02.030",
+"pp": "02",
+"provinsi": "Sumatera Utara",
+"tingkat": "DPC",
+"nama": "Pematangsiantar",
+"kartu": "Kota Pematangsiantar",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "02.031",
+"pp": "02",
+"provinsi": "Sumatera Utara",
+"tingkat": "DPC",
+"nama": "Sibolga",
+"kartu": "Kota Sibolga",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "02.032",
+"pp": "02",
+"provinsi": "Sumatera Utara",
+"tingkat": "DPC",
+"nama": "Tanjungbalai",
+"kartu": "Kota Tanjungbalai",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "02.033",
+"pp": "02",
+"provinsi": "Sumatera Utara",
+"tingkat": "DPC",
+"nama": "Tebing Tinggi",
+"kartu": "Kota Tebing Tinggi",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "03.000",
+"pp": "03",
+"provinsi": "Sumatera Barat",
+"tingkat": "DPW",
+"nama": "DPW Sumatera Barat",
+"kartu": "Sumatera Barat",
+"induk": "",
+"status": "Internal"
+},
+{
+"kode": "03.001",
+"pp": "03",
+"provinsi": "Sumatera Barat",
+"tingkat": "DPD",
+"nama": "Pesisir Selatan",
+"kartu": "Kabupaten Pesisir Selatan",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "03.002",
+"pp": "03",
+"provinsi": "Sumatera Barat",
+"tingkat": "DPD",
+"nama": "Solok",
+"kartu": "Kabupaten Solok",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "03.003",
+"pp": "03",
+"provinsi": "Sumatera Barat",
+"tingkat": "DPD",
+"nama": "Sijunjung",
+"kartu": "Kabupaten Sijunjung",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "03.004",
+"pp": "03",
+"provinsi": "Sumatera Barat",
+"tingkat": "DPD",
+"nama": "Tanah Datar",
+"kartu": "Kabupaten Tanah Datar",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "03.005",
+"pp": "03",
+"provinsi": "Sumatera Barat",
+"tingkat": "DPD",
+"nama": "Padang Pariaman",
+"kartu": "Kabupaten Padang Pariaman",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "03.006",
+"pp": "03",
+"provinsi": "Sumatera Barat",
+"tingkat": "DPD",
+"nama": "Agam",
+"kartu": "Kabupaten Agam",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "03.007",
+"pp": "03",
+"provinsi": "Sumatera Barat",
+"tingkat": "DPD",
+"nama": "Lima Puluh Kota",
+"kartu": "Kabupaten Lima Puluh Kota",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "03.008",
+"pp": "03",
+"provinsi": "Sumatera Barat",
+"tingkat": "DPD",
+"nama": "Pasaman",
+"kartu": "Kabupaten Pasaman",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "03.009",
+"pp": "03",
+"provinsi": "Sumatera Barat",
+"tingkat": "DPD",
+"nama": "Kepulauan Mentawai",
+"kartu": "Kabupaten Kepulauan Mentawai",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "03.010",
+"pp": "03",
+"provinsi": "Sumatera Barat",
+"tingkat": "DPD",
+"nama": "Dharmasraya",
+"kartu": "Kabupaten Dharmasraya",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "03.011",
+"pp": "03",
+"provinsi": "Sumatera Barat",
+"tingkat": "DPD",
+"nama": "Solok Selatan",
+"kartu": "Kabupaten Solok Selatan",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "03.012",
+"pp": "03",
+"provinsi": "Sumatera Barat",
+"tingkat": "DPD",
+"nama": "Pasaman Barat",
+"kartu": "Kabupaten Pasaman Barat",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "03.013",
+"pp": "03",
+"provinsi": "Sumatera Barat",
+"tingkat": "DPC",
+"nama": "Padang",
+"kartu": "Kota Padang",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "03.014",
+"pp": "03",
+"provinsi": "Sumatera Barat",
+"tingkat": "DPC",
+"nama": "Solok",
+"kartu": "Kota Solok",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "03.015",
+"pp": "03",
+"provinsi": "Sumatera Barat",
+"tingkat": "DPC",
+"nama": "Sawahlunto",
+"kartu": "Kota Sawahlunto",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "03.016",
+"pp": "03",
+"provinsi": "Sumatera Barat",
+"tingkat": "DPC",
+"nama": "Padang Panjang",
+"kartu": "Kota Padang Panjang",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "03.017",
+"pp": "03",
+"provinsi": "Sumatera Barat",
+"tingkat": "DPC",
+"nama": "Bukittinggi",
+"kartu": "Kota Bukittinggi",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "03.018",
+"pp": "03",
+"provinsi": "Sumatera Barat",
+"tingkat": "DPC",
+"nama": "Payakumbuh",
+"kartu": "Kota Payakumbuh",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "03.019",
+"pp": "03",
+"provinsi": "Sumatera Barat",
+"tingkat": "DPC",
+"nama": "Pariaman",
+"kartu": "Kota Pariaman",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "04.000",
+"pp": "04",
+"provinsi": "Bengkulu",
+"tingkat": "DPW",
+"nama": "DPW Bengkulu",
+"kartu": "Bengkulu",
+"induk": "",
+"status": "Internal"
+},
+{
+"kode": "04.001",
+"pp": "04",
+"provinsi": "Bengkulu",
+"tingkat": "DPC",
+"nama": "Kota Bengkulu",
+"kartu": "Kota Bengkulu",
+"induk": "",
+"status": "Usulan internal"
+},
+{
+"kode": "04.001.001",
+"pp": "04",
+"provinsi": "Bengkulu",
+"tingkat": "PAC",
+"nama": "Muara Bangka Hulu",
+"kartu": "Muara Bangka Hulu",
+"induk": "04.001",
+"status": "Internal/provisional"
+},
+{
+"kode": "04.001.002",
+"pp": "04",
+"provinsi": "Bengkulu",
+"tingkat": "PAC",
+"nama": "Sungai Serut",
+"kartu": "Sungai Serut",
+"induk": "04.001",
+"status": "Internal/provisional"
+},
+{
+"kode": "04.001.003",
+"pp": "04",
+"provinsi": "Bengkulu",
+"tingkat": "PAC",
+"nama": "Selebar",
+"kartu": "Selebar",
+"induk": "04.001",
+"status": "Internal/provisional"
+},
+{
+"kode": "04.002",
+"pp": "04",
+"provinsi": "Bengkulu",
+"tingkat": "DPD",
+"nama": "Bengkulu Utara",
+"kartu": "Kabupaten Bengkulu Utara",
+"induk": "",
+"status": "Usulan internal"
+},
+{
+"kode": "04.002.001",
+"pp": "04",
+"provinsi": "Bengkulu",
+"tingkat": "PAC",
+"nama": "Ketahun",
+"kartu": "Ketahun",
+"induk": "04.002",
+"status": "Internal/provisional"
+},
+{
+"kode": "04.003",
+"pp": "04",
+"provinsi": "Bengkulu",
+"tingkat": "DPD",
+"nama": "Kepahiang",
+"kartu": "Kabupaten Kepahiang",
+"induk": "",
+"status": "Usulan internal"
+},
+{
+"kode": "04.004",
+"pp": "04",
+"provinsi": "Bengkulu",
+"tingkat": "DPD",
+"nama": "Seluma",
+"kartu": "Kabupaten Seluma",
+"induk": "",
+"status": "Usulan internal"
+},
+{
+"kode": "04.004.001",
+"pp": "04",
+"provinsi": "Bengkulu",
+"tingkat": "PAC",
+"nama": "Semidang Alas Maras",
+"kartu": "Semidang Alas Maras",
+"induk": "04.004",
+"status": "Internal/provisional"
+},
+{
+"kode": "04.009",
+"pp": "04",
+"provinsi": "Bengkulu",
+"tingkat": "DPD",
+"nama": "Bengkulu Tengah",
+"kartu": "Kabupaten Bengkulu Tengah",
+"induk": "",
+"status": "Sudah dipakai percakapan"
+},
+{
+"kode": "04.009.001",
+"pp": "04",
+"provinsi": "Bengkulu",
+"tingkat": "PAC",
+"nama": "Karang Tinggi",
+"kartu": "Karang Tinggi",
+"induk": "04.009",
+"status": "Internal/provisional"
+},
+{
+"kode": "04.009.002",
+"pp": "04",
+"provinsi": "Bengkulu",
+"tingkat": "PAC",
+"nama": "Talang Empat",
+"kartu": "Talang Empat",
+"induk": "04.009",
+"status": "Internal/provisional"
+},
+{
+"kode": "04.009.003",
+"pp": "04",
+"provinsi": "Bengkulu",
+"tingkat": "PAC",
+"nama": "Pondok Kelapa",
+"kartu": "Pondok Kelapa",
+"induk": "04.009",
+"status": "Internal/provisional"
+},
+{
+"kode": "04.009.004",
+"pp": "04",
+"provinsi": "Bengkulu",
+"tingkat": "PAC",
+"nama": "Pematang Tiga",
+"kartu": "Pematang Tiga",
+"induk": "04.009",
+"status": "Internal/provisional"
+},
+{
+"kode": "04.009.005",
+"pp": "04",
+"provinsi": "Bengkulu",
+"tingkat": "PAC",
+"nama": "Pagar Jati",
+"kartu": "Pagar Jati",
+"induk": "04.009",
+"status": "Internal/provisional"
+},
+{
+"kode": "04.009.006",
+"pp": "04",
+"provinsi": "Bengkulu",
+"tingkat": "PAC",
+"nama": "Taba Penanjung",
+"kartu": "Taba Penanjung",
+"induk": "04.009",
+"status": "Internal/provisional"
+},
+{
+"kode": "04.009.007",
+"pp": "04",
+"provinsi": "Bengkulu",
+"tingkat": "PAC",
+"nama": "Merigi Kelindang",
+"kartu": "Merigi Kelindang",
+"induk": "04.009",
+"status": "Internal/provisional"
+},
+{
+"kode": "04.009.008",
+"pp": "04",
+"provinsi": "Bengkulu",
+"tingkat": "PAC",
+"nama": "Merigi Sakti",
+"kartu": "Merigi Sakti",
+"induk": "04.009",
+"status": "Internal/provisional"
+},
+{
+"kode": "04.009.009",
+"pp": "04",
+"provinsi": "Bengkulu",
+"tingkat": "PAC",
+"nama": "Pondok Kubang",
+"kartu": "Pondok Kubang",
+"induk": "04.009",
+"status": "Internal/provisional"
+},
+{
+"kode": "04.009.010",
+"pp": "04",
+"provinsi": "Bengkulu",
+"tingkat": "PAC",
+"nama": "Bang Haji",
+"kartu": "Bang Haji",
+"induk": "04.009",
+"status": "Internal/provisional"
+},
+{
+"kode": "04.009.011",
+"pp": "04",
+"provinsi": "Bengkulu",
+"tingkat": "PAC",
+"nama": "Semidang Lagan",
+"kartu": "Semidang Lagan",
+"induk": "04.009",
+"status": "Internal/provisional"
+},
+{
+"kode": "05.000",
+"pp": "05",
+"provinsi": "Riau",
+"tingkat": "DPW",
+"nama": "DPW Riau",
+"kartu": "Riau",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "05.001",
+"pp": "05",
+"provinsi": "Riau",
+"tingkat": "DPD",
+"nama": "Kabupaten Kampar",
+"kartu": "Kabupaten Kampar",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "05.002",
+"pp": "05",
+"provinsi": "Riau",
+"tingkat": "DPD",
+"nama": "Kabupaten Indragiri Hulu",
+"kartu": "Kabupaten Indragiri Hulu",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "05.003",
+"pp": "05",
+"provinsi": "Riau",
+"tingkat": "DPD",
+"nama": "Kabupaten Indragiri Hilir",
+"kartu": "Kabupaten Indragiri Hilir",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "05.004",
+"pp": "05",
+"provinsi": "Riau",
+"tingkat": "DPD",
+"nama": "Kabupaten Pelalawan",
+"kartu": "Kabupaten Pelalawan",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "05.005",
+"pp": "05",
+"provinsi": "Riau",
+"tingkat": "DPD",
+"nama": "Kabupaten Siak",
+"kartu": "Kabupaten Siak",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "05.006",
+"pp": "05",
+"provinsi": "Riau",
+"tingkat": "DPD",
+"nama": "Kabupaten Rokan Hulu",
+"kartu": "Kabupaten Rokan Hulu",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "05.007",
+"pp": "05",
+"provinsi": "Riau",
+"tingkat": "DPD",
+"nama": "Kabupaten Rokan Hilir",
+"kartu": "Kabupaten Rokan Hilir",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "05.008",
+"pp": "05",
+"provinsi": "Riau",
+"tingkat": "DPD",
+"nama": "Kabupaten Bengkalis",
+"kartu": "Kabupaten Bengkalis",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "05.009",
+"pp": "05",
+"provinsi": "Riau",
+"tingkat": "DPD",
+"nama": "Kabupaten Kepulauan Meranti",
+"kartu": "Kabupaten Kepulauan Meranti",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "05.010",
+"pp": "05",
+"provinsi": "Riau",
+"tingkat": "DPD",
+"nama": "Kabupaten Kuantan Singingi",
+"kartu": "Kabupaten Kuantan Singingi",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "05.011",
+"pp": "05",
+"provinsi": "Riau",
+"tingkat": "DPC",
+"nama": "Kota Pekanbaru",
+"kartu": "Kota Pekanbaru",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "05.012",
+"pp": "05",
+"provinsi": "Riau",
+"tingkat": "DPC",
+"nama": "Kota Dumai",
+"kartu": "Kota Dumai",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "06.000",
+"pp": "06",
+"provinsi": "Kepulauan Riau",
+"tingkat": "DPW",
+"nama": "DPW Kepulauan Riau",
+"kartu": "Kepulauan Riau",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "06.001",
+"pp": "06",
+"provinsi": "Kepulauan Riau",
+"tingkat": "DPD",
+"nama": "Kabupaten Bintan",
+"kartu": "Kabupaten Bintan",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "06.002",
+"pp": "06",
+"provinsi": "Kepulauan Riau",
+"tingkat": "DPD",
+"nama": "Kabupaten Karimun",
+"kartu": "Kabupaten Karimun",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "06.003",
+"pp": "06",
+"provinsi": "Kepulauan Riau",
+"tingkat": "DPD",
+"nama": "Kabupaten Natuna",
+"kartu": "Kabupaten Natuna",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "06.004",
+"pp": "06",
+"provinsi": "Kepulauan Riau",
+"tingkat": "DPD",
+"nama": "Kabupaten Lingga",
+"kartu": "Kabupaten Lingga",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "06.005",
+"pp": "06",
+"provinsi": "Kepulauan Riau",
+"tingkat": "DPD",
+"nama": "Kabupaten Kepulauan Anambas",
+"kartu": "Kabupaten Kepulauan Anambas",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "06.006",
+"pp": "06",
+"provinsi": "Kepulauan Riau",
+"tingkat": "DPC",
+"nama": "Kota Batam",
+"kartu": "Kota Batam",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "06.007",
+"pp": "06",
+"provinsi": "Kepulauan Riau",
+"tingkat": "DPC",
+"nama": "Kota Tanjungpinang",
+"kartu": "Kota Tanjungpinang",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "07.000",
+"pp": "07",
+"provinsi": "Sumatera Selatan",
+"tingkat": "DPW",
+"nama": "DPW Sumatera Selatan",
+"kartu": "Sumatera Selatan",
+"induk": "",
+"status": "Internal"
+},
+{
+"kode": "07.001",
+"pp": "07",
+"provinsi": "Sumatera Selatan",
+"tingkat": "DPD",
+"nama": "Banyuasin",
+"kartu": "Kabupaten Banyuasin",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "07.002",
+"pp": "07",
+"provinsi": "Sumatera Selatan",
+"tingkat": "DPD",
+"nama": "Empat Lawang",
+"kartu": "Kabupaten Empat Lawang",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "07.003",
+"pp": "07",
+"provinsi": "Sumatera Selatan",
+"tingkat": "DPD",
+"nama": "Lahat",
+"kartu": "Kabupaten Lahat",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "07.004",
+"pp": "07",
+"provinsi": "Sumatera Selatan",
+"tingkat": "DPD",
+"nama": "Muara Enim",
+"kartu": "Kabupaten Muara Enim",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "07.005",
+"pp": "07",
+"provinsi": "Sumatera Selatan",
+"tingkat": "DPD",
+"nama": "Musi Banyuasin",
+"kartu": "Kabupaten Musi Banyuasin",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "07.006",
+"pp": "07",
+"provinsi": "Sumatera Selatan",
+"tingkat": "DPD",
+"nama": "Musi Rawas",
+"kartu": "Kabupaten Musi Rawas",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "07.007",
+"pp": "07",
+"provinsi": "Sumatera Selatan",
+"tingkat": "DPD",
+"nama": "Musi Rawas Utara",
+"kartu": "Kabupaten Musi Rawas Utara",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "07.008",
+"pp": "07",
+"provinsi": "Sumatera Selatan",
+"tingkat": "DPD",
+"nama": "Ogan Ilir",
+"kartu": "Kabupaten Ogan Ilir",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "07.009",
+"pp": "07",
+"provinsi": "Sumatera Selatan",
+"tingkat": "DPD",
+"nama": "Ogan Komering Ilir",
+"kartu": "Kabupaten Ogan Komering Ilir",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "07.010",
+"pp": "07",
+"provinsi": "Sumatera Selatan",
+"tingkat": "DPD",
+"nama": "Ogan Komering Ulu",
+"kartu": "Kabupaten Ogan Komering Ulu",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "07.011",
+"pp": "07",
+"provinsi": "Sumatera Selatan",
+"tingkat": "DPD",
+"nama": "Ogan Komering Ulu Selatan",
+"kartu": "Kabupaten Ogan Komering Ulu Selatan",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "07.012",
+"pp": "07",
+"provinsi": "Sumatera Selatan",
+"tingkat": "DPD",
+"nama": "Ogan Komering Ulu Timur",
+"kartu": "Kabupaten Ogan Komering Ulu Timur",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "07.013",
+"pp": "07",
+"provinsi": "Sumatera Selatan",
+"tingkat": "DPD",
+"nama": "Penukal Abab Lematang Ilir",
+"kartu": "Kabupaten Penukal Abab Lematang Ilir",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "07.014",
+"pp": "07",
+"provinsi": "Sumatera Selatan",
+"tingkat": "DPC",
+"nama": "Lubuklinggau",
+"kartu": "Kota Lubuklinggau",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "07.015",
+"pp": "07",
+"provinsi": "Sumatera Selatan",
+"tingkat": "DPC",
+"nama": "Pagar Alam",
+"kartu": "Kota Pagar Alam",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "07.016",
+"pp": "07",
+"provinsi": "Sumatera Selatan",
+"tingkat": "DPC",
+"nama": "Palembang",
+"kartu": "Kota Palembang",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "07.017",
+"pp": "07",
+"provinsi": "Sumatera Selatan",
+"tingkat": "DPC",
+"nama": "Prabumulih",
+"kartu": "Kota Prabumulih",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "08.000",
+"pp": "08",
+"provinsi": "Banten",
+"tingkat": "DPW",
+"nama": "DPW Banten",
+"kartu": "Banten",
+"induk": "",
+"status": "Internal"
+},
+{
+"kode": "08.001",
+"pp": "08",
+"provinsi": "Banten",
+"tingkat": "DPD",
+"nama": "Kabupaten Lebak",
+"kartu": "Kabupaten Lebak",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "08.002",
+"pp": "08",
+"provinsi": "Banten",
+"tingkat": "DPD",
+"nama": "Kabupaten Pandeglang",
+"kartu": "Kabupaten Pandeglang",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "08.003",
+"pp": "08",
+"provinsi": "Banten",
+"tingkat": "DPD",
+"nama": "Kabupaten Serang",
+"kartu": "Kabupaten Serang",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "08.004",
+"pp": "08",
+"provinsi": "Banten",
+"tingkat": "DPD",
+"nama": "Kabupaten Tangerang",
+"kartu": "Kabupaten Tangerang",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "08.005",
+"pp": "08",
+"provinsi": "Banten",
+"tingkat": "DPC",
+"nama": "Kota Cilegon",
+"kartu": "Kota Cilegon",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "08.006",
+"pp": "08",
+"provinsi": "Banten",
+"tingkat": "DPC",
+"nama": "Kota Serang",
+"kartu": "Kota Serang",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "08.007",
+"pp": "08",
+"provinsi": "Banten",
+"tingkat": "DPC",
+"nama": "Kota Tangerang",
+"kartu": "Kota Tangerang",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "08.008",
+"pp": "08",
+"provinsi": "Banten",
+"tingkat": "DPC",
+"nama": "Kota Tangerang Selatan",
+"kartu": "Kota Tangerang Selatan",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "09.000",
+"pp": "09",
+"provinsi": "Jambi",
+"tingkat": "DPW",
+"nama": "DPW Jambi",
+"kartu": "Jambi",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "09.001",
+"pp": "09",
+"provinsi": "Jambi",
+"tingkat": "DPD",
+"nama": "Kabupaten Kerinci",
+"kartu": "Kabupaten Kerinci",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "09.002",
+"pp": "09",
+"provinsi": "Jambi",
+"tingkat": "DPD",
+"nama": "Kabupaten Merangin",
+"kartu": "Kabupaten Merangin",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "09.003",
+"pp": "09",
+"provinsi": "Jambi",
+"tingkat": "DPD",
+"nama": "Kabupaten Sarolangun",
+"kartu": "Kabupaten Sarolangun",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "09.004",
+"pp": "09",
+"provinsi": "Jambi",
+"tingkat": "DPD",
+"nama": "Kabupaten Batang Hari",
+"kartu": "Kabupaten Batang Hari",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "09.005",
+"pp": "09",
+"provinsi": "Jambi",
+"tingkat": "DPD",
+"nama": "Kabupaten Muaro Jambi",
+"kartu": "Kabupaten Muaro Jambi",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "09.006",
+"pp": "09",
+"provinsi": "Jambi",
+"tingkat": "DPD",
+"nama": "Kabupaten Tanjung Jabung Barat",
+"kartu": "Kabupaten Tanjung Jabung Barat",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "09.007",
+"pp": "09",
+"provinsi": "Jambi",
+"tingkat": "DPD",
+"nama": "Kabupaten Tanjung Jabung Timur",
+"kartu": "Kabupaten Tanjung Jabung Timur",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "09.008",
+"pp": "09",
+"provinsi": "Jambi",
+"tingkat": "DPD",
+"nama": "Kabupaten Bungo",
+"kartu": "Kabupaten Bungo",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "09.009",
+"pp": "09",
+"provinsi": "Jambi",
+"tingkat": "DPD",
+"nama": "Kabupaten Tebo",
+"kartu": "Kabupaten Tebo",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "09.010",
+"pp": "09",
+"provinsi": "Jambi",
+"tingkat": "DPC",
+"nama": "Kota Jambi",
+"kartu": "Kota Jambi",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "09.011",
+"pp": "09",
+"provinsi": "Jambi",
+"tingkat": "DPC",
+"nama": "Kota Sungai Penuh",
+"kartu": "Kota Sungai Penuh",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "10.000",
+"pp": "10",
+"provinsi": "DKI Jakarta",
+"tingkat": "DPW",
+"nama": "DPW DKI Jakarta",
+"kartu": "DKI Jakarta",
+"induk": "",
+"status": "Internal"
+},
+{
+"kode": "11.000",
+"pp": "11",
+"provinsi": "Lampung",
+"tingkat": "DPW",
+"nama": "DPW Lampung",
+"kartu": "Lampung",
+"induk": "",
+"status": "Internal"
+},
+{
+"kode": "11.016",
+"pp": "11",
+"provinsi": "Lampung",
+"tingkat": "DPC",
+"nama": "Kota Metro",
+"kartu": "Kota Metro",
+"induk": "",
+"status": "Usulan internal"
+},
+{
+"kode": "12.000",
+"pp": "12",
+"provinsi": "Jawa Barat",
+"tingkat": "DPW",
+"nama": "DPW Jawa Barat",
+"kartu": "Jawa Barat",
+"induk": "",
+"status": "Internal"
+},
+{
+"kode": "12.001",
+"pp": "12",
+"provinsi": "Jawa Barat",
+"tingkat": "DPD",
+"nama": "Bogor",
+"kartu": "Kabupaten Bogor",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "12.002",
+"pp": "12",
+"provinsi": "Jawa Barat",
+"tingkat": "DPD",
+"nama": "Sukabumi",
+"kartu": "Kabupaten Sukabumi",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "12.003",
+"pp": "12",
+"provinsi": "Jawa Barat",
+"tingkat": "DPD",
+"nama": "Cianjur",
+"kartu": "Kabupaten Cianjur",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "12.004",
+"pp": "12",
+"provinsi": "Jawa Barat",
+"tingkat": "DPD",
+"nama": "Bandung",
+"kartu": "Kabupaten Bandung",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "12.005",
+"pp": "12",
+"provinsi": "Jawa Barat",
+"tingkat": "DPD",
+"nama": "Garut",
+"kartu": "Kabupaten Garut",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "12.006",
+"pp": "12",
+"provinsi": "Jawa Barat",
+"tingkat": "DPD",
+"nama": "Tasikmalaya",
+"kartu": "Kabupaten Tasikmalaya",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "12.007",
+"pp": "12",
+"provinsi": "Jawa Barat",
+"tingkat": "DPD",
+"nama": "Ciamis",
+"kartu": "Kabupaten Ciamis",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "12.008",
+"pp": "12",
+"provinsi": "Jawa Barat",
+"tingkat": "DPD",
+"nama": "Kuningan",
+"kartu": "Kabupaten Kuningan",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "12.009",
+"pp": "12",
+"provinsi": "Jawa Barat",
+"tingkat": "DPD",
+"nama": "Cirebon",
+"kartu": "Kabupaten Cirebon",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "12.010",
+"pp": "12",
+"provinsi": "Jawa Barat",
+"tingkat": "DPD",
+"nama": "Majalengka",
+"kartu": "Kabupaten Majalengka",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "12.011",
+"pp": "12",
+"provinsi": "Jawa Barat",
+"tingkat": "DPD",
+"nama": "Sumedang",
+"kartu": "Kabupaten Sumedang",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "12.012",
+"pp": "12",
+"provinsi": "Jawa Barat",
+"tingkat": "DPD",
+"nama": "Indramayu",
+"kartu": "Kabupaten Indramayu",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "12.013",
+"pp": "12",
+"provinsi": "Jawa Barat",
+"tingkat": "DPD",
+"nama": "Subang",
+"kartu": "Kabupaten Subang",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "12.014",
+"pp": "12",
+"provinsi": "Jawa Barat",
+"tingkat": "DPD",
+"nama": "Purwakarta",
+"kartu": "Kabupaten Purwakarta",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "12.015",
+"pp": "12",
+"provinsi": "Jawa Barat",
+"tingkat": "DPD",
+"nama": "Karawang",
+"kartu": "Kabupaten Karawang",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "12.016",
+"pp": "12",
+"provinsi": "Jawa Barat",
+"tingkat": "DPD",
+"nama": "Bekasi",
+"kartu": "Kabupaten Bekasi",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "12.017",
+"pp": "12",
+"provinsi": "Jawa Barat",
+"tingkat": "DPD",
+"nama": "Bandung Barat",
+"kartu": "Kabupaten Bandung Barat",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "12.018",
+"pp": "12",
+"provinsi": "Jawa Barat",
+"tingkat": "DPD",
+"nama": "Pangandaran",
+"kartu": "Kabupaten Pangandaran",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "12.019",
+"pp": "12",
+"provinsi": "Jawa Barat",
+"tingkat": "DPC",
+"nama": "Kota Bogor",
+"kartu": "Kota Bogor",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "12.020",
+"pp": "12",
+"provinsi": "Jawa Barat",
+"tingkat": "DPC",
+"nama": "Kota Sukabumi",
+"kartu": "Kota Sukabumi",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "12.021",
+"pp": "12",
+"provinsi": "Jawa Barat",
+"tingkat": "DPC",
+"nama": "Kota Bandung",
+"kartu": "Kota Bandung",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "12.022",
+"pp": "12",
+"provinsi": "Jawa Barat",
+"tingkat": "DPC",
+"nama": "Kota Cirebon",
+"kartu": "Kota Cirebon",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "12.023",
+"pp": "12",
+"provinsi": "Jawa Barat",
+"tingkat": "DPC",
+"nama": "Kota Bekasi",
+"kartu": "Kota Bekasi",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "12.024",
+"pp": "12",
+"provinsi": "Jawa Barat",
+"tingkat": "DPC",
+"nama": "Kota Depok",
+"kartu": "Kota Depok",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "12.025",
+"pp": "12",
+"provinsi": "Jawa Barat",
+"tingkat": "DPC",
+"nama": "Kota Cimahi",
+"kartu": "Kota Cimahi",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "12.026",
+"pp": "12",
+"provinsi": "Jawa Barat",
+"tingkat": "DPC",
+"nama": "Kota Tasikmalaya",
+"kartu": "Kota Tasikmalaya",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "12.027",
+"pp": "12",
+"provinsi": "Jawa Barat",
+"tingkat": "DPC",
+"nama": "Kota Banjar",
+"kartu": "Kota Banjar",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "13.000",
+"pp": "13",
+"provinsi": "Kepulauan Bangka Belitung",
+"tingkat": "DPW",
+"nama": "DPW Kepulauan Bangka Belitung",
+"kartu": "Kepulauan Bangka Belitung",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "13.001",
+"pp": "13",
+"provinsi": "Kepulauan Bangka Belitung",
+"tingkat": "DPD",
+"nama": "Kabupaten Bangka",
+"kartu": "Kabupaten Bangka",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "13.002",
+"pp": "13",
+"provinsi": "Kepulauan Bangka Belitung",
+"tingkat": "DPD",
+"nama": "Kabupaten Belitung",
+"kartu": "Kabupaten Belitung",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "13.003",
+"pp": "13",
+"provinsi": "Kepulauan Bangka Belitung",
+"tingkat": "DPD",
+"nama": "Kabupaten Bangka Selatan",
+"kartu": "Kabupaten Bangka Selatan",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "13.004",
+"pp": "13",
+"provinsi": "Kepulauan Bangka Belitung",
+"tingkat": "DPD",
+"nama": "Kabupaten Bangka Tengah",
+"kartu": "Kabupaten Bangka Tengah",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "13.005",
+"pp": "13",
+"provinsi": "Kepulauan Bangka Belitung",
+"tingkat": "DPD",
+"nama": "Kabupaten Bangka Barat",
+"kartu": "Kabupaten Bangka Barat",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "13.006",
+"pp": "13",
+"provinsi": "Kepulauan Bangka Belitung",
+"tingkat": "DPD",
+"nama": "Kabupaten Belitung Timur",
+"kartu": "Kabupaten Belitung Timur",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "13.007",
+"pp": "13",
+"provinsi": "Kepulauan Bangka Belitung",
+"tingkat": "DPC",
+"nama": "Kota Pangkalpinang",
+"kartu": "Kota Pangkalpinang",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "14.000",
+"pp": "14",
+"provinsi": "Jawa Tengah",
+"tingkat": "DPW",
+"nama": "DPW Jawa Tengah",
+"kartu": "Jawa Tengah",
+"induk": "",
+"status": "Internal"
+},
+{
+"kode": "14.001",
+"pp": "14",
+"provinsi": "Jawa Tengah",
+"tingkat": "DPD",
+"nama": "Banjarnegara",
+"kartu": "Kabupaten Banjarnegara",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "14.002",
+"pp": "14",
+"provinsi": "Jawa Tengah",
+"tingkat": "DPD",
+"nama": "Banyumas",
+"kartu": "Kabupaten Banyumas",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "14.003",
+"pp": "14",
+"provinsi": "Jawa Tengah",
+"tingkat": "DPD",
+"nama": "Batang",
+"kartu": "Kabupaten Batang",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "14.004",
+"pp": "14",
+"provinsi": "Jawa Tengah",
+"tingkat": "DPD",
+"nama": "Blora",
+"kartu": "Kabupaten Blora",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "14.005",
+"pp": "14",
+"provinsi": "Jawa Tengah",
+"tingkat": "DPD",
+"nama": "Boyolali",
+"kartu": "Kabupaten Boyolali",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "14.006",
+"pp": "14",
+"provinsi": "Jawa Tengah",
+"tingkat": "DPD",
+"nama": "Brebes",
+"kartu": "Kabupaten Brebes",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "14.007",
+"pp": "14",
+"provinsi": "Jawa Tengah",
+"tingkat": "DPD",
+"nama": "Cilacap",
+"kartu": "Kabupaten Cilacap",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "14.008",
+"pp": "14",
+"provinsi": "Jawa Tengah",
+"tingkat": "DPD",
+"nama": "Demak",
+"kartu": "Kabupaten Demak",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "14.009",
+"pp": "14",
+"provinsi": "Jawa Tengah",
+"tingkat": "DPD",
+"nama": "Grobogan",
+"kartu": "Kabupaten Grobogan",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "14.010",
+"pp": "14",
+"provinsi": "Jawa Tengah",
+"tingkat": "DPD",
+"nama": "Jepara",
+"kartu": "Kabupaten Jepara",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "14.011",
+"pp": "14",
+"provinsi": "Jawa Tengah",
+"tingkat": "DPD",
+"nama": "Karanganyar",
+"kartu": "Kabupaten Karanganyar",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "14.012",
+"pp": "14",
+"provinsi": "Jawa Tengah",
+"tingkat": "DPD",
+"nama": "Kebumen",
+"kartu": "Kabupaten Kebumen",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "14.013",
+"pp": "14",
+"provinsi": "Jawa Tengah",
+"tingkat": "DPD",
+"nama": "Kendal",
+"kartu": "Kabupaten Kendal",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "14.014",
+"pp": "14",
+"provinsi": "Jawa Tengah",
+"tingkat": "DPD",
+"nama": "Klaten",
+"kartu": "Kabupaten Klaten",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "14.015",
+"pp": "14",
+"provinsi": "Jawa Tengah",
+"tingkat": "DPD",
+"nama": "Kudus",
+"kartu": "Kabupaten Kudus",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "14.016",
+"pp": "14",
+"provinsi": "Jawa Tengah",
+"tingkat": "DPD",
+"nama": "Magelang",
+"kartu": "Kabupaten Magelang",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "14.017",
+"pp": "14",
+"provinsi": "Jawa Tengah",
+"tingkat": "DPD",
+"nama": "Pati",
+"kartu": "Kabupaten Pati",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "14.018",
+"pp": "14",
+"provinsi": "Jawa Tengah",
+"tingkat": "DPD",
+"nama": "Pekalongan",
+"kartu": "Kabupaten Pekalongan",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "14.019",
+"pp": "14",
+"provinsi": "Jawa Tengah",
+"tingkat": "DPD",
+"nama": "Pemalang",
+"kartu": "Kabupaten Pemalang",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "14.020",
+"pp": "14",
+"provinsi": "Jawa Tengah",
+"tingkat": "DPD",
+"nama": "Purbalingga",
+"kartu": "Kabupaten Purbalingga",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "14.021",
+"pp": "14",
+"provinsi": "Jawa Tengah",
+"tingkat": "DPD",
+"nama": "Purworejo",
+"kartu": "Kabupaten Purworejo",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "14.022",
+"pp": "14",
+"provinsi": "Jawa Tengah",
+"tingkat": "DPD",
+"nama": "Rembang",
+"kartu": "Kabupaten Rembang",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "14.023",
+"pp": "14",
+"provinsi": "Jawa Tengah",
+"tingkat": "DPD",
+"nama": "Semarang",
+"kartu": "Kabupaten Semarang",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "14.024",
+"pp": "14",
+"provinsi": "Jawa Tengah",
+"tingkat": "DPD",
+"nama": "Sragen",
+"kartu": "Kabupaten Sragen",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "14.025",
+"pp": "14",
+"provinsi": "Jawa Tengah",
+"tingkat": "DPD",
+"nama": "Sukoharjo",
+"kartu": "Kabupaten Sukoharjo",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "14.026",
+"pp": "14",
+"provinsi": "Jawa Tengah",
+"tingkat": "DPD",
+"nama": "Tegal",
+"kartu": "Kabupaten Tegal",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "14.026.001",
+"pp": "14",
+"provinsi": "Jawa Tengah",
+"tingkat": "PAC",
+"nama": "Slawi",
+"kartu": "Slawi",
+"induk": "14.026",
+"status": "Internal/provisional"
+},
+{
+"kode": "14.027",
+"pp": "14",
+"provinsi": "Jawa Tengah",
+"tingkat": "DPD",
+"nama": "Temanggung",
+"kartu": "Kabupaten Temanggung",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "14.028",
+"pp": "14",
+"provinsi": "Jawa Tengah",
+"tingkat": "DPD",
+"nama": "Wonogiri",
+"kartu": "Kabupaten Wonogiri",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "14.029",
+"pp": "14",
+"provinsi": "Jawa Tengah",
+"tingkat": "DPD",
+"nama": "Wonosobo",
+"kartu": "Kabupaten Wonosobo",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "14.030",
+"pp": "14",
+"provinsi": "Jawa Tengah",
+"tingkat": "DPC",
+"nama": "Magelang",
+"kartu": "Kota Magelang",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "14.031",
+"pp": "14",
+"provinsi": "Jawa Tengah",
+"tingkat": "DPC",
+"nama": "Pekalongan",
+"kartu": "Kota Pekalongan",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "14.032",
+"pp": "14",
+"provinsi": "Jawa Tengah",
+"tingkat": "DPC",
+"nama": "Salatiga",
+"kartu": "Kota Salatiga",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "14.033",
+"pp": "14",
+"provinsi": "Jawa Tengah",
+"tingkat": "DPC",
+"nama": "Semarang",
+"kartu": "Kota Semarang",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "14.034",
+"pp": "14",
+"provinsi": "Jawa Tengah",
+"tingkat": "DPC",
+"nama": "Surakarta",
+"kartu": "Kota Surakarta",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "14.035",
+"pp": "14",
+"provinsi": "Jawa Tengah",
+"tingkat": "DPC",
+"nama": "Tegal",
+"kartu": "Kota Tegal",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "15.000",
+"pp": "15",
+"provinsi": "DI Yogyakarta",
+"tingkat": "DPW",
+"nama": "DPW DI Yogyakarta",
+"kartu": "DI Yogyakarta",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "15.001",
+"pp": "15",
+"provinsi": "DI Yogyakarta",
+"tingkat": "DPD",
+"nama": "Kabupaten Kulon Progo",
+"kartu": "Kabupaten Kulon Progo",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "15.002",
+"pp": "15",
+"provinsi": "DI Yogyakarta",
+"tingkat": "DPD",
+"nama": "Kabupaten Bantul",
+"kartu": "Kabupaten Bantul",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "15.003",
+"pp": "15",
+"provinsi": "DI Yogyakarta",
+"tingkat": "DPD",
+"nama": "Kabupaten Gunungkidul",
+"kartu": "Kabupaten Gunungkidul",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "15.004",
+"pp": "15",
+"provinsi": "DI Yogyakarta",
+"tingkat": "DPD",
+"nama": "Kabupaten Sleman",
+"kartu": "Kabupaten Sleman",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "15.005",
+"pp": "15",
+"provinsi": "DI Yogyakarta",
+"tingkat": "DPC",
+"nama": "Kota Yogyakarta",
+"kartu": "Kota Yogyakarta",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "16.000",
+"pp": "16",
+"provinsi": "Jawa Timur",
+"tingkat": "DPW",
+"nama": "DPW Jawa Timur",
+"kartu": "Jawa Timur",
+"induk": "",
+"status": "Internal"
+},
+{
+"kode": "16.028",
+"pp": "16",
+"provinsi": "Jawa Timur",
+"tingkat": "DPD",
+"nama": "Pamekasan",
+"kartu": "Kabupaten Pamekasan",
+"induk": "",
+"status": "Nomor eksplisit sebelumnya"
+},
+{
+"kode": "16.029",
+"pp": "16",
+"provinsi": "Jawa Timur",
+"tingkat": "DPD",
+"nama": "Sumenep",
+"kartu": "Kabupaten Sumenep",
+"induk": "",
+"status": "Nomor eksplisit sebelumnya"
+},
+{
+"kode": "16.038",
+"pp": "16",
+"provinsi": "Jawa Timur",
+"tingkat": "DPD",
+"nama": "Banyuwangi",
+"kartu": "Kabupaten Banyuwangi",
+"induk": "",
+"status": "Usulan sebelumnya"
+},
+{
+"kode": "16.039",
+"pp": "16",
+"provinsi": "Jawa Timur",
+"tingkat": "DPC",
+"nama": "Surabaya",
+"kartu": "Kota Surabaya",
+"induk": "",
+"status": "Usulan sebelumnya"
+},
+{
+"kode": "17.000",
+"pp": "17",
+"provinsi": "Nusa Tenggara Timur",
+"tingkat": "DPW",
+"nama": "DPW Nusa Tenggara Timur",
+"kartu": "Nusa Tenggara Timur",
+"induk": "",
+"status": "Internal"
+},
+{
+"kode": "17.001",
+"pp": "17",
+"provinsi": "Nusa Tenggara Timur",
+"tingkat": "DPD",
+"nama": "Alor",
+"kartu": "Kabupaten Alor",
+"induk": "",
+"status": "Usulan sebelumnya"
+},
+{
+"kode": "18.000",
+"pp": "18",
+"provinsi": "Nusa Tenggara Barat",
+"tingkat": "DPW",
+"nama": "DPW Nusa Tenggara Barat",
+"kartu": "Nusa Tenggara Barat",
+"induk": "",
+"status": "Internal"
+},
+{
+"kode": "18.001",
+"pp": "18",
+"provinsi": "Nusa Tenggara Barat",
+"tingkat": "DPD",
+"nama": "Lombok Barat",
+"kartu": "Kabupaten Lombok Barat",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "18.002",
+"pp": "18",
+"provinsi": "Nusa Tenggara Barat",
+"tingkat": "DPD",
+"nama": "Lombok Tengah",
+"kartu": "Kabupaten Lombok Tengah",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "18.003",
+"pp": "18",
+"provinsi": "Nusa Tenggara Barat",
+"tingkat": "DPD",
+"nama": "Lombok Timur",
+"kartu": "Kabupaten Lombok Timur",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "18.004",
+"pp": "18",
+"provinsi": "Nusa Tenggara Barat",
+"tingkat": "DPD",
+"nama": "Sumbawa",
+"kartu": "Kabupaten Sumbawa",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "18.005",
+"pp": "18",
+"provinsi": "Nusa Tenggara Barat",
+"tingkat": "DPD",
+"nama": "Dompu",
+"kartu": "Kabupaten Dompu",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "18.006",
+"pp": "18",
+"provinsi": "Nusa Tenggara Barat",
+"tingkat": "DPD",
+"nama": "Bima",
+"kartu": "Kabupaten Bima",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "18.007",
+"pp": "18",
+"provinsi": "Nusa Tenggara Barat",
+"tingkat": "DPD",
+"nama": "Sumbawa Barat",
+"kartu": "Kabupaten Sumbawa Barat",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "18.008",
+"pp": "18",
+"provinsi": "Nusa Tenggara Barat",
+"tingkat": "DPD",
+"nama": "Lombok Utara",
+"kartu": "Kabupaten Lombok Utara",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "18.009",
+"pp": "18",
+"provinsi": "Nusa Tenggara Barat",
+"tingkat": "DPC",
+"nama": "Kota Mataram",
+"kartu": "Kota Mataram",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "18.010",
+"pp": "18",
+"provinsi": "Nusa Tenggara Barat",
+"tingkat": "DPC",
+"nama": "Kota Bima",
+"kartu": "Kota Bima",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "19.000",
+"pp": "19",
+"provinsi": "Bali",
+"tingkat": "DPW",
+"nama": "DPW Bali",
+"kartu": "Bali",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "19.001",
+"pp": "19",
+"provinsi": "Bali",
+"tingkat": "DPD",
+"nama": "Kabupaten Jembrana",
+"kartu": "Kabupaten Jembrana",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "19.002",
+"pp": "19",
+"provinsi": "Bali",
+"tingkat": "DPD",
+"nama": "Kabupaten Tabanan",
+"kartu": "Kabupaten Tabanan",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "19.003",
+"pp": "19",
+"provinsi": "Bali",
+"tingkat": "DPD",
+"nama": "Kabupaten Badung",
+"kartu": "Kabupaten Badung",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "19.004",
+"pp": "19",
+"provinsi": "Bali",
+"tingkat": "DPD",
+"nama": "Kabupaten Gianyar",
+"kartu": "Kabupaten Gianyar",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "19.005",
+"pp": "19",
+"provinsi": "Bali",
+"tingkat": "DPD",
+"nama": "Kabupaten Klungkung",
+"kartu": "Kabupaten Klungkung",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "19.006",
+"pp": "19",
+"provinsi": "Bali",
+"tingkat": "DPD",
+"nama": "Kabupaten Bangli",
+"kartu": "Kabupaten Bangli",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "19.007",
+"pp": "19",
+"provinsi": "Bali",
+"tingkat": "DPD",
+"nama": "Kabupaten Karangasem",
+"kartu": "Kabupaten Karangasem",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "19.008",
+"pp": "19",
+"provinsi": "Bali",
+"tingkat": "DPD",
+"nama": "Kabupaten Buleleng",
+"kartu": "Kabupaten Buleleng",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "19.009",
+"pp": "19",
+"provinsi": "Bali",
+"tingkat": "DPC",
+"nama": "Kota Denpasar",
+"kartu": "Kota Denpasar",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "20.000",
+"pp": "20",
+"provinsi": "Kalimantan Timur",
+"tingkat": "DPW",
+"nama": "DPW Kalimantan Timur",
+"kartu": "Kalimantan Timur",
+"induk": "",
+"status": "Internal"
+},
+{
+"kode": "20.003",
+"pp": "20",
+"provinsi": "Kalimantan Timur",
+"tingkat": "DPC",
+"nama": "Bontang",
+"kartu": "Kota Bontang",
+"induk": "",
+"status": "Usulan sebelumnya"
+},
+{
+"kode": "20.004",
+"pp": "20",
+"provinsi": "Kalimantan Timur",
+"tingkat": "DPC",
+"nama": "Samarinda",
+"kartu": "Kota Samarinda",
+"induk": "",
+"status": "Usulan sebelumnya"
+},
+{
+"kode": "21.000",
+"pp": "21",
+"provinsi": "Kalimantan Tengah",
+"tingkat": "DPW",
+"nama": "DPW Kalimantan Tengah",
+"kartu": "Kalimantan Tengah",
+"induk": "",
+"status": "Internal"
+},
+{
+"kode": "21.001",
+"pp": "21",
+"provinsi": "Kalimantan Tengah",
+"tingkat": "DPD",
+"nama": "Kotawaringin Barat",
+"kartu": "Kabupaten Kotawaringin Barat",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "21.002",
+"pp": "21",
+"provinsi": "Kalimantan Tengah",
+"tingkat": "DPD",
+"nama": "Kotawaringin Timur",
+"kartu": "Kabupaten Kotawaringin Timur",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "21.003",
+"pp": "21",
+"provinsi": "Kalimantan Tengah",
+"tingkat": "DPD",
+"nama": "Kapuas",
+"kartu": "Kabupaten Kapuas",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "21.004",
+"pp": "21",
+"provinsi": "Kalimantan Tengah",
+"tingkat": "DPD",
+"nama": "Barito Selatan",
+"kartu": "Kabupaten Barito Selatan",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "21.005",
+"pp": "21",
+"provinsi": "Kalimantan Tengah",
+"tingkat": "DPD",
+"nama": "Barito Utara",
+"kartu": "Kabupaten Barito Utara",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "21.006",
+"pp": "21",
+"provinsi": "Kalimantan Tengah",
+"tingkat": "DPD",
+"nama": "Katingan",
+"kartu": "Kabupaten Katingan",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "21.007",
+"pp": "21",
+"provinsi": "Kalimantan Tengah",
+"tingkat": "DPD",
+"nama": "Seruyan",
+"kartu": "Kabupaten Seruyan",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "21.008",
+"pp": "21",
+"provinsi": "Kalimantan Tengah",
+"tingkat": "DPD",
+"nama": "Sukamara",
+"kartu": "Kabupaten Sukamara",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "21.009",
+"pp": "21",
+"provinsi": "Kalimantan Tengah",
+"tingkat": "DPD",
+"nama": "Lamandau",
+"kartu": "Kabupaten Lamandau",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "21.010",
+"pp": "21",
+"provinsi": "Kalimantan Tengah",
+"tingkat": "DPD",
+"nama": "Gunung Mas",
+"kartu": "Kabupaten Gunung Mas",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "21.011",
+"pp": "21",
+"provinsi": "Kalimantan Tengah",
+"tingkat": "DPD",
+"nama": "Pulang Pisau",
+"kartu": "Kabupaten Pulang Pisau",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "21.012",
+"pp": "21",
+"provinsi": "Kalimantan Tengah",
+"tingkat": "DPD",
+"nama": "Murung Raya",
+"kartu": "Kabupaten Murung Raya",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "21.013",
+"pp": "21",
+"provinsi": "Kalimantan Tengah",
+"tingkat": "DPD",
+"nama": "Barito Timur",
+"kartu": "Kabupaten Barito Timur",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "21.014",
+"pp": "21",
+"provinsi": "Kalimantan Tengah",
+"tingkat": "DPC",
+"nama": "Palangka Raya",
+"kartu": "Kota Palangka Raya",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "22.000",
+"pp": "22",
+"provinsi": "Kalimantan Selatan",
+"tingkat": "DPW",
+"nama": "DPW Kalimantan Selatan",
+"kartu": "Kalimantan Selatan",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "22.001",
+"pp": "22",
+"provinsi": "Kalimantan Selatan",
+"tingkat": "DPD",
+"nama": "Kabupaten Tanah Laut",
+"kartu": "Kabupaten Tanah Laut",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "22.002",
+"pp": "22",
+"provinsi": "Kalimantan Selatan",
+"tingkat": "DPD",
+"nama": "Kabupaten Kota Baru",
+"kartu": "Kabupaten Kota Baru",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "22.003",
+"pp": "22",
+"provinsi": "Kalimantan Selatan",
+"tingkat": "DPD",
+"nama": "Kabupaten Banjar",
+"kartu": "Kabupaten Banjar",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "22.004",
+"pp": "22",
+"provinsi": "Kalimantan Selatan",
+"tingkat": "DPD",
+"nama": "Kabupaten Barito Kuala",
+"kartu": "Kabupaten Barito Kuala",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "22.005",
+"pp": "22",
+"provinsi": "Kalimantan Selatan",
+"tingkat": "DPD",
+"nama": "Kabupaten Tapin",
+"kartu": "Kabupaten Tapin",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "22.006",
+"pp": "22",
+"provinsi": "Kalimantan Selatan",
+"tingkat": "DPD",
+"nama": "Kabupaten Hulu Sungai Selatan",
+"kartu": "Kabupaten Hulu Sungai Selatan",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "22.007",
+"pp": "22",
+"provinsi": "Kalimantan Selatan",
+"tingkat": "DPD",
+"nama": "Kabupaten Hulu Sungai Tengah",
+"kartu": "Kabupaten Hulu Sungai Tengah",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "22.008",
+"pp": "22",
+"provinsi": "Kalimantan Selatan",
+"tingkat": "DPD",
+"nama": "Kabupaten Hulu Sungai Utara",
+"kartu": "Kabupaten Hulu Sungai Utara",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "22.009",
+"pp": "22",
+"provinsi": "Kalimantan Selatan",
+"tingkat": "DPD",
+"nama": "Kabupaten Tabalong",
+"kartu": "Kabupaten Tabalong",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "22.010",
+"pp": "22",
+"provinsi": "Kalimantan Selatan",
+"tingkat": "DPD",
+"nama": "Kabupaten Tanah Bumbu",
+"kartu": "Kabupaten Tanah Bumbu",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "22.011",
+"pp": "22",
+"provinsi": "Kalimantan Selatan",
+"tingkat": "DPD",
+"nama": "Kabupaten Balangan",
+"kartu": "Kabupaten Balangan",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "22.012",
+"pp": "22",
+"provinsi": "Kalimantan Selatan",
+"tingkat": "DPC",
+"nama": "Kota Banjarmasin",
+"kartu": "Kota Banjarmasin",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "22.013",
+"pp": "22",
+"provinsi": "Kalimantan Selatan",
+"tingkat": "DPC",
+"nama": "Kota Banjarbaru",
+"kartu": "Kota Banjarbaru",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "23.000",
+"pp": "23",
+"provinsi": "Gorontalo",
+"tingkat": "DPW",
+"nama": "DPW Gorontalo",
+"kartu": "Gorontalo",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "23.001",
+"pp": "23",
+"provinsi": "Gorontalo",
+"tingkat": "DPD",
+"nama": "Kabupaten Gorontalo",
+"kartu": "Kabupaten Gorontalo",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "23.002",
+"pp": "23",
+"provinsi": "Gorontalo",
+"tingkat": "DPD",
+"nama": "Kabupaten Boalemo",
+"kartu": "Kabupaten Boalemo",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "23.003",
+"pp": "23",
+"provinsi": "Gorontalo",
+"tingkat": "DPD",
+"nama": "Kabupaten Bone Bolango",
+"kartu": "Kabupaten Bone Bolango",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "23.004",
+"pp": "23",
+"provinsi": "Gorontalo",
+"tingkat": "DPD",
+"nama": "Kabupaten Pahuwato",
+"kartu": "Kabupaten Pahuwato",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "23.005",
+"pp": "23",
+"provinsi": "Gorontalo",
+"tingkat": "DPD",
+"nama": "Kabupaten Gorontalo Utara",
+"kartu": "Kabupaten Gorontalo Utara",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "23.006",
+"pp": "23",
+"provinsi": "Gorontalo",
+"tingkat": "DPC",
+"nama": "Kota Gorontalo",
+"kartu": "Kota Gorontalo",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "24.000",
+"pp": "24",
+"provinsi": "Kalimantan Utara",
+"tingkat": "DPW",
+"nama": "DPW Kalimantan Utara",
+"kartu": "Kalimantan Utara",
+"induk": "",
+"status": "Internal"
+},
+{
+"kode": "24.001",
+"pp": "24",
+"provinsi": "Kalimantan Utara",
+"tingkat": "DPD",
+"nama": "Bulungan",
+"kartu": "Kabupaten Bulungan",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "24.002",
+"pp": "24",
+"provinsi": "Kalimantan Utara",
+"tingkat": "DPD",
+"nama": "Malinau",
+"kartu": "Kabupaten Malinau",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "24.003",
+"pp": "24",
+"provinsi": "Kalimantan Utara",
+"tingkat": "DPD",
+"nama": "Nunukan",
+"kartu": "Kabupaten Nunukan",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "24.004",
+"pp": "24",
+"provinsi": "Kalimantan Utara",
+"tingkat": "DPD",
+"nama": "Tana Tidung",
+"kartu": "Kabupaten Tana Tidung",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "24.005",
+"pp": "24",
+"provinsi": "Kalimantan Utara",
+"tingkat": "DPC",
+"nama": "Tarakan",
+"kartu": "Kota Tarakan",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "25.000",
+"pp": "25",
+"provinsi": "Sulawesi Utara",
+"tingkat": "DPW",
+"nama": "DPW Sulawesi Utara",
+"kartu": "Sulawesi Utara",
+"induk": "",
+"status": "Internal"
+},
+{
+"kode": "25.001",
+"pp": "25",
+"provinsi": "Sulawesi Utara",
+"tingkat": "DPD",
+"nama": "Bolaang Mongondow",
+"kartu": "Kabupaten Bolaang Mongondow",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "25.002",
+"pp": "25",
+"provinsi": "Sulawesi Utara",
+"tingkat": "DPD",
+"nama": "Bolaang Mongondow Timur",
+"kartu": "Kabupaten Bolaang Mongondow Timur",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "25.003",
+"pp": "25",
+"provinsi": "Sulawesi Utara",
+"tingkat": "DPD",
+"nama": "Minahasa",
+"kartu": "Kabupaten Minahasa",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "25.004",
+"pp": "25",
+"provinsi": "Sulawesi Utara",
+"tingkat": "DPD",
+"nama": "Bolaang Mongondow Utara",
+"kartu": "Kabupaten Bolaang Mongondow Utara",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "25.005",
+"pp": "25",
+"provinsi": "Sulawesi Utara",
+"tingkat": "DPD",
+"nama": "Minahasa Utara",
+"kartu": "Kabupaten Minahasa Utara",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "25.006",
+"pp": "25",
+"provinsi": "Sulawesi Utara",
+"tingkat": "DPD",
+"nama": "Kepulauan Sangihe",
+"kartu": "Kabupaten Kepulauan Sangihe",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "25.007",
+"pp": "25",
+"provinsi": "Sulawesi Utara",
+"tingkat": "DPD",
+"nama": "Kepulauan Sitaro",
+"kartu": "Kabupaten Kepulauan Sitaro",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "25.008",
+"pp": "25",
+"provinsi": "Sulawesi Utara",
+"tingkat": "DPD",
+"nama": "Bolaang Mongondow Selatan",
+"kartu": "Kabupaten Bolaang Mongondow Selatan",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "25.009",
+"pp": "25",
+"provinsi": "Sulawesi Utara",
+"tingkat": "DPD",
+"nama": "Minahasa Selatan",
+"kartu": "Kabupaten Minahasa Selatan",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "25.010",
+"pp": "25",
+"provinsi": "Sulawesi Utara",
+"tingkat": "DPD",
+"nama": "Minahasa Tenggara",
+"kartu": "Kabupaten Minahasa Tenggara",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "25.011",
+"pp": "25",
+"provinsi": "Sulawesi Utara",
+"tingkat": "DPD",
+"nama": "Kepulauan Talaud",
+"kartu": "Kabupaten Kepulauan Talaud",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "25.012",
+"pp": "25",
+"provinsi": "Sulawesi Utara",
+"tingkat": "DPC",
+"nama": "Bitung",
+"kartu": "Kota Bitung",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "25.013",
+"pp": "25",
+"provinsi": "Sulawesi Utara",
+"tingkat": "DPC",
+"nama": "Kotamobagu",
+"kartu": "Kota Kotamobagu",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "25.014",
+"pp": "25",
+"provinsi": "Sulawesi Utara",
+"tingkat": "DPC",
+"nama": "Manado",
+"kartu": "Kota Manado",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "25.015",
+"pp": "25",
+"provinsi": "Sulawesi Utara",
+"tingkat": "DPC",
+"nama": "Tomohon",
+"kartu": "Kota Tomohon",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "26.000",
+"pp": "26",
+"provinsi": "Kalimantan Barat",
+"tingkat": "DPW",
+"nama": "DPW Kalimantan Barat",
+"kartu": "Kalimantan Barat",
+"induk": "",
+"status": "Internal"
+},
+{
+"kode": "26.008",
+"pp": "26",
+"provinsi": "Kalimantan Barat",
+"tingkat": "DPC",
+"nama": "Singkawang",
+"kartu": "Kota Singkawang",
+"induk": "",
+"status": "Usulan sebelumnya"
+},
+{
+"kode": "27.000",
+"pp": "27",
+"provinsi": "Sulawesi Tengah",
+"tingkat": "DPW",
+"nama": "DPW Sulawesi Tengah",
+"kartu": "Sulawesi Tengah",
+"induk": "",
+"status": "Internal"
+},
+{
+"kode": "27.001",
+"pp": "27",
+"provinsi": "Sulawesi Tengah",
+"tingkat": "DPD",
+"nama": "Banggai",
+"kartu": "Kabupaten Banggai",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "27.002",
+"pp": "27",
+"provinsi": "Sulawesi Tengah",
+"tingkat": "DPD",
+"nama": "Banggai Kepulauan",
+"kartu": "Kabupaten Banggai Kepulauan",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "27.003",
+"pp": "27",
+"provinsi": "Sulawesi Tengah",
+"tingkat": "DPD",
+"nama": "Banggai Laut",
+"kartu": "Kabupaten Banggai Laut",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "27.004",
+"pp": "27",
+"provinsi": "Sulawesi Tengah",
+"tingkat": "DPD",
+"nama": "Buol",
+"kartu": "Kabupaten Buol",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "27.005",
+"pp": "27",
+"provinsi": "Sulawesi Tengah",
+"tingkat": "DPD",
+"nama": "Donggala",
+"kartu": "Kabupaten Donggala",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "27.006",
+"pp": "27",
+"provinsi": "Sulawesi Tengah",
+"tingkat": "DPD",
+"nama": "Morowali",
+"kartu": "Kabupaten Morowali",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "27.007",
+"pp": "27",
+"provinsi": "Sulawesi Tengah",
+"tingkat": "DPD",
+"nama": "Morowali Utara",
+"kartu": "Kabupaten Morowali Utara",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "27.008",
+"pp": "27",
+"provinsi": "Sulawesi Tengah",
+"tingkat": "DPD",
+"nama": "Parigi Moutong",
+"kartu": "Kabupaten Parigi Moutong",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "27.009",
+"pp": "27",
+"provinsi": "Sulawesi Tengah",
+"tingkat": "DPD",
+"nama": "Poso",
+"kartu": "Kabupaten Poso",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "27.010",
+"pp": "27",
+"provinsi": "Sulawesi Tengah",
+"tingkat": "DPD",
+"nama": "Sigi",
+"kartu": "Kabupaten Sigi",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "27.011",
+"pp": "27",
+"provinsi": "Sulawesi Tengah",
+"tingkat": "DPD",
+"nama": "Tojo Una-Una",
+"kartu": "Kabupaten Tojo Una-Una",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "27.012",
+"pp": "27",
+"provinsi": "Sulawesi Tengah",
+"tingkat": "DPD",
+"nama": "Tolitoli",
+"kartu": "Kabupaten Tolitoli",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "27.013",
+"pp": "27",
+"provinsi": "Sulawesi Tengah",
+"tingkat": "DPC",
+"nama": "Palu",
+"kartu": "Kota Palu",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "28.000",
+"pp": "28",
+"provinsi": "Sulawesi Barat",
+"tingkat": "DPW",
+"nama": "DPW Sulawesi Barat",
+"kartu": "Sulawesi Barat",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "28.001",
+"pp": "28",
+"provinsi": "Sulawesi Barat",
+"tingkat": "DPD",
+"nama": "Kabupaten Mamuju",
+"kartu": "Kabupaten Mamuju",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "28.002",
+"pp": "28",
+"provinsi": "Sulawesi Barat",
+"tingkat": "DPD",
+"nama": "Kabupaten Majene",
+"kartu": "Kabupaten Majene",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "28.003",
+"pp": "28",
+"provinsi": "Sulawesi Barat",
+"tingkat": "DPD",
+"nama": "Kabupaten Polewali Mandar",
+"kartu": "Kabupaten Polewali Mandar",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "28.004",
+"pp": "28",
+"provinsi": "Sulawesi Barat",
+"tingkat": "DPD",
+"nama": "Kabupaten Mamasa",
+"kartu": "Kabupaten Mamasa",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "28.005",
+"pp": "28",
+"provinsi": "Sulawesi Barat",
+"tingkat": "DPD",
+"nama": "Kabupaten Pasangkayu",
+"kartu": "Kabupaten Pasangkayu",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "28.006",
+"pp": "28",
+"provinsi": "Sulawesi Barat",
+"tingkat": "DPD",
+"nama": "Kabupaten Mamuju Tengah",
+"kartu": "Kabupaten Mamuju Tengah",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "29.000",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "DPW",
+"nama": "DPW Sulawesi Selatan",
+"kartu": "Sulawesi Selatan",
+"induk": "",
+"status": "Internal"
+},
+{
+"kode": "29.001",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "DPD",
+"nama": "Kepulauan Selayar",
+"kartu": "Kabupaten Kepulauan Selayar",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "29.002",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "DPD",
+"nama": "Bulukumba",
+"kartu": "Kabupaten Bulukumba",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "29.003",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "DPD",
+"nama": "Bantaeng",
+"kartu": "Kabupaten Bantaeng",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "29.004",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "DPD",
+"nama": "Jeneponto",
+"kartu": "Kabupaten Jeneponto",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "29.005",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "DPD",
+"nama": "Takalar",
+"kartu": "Kabupaten Takalar",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "29.006",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "DPD",
+"nama": "Gowa",
+"kartu": "Kabupaten Gowa",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "29.007",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "DPD",
+"nama": "Sinjai",
+"kartu": "Kabupaten Sinjai",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "29.008",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "DPD",
+"nama": "Bone",
+"kartu": "Kabupaten Bone",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "29.009",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "DPD",
+"nama": "Maros",
+"kartu": "Kabupaten Maros",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "29.010",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "DPD",
+"nama": "Pangkajene dan Kepulauan",
+"kartu": "Kabupaten Pangkajene dan Kepulauan",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "29.011",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "DPD",
+"nama": "Barru",
+"kartu": "Kabupaten Barru",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "29.012",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "DPD",
+"nama": "Soppeng",
+"kartu": "Kabupaten Soppeng",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "29.013",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "DPD",
+"nama": "Wajo",
+"kartu": "Kabupaten Wajo",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "29.014",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "DPD",
+"nama": "Sidenreng Rappang",
+"kartu": "Kabupaten Sidenreng Rappang",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "29.015",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "DPD",
+"nama": "Pinrang",
+"kartu": "Kabupaten Pinrang",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "29.016",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "DPD",
+"nama": "Enrekang",
+"kartu": "Kabupaten Enrekang",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "29.017",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "DPD",
+"nama": "Luwu",
+"kartu": "Kabupaten Luwu",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "29.018",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "DPD",
+"nama": "Tana Toraja",
+"kartu": "Kabupaten Tana Toraja",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "29.019",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "DPD",
+"nama": "Luwu Utara",
+"kartu": "Kabupaten Luwu Utara",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "29.020",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "DPD",
+"nama": "Luwu Timur",
+"kartu": "Kabupaten Luwu Timur",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "29.021",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "DPD",
+"nama": "Toraja Utara",
+"kartu": "Kabupaten Toraja Utara",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "29.022",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "DPC",
+"nama": "Makassar",
+"kartu": "Kota Makassar",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "29.022.001",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "PAC",
+"nama": "Mariso",
+"kartu": "Mariso",
+"induk": "29.022",
+"status": "Internal/provisional"
+},
+{
+"kode": "29.022.002",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "PAC",
+"nama": "Mamajang",
+"kartu": "Mamajang",
+"induk": "29.022",
+"status": "Internal/provisional"
+},
+{
+"kode": "29.022.003",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "PAC",
+"nama": "Tamalate",
+"kartu": "Tamalate",
+"induk": "29.022",
+"status": "Internal/provisional"
+},
+{
+"kode": "29.022.004",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "PAC",
+"nama": "Rappocini",
+"kartu": "Rappocini",
+"induk": "29.022",
+"status": "Internal/provisional"
+},
+{
+"kode": "29.022.005",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "PAC",
+"nama": "Makassar",
+"kartu": "Makassar",
+"induk": "29.022",
+"status": "Internal/provisional"
+},
+{
+"kode": "29.022.006",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "PAC",
+"nama": "Ujung Pandang",
+"kartu": "Ujung Pandang",
+"induk": "29.022",
+"status": "Internal/provisional"
+},
+{
+"kode": "29.022.007",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "PAC",
+"nama": "Wajo",
+"kartu": "Wajo",
+"induk": "29.022",
+"status": "Internal/provisional"
+},
+{
+"kode": "29.022.008",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "PAC",
+"nama": "Bontoala",
+"kartu": "Bontoala",
+"induk": "29.022",
+"status": "Internal/provisional"
+},
+{
+"kode": "29.022.009",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "PAC",
+"nama": "Ujung Tanah",
+"kartu": "Ujung Tanah",
+"induk": "29.022",
+"status": "Internal/provisional"
+},
+{
+"kode": "29.022.010",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "PAC",
+"nama": "Kepulauan Sangkarrang",
+"kartu": "Kepulauan Sangkarrang",
+"induk": "29.022",
+"status": "Internal/provisional"
+},
+{
+"kode": "29.022.011",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "PAC",
+"nama": "Tallo",
+"kartu": "Tallo",
+"induk": "29.022",
+"status": "Internal/provisional"
+},
+{
+"kode": "29.022.012",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "PAC",
+"nama": "Panakkukang",
+"kartu": "Panakkukang",
+"induk": "29.022",
+"status": "Internal/provisional"
+},
+{
+"kode": "29.022.013",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "PAC",
+"nama": "Manggala",
+"kartu": "Manggala",
+"induk": "29.022",
+"status": "Internal/provisional"
+},
+{
+"kode": "29.022.014",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "PAC",
+"nama": "Biringkanaya",
+"kartu": "Biringkanaya",
+"induk": "29.022",
+"status": "Internal/provisional"
+},
+{
+"kode": "29.022.015",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "PAC",
+"nama": "Tamalanrea",
+"kartu": "Tamalanrea",
+"induk": "29.022",
+"status": "Internal/provisional"
+},
+{
+"kode": "29.023",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "DPC",
+"nama": "Parepare",
+"kartu": "Kota Parepare",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "29.024",
+"pp": "29",
+"provinsi": "Sulawesi Selatan",
+"tingkat": "DPC",
+"nama": "Palopo",
+"kartu": "Kota Palopo",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "30.000",
+"pp": "30",
+"provinsi": "Sulawesi Tenggara",
+"tingkat": "DPW",
+"nama": "DPW Sulawesi Tenggara",
+"kartu": "Sulawesi Tenggara",
+"induk": "",
+"status": "Internal"
+},
+{
+"kode": "30.001",
+"pp": "30",
+"provinsi": "Sulawesi Tenggara",
+"tingkat": "DPD",
+"nama": "Bombana",
+"kartu": "Kabupaten Bombana",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "30.002",
+"pp": "30",
+"provinsi": "Sulawesi Tenggara",
+"tingkat": "DPD",
+"nama": "Buton",
+"kartu": "Kabupaten Buton",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "30.003",
+"pp": "30",
+"provinsi": "Sulawesi Tenggara",
+"tingkat": "DPD",
+"nama": "Buton Selatan",
+"kartu": "Kabupaten Buton Selatan",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "30.004",
+"pp": "30",
+"provinsi": "Sulawesi Tenggara",
+"tingkat": "DPD",
+"nama": "Buton Tengah",
+"kartu": "Kabupaten Buton Tengah",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "30.005",
+"pp": "30",
+"provinsi": "Sulawesi Tenggara",
+"tingkat": "DPD",
+"nama": "Buton Utara",
+"kartu": "Kabupaten Buton Utara",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "30.006",
+"pp": "30",
+"provinsi": "Sulawesi Tenggara",
+"tingkat": "DPD",
+"nama": "Kolaka",
+"kartu": "Kabupaten Kolaka",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "30.007",
+"pp": "30",
+"provinsi": "Sulawesi Tenggara",
+"tingkat": "DPD",
+"nama": "Kolaka Timur",
+"kartu": "Kabupaten Kolaka Timur",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "30.008",
+"pp": "30",
+"provinsi": "Sulawesi Tenggara",
+"tingkat": "DPD",
+"nama": "Kolaka Utara",
+"kartu": "Kabupaten Kolaka Utara",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "30.009",
+"pp": "30",
+"provinsi": "Sulawesi Tenggara",
+"tingkat": "DPD",
+"nama": "Konawe",
+"kartu": "Kabupaten Konawe",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "30.010",
+"pp": "30",
+"provinsi": "Sulawesi Tenggara",
+"tingkat": "DPD",
+"nama": "Konawe Kepulauan",
+"kartu": "Kabupaten Konawe Kepulauan",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "30.011",
+"pp": "30",
+"provinsi": "Sulawesi Tenggara",
+"tingkat": "DPD",
+"nama": "Konawe Selatan",
+"kartu": "Kabupaten Konawe Selatan",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "30.012",
+"pp": "30",
+"provinsi": "Sulawesi Tenggara",
+"tingkat": "DPD",
+"nama": "Konawe Utara",
+"kartu": "Kabupaten Konawe Utara",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "30.013",
+"pp": "30",
+"provinsi": "Sulawesi Tenggara",
+"tingkat": "DPD",
+"nama": "Muna",
+"kartu": "Kabupaten Muna",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "30.014",
+"pp": "30",
+"provinsi": "Sulawesi Tenggara",
+"tingkat": "DPD",
+"nama": "Muna Barat",
+"kartu": "Kabupaten Muna Barat",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "30.015",
+"pp": "30",
+"provinsi": "Sulawesi Tenggara",
+"tingkat": "DPD",
+"nama": "Wakatobi",
+"kartu": "Kabupaten Wakatobi",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "30.016",
+"pp": "30",
+"provinsi": "Sulawesi Tenggara",
+"tingkat": "DPC",
+"nama": "Baubau",
+"kartu": "Kota Baubau",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "30.017",
+"pp": "30",
+"provinsi": "Sulawesi Tenggara",
+"tingkat": "DPC",
+"nama": "Kendari",
+"kartu": "Kota Kendari",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "31.000",
+"pp": "31",
+"provinsi": "Maluku",
+"tingkat": "DPW",
+"nama": "DPW Maluku",
+"kartu": "Maluku",
+"induk": "",
+"status": "Internal"
+},
+{
+"kode": "31.001",
+"pp": "31",
+"provinsi": "Maluku",
+"tingkat": "DPD",
+"nama": "Buru",
+"kartu": "Kabupaten Buru",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "31.002",
+"pp": "31",
+"provinsi": "Maluku",
+"tingkat": "DPD",
+"nama": "Buru Selatan",
+"kartu": "Kabupaten Buru Selatan",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "31.002.001",
+"pp": "31",
+"provinsi": "Maluku",
+"tingkat": "PAC",
+"nama": "Leksula",
+"kartu": "Leksula",
+"induk": "31.002",
+"status": "Internal/provisional"
+},
+{
+"kode": "31.002.002",
+"pp": "31",
+"provinsi": "Maluku",
+"tingkat": "PAC",
+"nama": "Kepala Madan",
+"kartu": "Kepala Madan",
+"induk": "31.002",
+"status": "Internal/provisional"
+},
+{
+"kode": "31.002.003",
+"pp": "31",
+"provinsi": "Maluku",
+"tingkat": "PAC",
+"nama": "Waesama",
+"kartu": "Waesama",
+"induk": "31.002",
+"status": "Internal/provisional"
+},
+{
+"kode": "31.002.004",
+"pp": "31",
+"provinsi": "Maluku",
+"tingkat": "PAC",
+"nama": "Namrole",
+"kartu": "Namrole",
+"induk": "31.002",
+"status": "Internal/provisional"
+},
+{
+"kode": "31.002.005",
+"pp": "31",
+"provinsi": "Maluku",
+"tingkat": "PAC",
+"nama": "Ambalau",
+"kartu": "Ambalau",
+"induk": "31.002",
+"status": "Internal/provisional"
+},
+{
+"kode": "31.002.006",
+"pp": "31",
+"provinsi": "Maluku",
+"tingkat": "PAC",
+"nama": "Fena Fafan",
+"kartu": "Fena Fafan",
+"induk": "31.002",
+"status": "Internal/provisional"
+},
+{
+"kode": "31.003",
+"pp": "31",
+"provinsi": "Maluku",
+"tingkat": "DPD",
+"nama": "Kepulauan Aru",
+"kartu": "Kabupaten Kepulauan Aru",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "31.004",
+"pp": "31",
+"provinsi": "Maluku",
+"tingkat": "DPD",
+"nama": "Maluku Barat Daya",
+"kartu": "Kabupaten Maluku Barat Daya",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "31.005",
+"pp": "31",
+"provinsi": "Maluku",
+"tingkat": "DPD",
+"nama": "Maluku Tengah",
+"kartu": "Kabupaten Maluku Tengah",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "31.006",
+"pp": "31",
+"provinsi": "Maluku",
+"tingkat": "DPD",
+"nama": "Maluku Tenggara",
+"kartu": "Kabupaten Maluku Tenggara",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "31.007",
+"pp": "31",
+"provinsi": "Maluku",
+"tingkat": "DPD",
+"nama": "Seram Bagian Barat",
+"kartu": "Kabupaten Seram Bagian Barat",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "31.008",
+"pp": "31",
+"provinsi": "Maluku",
+"tingkat": "DPD",
+"nama": "Seram Bagian Timur",
+"kartu": "Kabupaten Seram Bagian Timur",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "31.009",
+"pp": "31",
+"provinsi": "Maluku",
+"tingkat": "DPD",
+"nama": "Kepulauan Tanimbar",
+"kartu": "Kabupaten Kepulauan Tanimbar",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "31.010",
+"pp": "31",
+"provinsi": "Maluku",
+"tingkat": "DPC",
+"nama": "Ambon",
+"kartu": "Kota Ambon",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "31.011",
+"pp": "31",
+"provinsi": "Maluku",
+"tingkat": "DPC",
+"nama": "Tual",
+"kartu": "Kota Tual",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "32.000",
+"pp": "32",
+"provinsi": "Papua Barat",
+"tingkat": "DPW",
+"nama": "DPW Papua Barat",
+"kartu": "Papua Barat",
+"induk": "",
+"status": "Internal"
+},
+{
+"kode": "32.001",
+"pp": "32",
+"provinsi": "Papua Barat",
+"tingkat": "DPD",
+"nama": "Teluk Wondama",
+"kartu": "Kabupaten Teluk Wondama",
+"induk": "",
+"status": "Usulan sebelumnya"
+},
+{
+"kode": "32.001.001",
+"pp": "32",
+"provinsi": "Papua Barat",
+"tingkat": "PAC",
+"nama": "Naikere",
+"kartu": "Naikere",
+"induk": "32.001",
+"status": "Internal/provisional"
+},
+{
+"kode": "32.002",
+"pp": "32",
+"provinsi": "Papua Barat",
+"tingkat": "DPD",
+"nama": "Manokwari Selatan",
+"kartu": "Kabupaten Manokwari Selatan",
+"induk": "",
+"status": "Usulan sebelumnya"
+},
+{
+"kode": "32.002.001",
+"pp": "32",
+"provinsi": "Papua Barat",
+"tingkat": "PAC",
+"nama": "Ransiki",
+"kartu": "Ransiki",
+"induk": "32.002",
+"status": "Internal/provisional"
+},
+{
+"kode": "32.002.002",
+"pp": "32",
+"provinsi": "Papua Barat",
+"tingkat": "PAC",
+"nama": "Tahota",
+"kartu": "Tahota",
+"induk": "32.002",
+"status": "Internal/provisional"
+},
+{
+"kode": "32.002.003",
+"pp": "32",
+"provinsi": "Papua Barat",
+"tingkat": "PAC",
+"nama": "Dataran Isim",
+"kartu": "Dataran Isim",
+"induk": "32.002",
+"status": "Internal/provisional"
+},
+{
+"kode": "32.002.004",
+"pp": "32",
+"provinsi": "Papua Barat",
+"tingkat": "PAC",
+"nama": "Neney",
+"kartu": "Neney",
+"induk": "32.002",
+"status": "Internal/provisional"
+},
+{
+"kode": "32.002.005",
+"pp": "32",
+"provinsi": "Papua Barat",
+"tingkat": "PAC",
+"nama": "Momiwaren",
+"kartu": "Momiwaren",
+"induk": "32.002",
+"status": "Internal/provisional"
+},
+{
+"kode": "32.002.006",
+"pp": "32",
+"provinsi": "Papua Barat",
+"tingkat": "PAC",
+"nama": "Oransbari",
+"kartu": "Oransbari",
+"induk": "32.002",
+"status": "Internal/provisional"
+},
+{
+"kode": "32.003",
+"pp": "32",
+"provinsi": "Papua Barat",
+"tingkat": "DPD",
+"nama": "Manokwari",
+"kartu": "Kabupaten Manokwari",
+"induk": "",
+"status": "Usulan sebelumnya"
+},
+{
+"kode": "33.000",
+"pp": "33",
+"provinsi": "Papua Tengah",
+"tingkat": "DPW",
+"nama": "DPW Papua Tengah",
+"kartu": "Papua Tengah",
+"induk": "",
+"status": "Internal"
+},
+{
+"kode": "33.001",
+"pp": "33",
+"provinsi": "Papua Tengah",
+"tingkat": "DPD",
+"nama": "Nabire",
+"kartu": "Kabupaten Nabire",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "33.002",
+"pp": "33",
+"provinsi": "Papua Tengah",
+"tingkat": "DPD",
+"nama": "Paniai",
+"kartu": "Kabupaten Paniai",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "33.003",
+"pp": "33",
+"provinsi": "Papua Tengah",
+"tingkat": "DPD",
+"nama": "Mimika",
+"kartu": "Kabupaten Mimika",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "33.004",
+"pp": "33",
+"provinsi": "Papua Tengah",
+"tingkat": "DPD",
+"nama": "Puncak Jaya",
+"kartu": "Kabupaten Puncak Jaya",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "33.005",
+"pp": "33",
+"provinsi": "Papua Tengah",
+"tingkat": "DPD",
+"nama": "Puncak",
+"kartu": "Kabupaten Puncak",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "33.006",
+"pp": "33",
+"provinsi": "Papua Tengah",
+"tingkat": "DPD",
+"nama": "Dogiyai",
+"kartu": "Kabupaten Dogiyai",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "33.007",
+"pp": "33",
+"provinsi": "Papua Tengah",
+"tingkat": "DPD",
+"nama": "Intan Jaya",
+"kartu": "Kabupaten Intan Jaya",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "33.008",
+"pp": "33",
+"provinsi": "Papua Tengah",
+"tingkat": "DPD",
+"nama": "Deiyai",
+"kartu": "Kabupaten Deiyai",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "34.000",
+"pp": "34",
+"provinsi": "Papua",
+"tingkat": "DPW",
+"nama": "DPW Papua",
+"kartu": "Papua",
+"induk": "",
+"status": "Internal"
+},
+{
+"kode": "34.001",
+"pp": "34",
+"provinsi": "Papua",
+"tingkat": "DPD",
+"nama": "Biak Numfor",
+"kartu": "Kabupaten Biak Numfor",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "34.002",
+"pp": "34",
+"provinsi": "Papua",
+"tingkat": "DPD",
+"nama": "Jayapura",
+"kartu": "Kabupaten Jayapura",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "34.003",
+"pp": "34",
+"provinsi": "Papua",
+"tingkat": "DPD",
+"nama": "Keerom",
+"kartu": "Kabupaten Keerom",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "34.004",
+"pp": "34",
+"provinsi": "Papua",
+"tingkat": "DPD",
+"nama": "Kepulauan Yapen",
+"kartu": "Kabupaten Kepulauan Yapen",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "34.005",
+"pp": "34",
+"provinsi": "Papua",
+"tingkat": "DPD",
+"nama": "Mamberamo Raya",
+"kartu": "Kabupaten Mamberamo Raya",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "34.006",
+"pp": "34",
+"provinsi": "Papua",
+"tingkat": "DPD",
+"nama": "Sarmi",
+"kartu": "Kabupaten Sarmi",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "34.007",
+"pp": "34",
+"provinsi": "Papua",
+"tingkat": "DPD",
+"nama": "Supiori",
+"kartu": "Kabupaten Supiori",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "34.008",
+"pp": "34",
+"provinsi": "Papua",
+"tingkat": "DPD",
+"nama": "Waropen",
+"kartu": "Kabupaten Waropen",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "34.009",
+"pp": "34",
+"provinsi": "Papua",
+"tingkat": "DPC",
+"nama": "Kota Jayapura",
+"kartu": "Kota Jayapura",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "35.000",
+"pp": "35",
+"provinsi": "Papua Selatan",
+"tingkat": "DPW",
+"nama": "DPW Papua Selatan",
+"kartu": "Papua Selatan",
+"induk": "",
+"status": "Internal"
+},
+{
+"kode": "35.001",
+"pp": "35",
+"provinsi": "Papua Selatan",
+"tingkat": "DPD",
+"nama": "Merauke",
+"kartu": "Kabupaten Merauke",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "35.002",
+"pp": "35",
+"provinsi": "Papua Selatan",
+"tingkat": "DPD",
+"nama": "Boven Digoel",
+"kartu": "Kabupaten Boven Digoel",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "35.003",
+"pp": "35",
+"provinsi": "Papua Selatan",
+"tingkat": "DPD",
+"nama": "Mappi",
+"kartu": "Kabupaten Mappi",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "35.004",
+"pp": "35",
+"provinsi": "Papua Selatan",
+"tingkat": "DPD",
+"nama": "Asmat",
+"kartu": "Kabupaten Asmat",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "36.000",
+"pp": "36",
+"provinsi": "Papua Barat Daya",
+"tingkat": "DPW",
+"nama": "DPW Papua Barat Daya",
+"kartu": "Papua Barat Daya",
+"induk": "",
+"status": "Internal"
+},
+{
+"kode": "36.001",
+"pp": "36",
+"provinsi": "Papua Barat Daya",
+"tingkat": "DPD",
+"nama": "Maybrat",
+"kartu": "Kabupaten Maybrat",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "36.002",
+"pp": "36",
+"provinsi": "Papua Barat Daya",
+"tingkat": "DPD",
+"nama": "Raja Ampat",
+"kartu": "Kabupaten Raja Ampat",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "36.003",
+"pp": "36",
+"provinsi": "Papua Barat Daya",
+"tingkat": "DPD",
+"nama": "Kabupaten Sorong",
+"kartu": "Kabupaten Sorong",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "36.004",
+"pp": "36",
+"provinsi": "Papua Barat Daya",
+"tingkat": "DPD",
+"nama": "Sorong Selatan",
+"kartu": "Kabupaten Sorong Selatan",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "36.005",
+"pp": "36",
+"provinsi": "Papua Barat Daya",
+"tingkat": "DPD",
+"nama": "Tambrauw",
+"kartu": "Kabupaten Tambrauw",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "36.006",
+"pp": "36",
+"provinsi": "Papua Barat Daya",
+"tingkat": "DPC",
+"nama": "Kota Sorong",
+"kartu": "Kota Sorong",
+"induk": "",
+"status": "Template percakapan"
+},
+{
+"kode": "37.000",
+"pp": "37",
+"provinsi": "Maluku Utara",
+"tingkat": "DPW",
+"nama": "DPW Maluku Utara",
+"kartu": "Maluku Utara",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "37.001",
+"pp": "37",
+"provinsi": "Maluku Utara",
+"tingkat": "DPD",
+"nama": "Kabupaten Halmahera Barat",
+"kartu": "Kabupaten Halmahera Barat",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "37.002",
+"pp": "37",
+"provinsi": "Maluku Utara",
+"tingkat": "DPD",
+"nama": "Kabupaten Halmahera Tengah",
+"kartu": "Kabupaten Halmahera Tengah",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "37.003",
+"pp": "37",
+"provinsi": "Maluku Utara",
+"tingkat": "DPD",
+"nama": "Kabupaten Halmahera Utara",
+"kartu": "Kabupaten Halmahera Utara",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "37.004",
+"pp": "37",
+"provinsi": "Maluku Utara",
+"tingkat": "DPD",
+"nama": "Kabupaten Halmahera Selatan",
+"kartu": "Kabupaten Halmahera Selatan",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "37.005",
+"pp": "37",
+"provinsi": "Maluku Utara",
+"tingkat": "DPD",
+"nama": "Kabupaten Kepulauan Sula",
+"kartu": "Kabupaten Kepulauan Sula",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "37.006",
+"pp": "37",
+"provinsi": "Maluku Utara",
+"tingkat": "DPD",
+"nama": "Kabupaten Halmahera Timur",
+"kartu": "Kabupaten Halmahera Timur",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "37.007",
+"pp": "37",
+"provinsi": "Maluku Utara",
+"tingkat": "DPD",
+"nama": "Kabupaten Pulau Morotai",
+"kartu": "Kabupaten Pulau Morotai",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "37.008",
+"pp": "37",
+"provinsi": "Maluku Utara",
+"tingkat": "DPD",
+"nama": "Kabupaten Pulau Taliabu",
+"kartu": "Kabupaten Pulau Taliabu",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "37.009",
+"pp": "37",
+"provinsi": "Maluku Utara",
+"tingkat": "DPC",
+"nama": "Kota Ternate",
+"kartu": "Kota Ternate",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "37.010",
+"pp": "37",
+"provinsi": "Maluku Utara",
+"tingkat": "DPC",
+"nama": "Kota Tidore Kepulauan",
+"kartu": "Kota Tidore Kepulauan",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "38.000",
+"pp": "38",
+"provinsi": "Papua Pegunungan",
+"tingkat": "DPW",
+"nama": "DPW Papua Pegunungan",
+"kartu": "Papua Pegunungan",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "38.001",
+"pp": "38",
+"provinsi": "Papua Pegunungan",
+"tingkat": "DPD",
+"nama": "Kabupaten Jayawijaya",
+"kartu": "Kabupaten Jayawijaya",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "38.002",
+"pp": "38",
+"provinsi": "Papua Pegunungan",
+"tingkat": "DPD",
+"nama": "Kabupaten Pegunungan Bintang",
+"kartu": "Kabupaten Pegunungan Bintang",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "38.003",
+"pp": "38",
+"provinsi": "Papua Pegunungan",
+"tingkat": "DPD",
+"nama": "Kabupaten Yahukimo",
+"kartu": "Kabupaten Yahukimo",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "38.004",
+"pp": "38",
+"provinsi": "Papua Pegunungan",
+"tingkat": "DPD",
+"nama": "Kabupaten Tolikara",
+"kartu": "Kabupaten Tolikara",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "38.005",
+"pp": "38",
+"provinsi": "Papua Pegunungan",
+"tingkat": "DPD",
+"nama": "Kabupaten Mamberamo Tengah",
+"kartu": "Kabupaten Mamberamo Tengah",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "38.006",
+"pp": "38",
+"provinsi": "Papua Pegunungan",
+"tingkat": "DPD",
+"nama": "Kabupaten Yalimo",
+"kartu": "Kabupaten Yalimo",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "38.007",
+"pp": "38",
+"provinsi": "Papua Pegunungan",
+"tingkat": "DPD",
+"nama": "Kabupaten Lanny Jaya",
+"kartu": "Kabupaten Lanny Jaya",
+"induk": "",
+"status": "Tambahan 20261104"
+},
+{
+"kode": "38.008",
+"pp": "38",
+"provinsi": "Papua Pegunungan",
+"tingkat": "DPD",
+"nama": "Kabupaten Nduga",
+"kartu": "Kabupaten Nduga",
+"induk": "",
+"status": "Tambahan 20261104"
+}
+]
+}
